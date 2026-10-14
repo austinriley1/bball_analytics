@@ -1,0 +1,425 @@
+originating_team,year,round,rights_holder,notes
+ATL,2027,1,SAS,No protections
+ATL,2027,2,ATL,
+ATL,2028,1,ATL,
+ATL,2028,2,BKN,No protections
+ATL,2029,1,ATL,
+ATL,2029,2,ATL,
+ATL,2030,1,ATL,
+ATL,2030,2,OKC,No protections
+ATL,2031,1,ATL,
+ATL,2031,2,ATL,"ATL has the right to swap its 2031 2nd round pick for HOU's 2031 2nd round pick protected for selections 56-60 (if this pick falls within its protected range and is therefore not conveyable, then HOU's commitment to ATL will be lifted)"
+ATL,2032,1,ATL,
+ATL,2032,2,ATL,No protections
+ATL,2033,1,ATL,
+ATL,2033,2,ATL,
+BOS,2027,1,BOS,
+BOS,2027,2,BOS,
+BOS,2028,1,SAS,"SAS has the right to swap its 2028 1st round pick for BOS's 2028 1st round pick protected for selection 1; if this pick falls on its protected selection and is therefore not conveyable, then BOS will instead convey its 2028 2nd round pick to SAS protected for selections 46-60 (if this pick falls within its protected range and is therefore not conveyed, then BOS's commitment to SAS will be lifted); BOS may convey the SAS 1st round pick to PHI (see BOS incoming)"
+BOS,2028,2,NYK,Protected 31-45
+BOS,2029,1,BOS,
+BOS,2029,2,OKC,No protections
+BOS,2030,1,BOS,
+BOS,2030,2,BKN,No protections
+BOS,2031,1,BOS,
+BOS,2031,2,BOS,No protections
+BOS,2032,1,BOS,
+BOS,2032,2,BOS,
+BOS,2033,1,BOS,
+BOS,2033,2,BOS,
+BKN,2027,1,HOU,HOU has the right to swap its 2027 1st round pick for BKN's 2027 1st round pick
+BKN,2027,2,BKN,
+BKN,2028,1,BKN,
+BKN,2028,2,BKN,
+BKN,2029,1,BKN,
+BKN,2029,2,BKN,
+BKN,2030,1,BKN,
+BKN,2030,2,BKN,
+BKN,2031,1,BKN,
+BKN,2031,2,BKN,
+BKN,2032,1,BKN,
+BKN,2032,2,BKN,
+BKN,2033,1,BKN,
+BKN,2033,2,BKN,
+CHA,2027,1,CHA,
+CHA,2027,2,SAC,No protections
+CHA,2028,1,CHA,CHA has the right to swap its 2028 1st round pick for MIN's 2028 1st round pick
+CHA,2028,2,CHA,No protections
+CHA,2029,1,CHA,
+CHA,2029,2,CHA,
+CHA,2030,1,CHA,
+CHA,2030,2,BOS,Protected 31-55
+CHA,2031,1,CHA,
+CHA,2031,2,CHA,
+CHA,2032,1,CHA,
+CHA,2032,2,CHA,
+CHA,2033,1,CHA,
+CHA,2033,2,CHA,
+CHI,2027,1,CHI,
+CHI,2027,2,DAL,No protections
+CHI,2028,1,CHI,
+CHI,2028,2,CHI,
+CHI,2029,1,CHI,
+CHI,2029,2,CHI,
+CHI,2030,1,CHI,
+CHI,2030,2,CHI,CHI has the right to swap its 2030 2nd round pick for IND's 2030 2nd round pick
+CHI,2031,1,CHI,
+CHI,2031,2,CHI,
+CHI,2032,1,CHI,
+CHI,2032,2,CHI,
+CHI,2033,1,CHI,
+CHI,2033,2,CHI,
+CLE,2027,1,CLE,
+CLE,2027,2,CHI,No protections
+CLE,2028,1,UTA,"UTA will receive the most favorable of its 2028 1st round pick, CLE's 2028 1st round pick and the LAL' 2028 1st round pick; the LAL will receive the less favorable of (1) its pick and (2) the more favorable of the UTA pick and the CLE pick; ATL will receive the more favorable of (1) its 2028 1st round pick and (2) the less favorable of the UTA pick and the CLE pick and CLE will receive the least favorable of the three (via UTA's right to swap for CLE; via UTA's right to swap UTA or CLE for LAL; via ATL's right to swap for UTA or CLE)"
+CLE,2028,2,UTA,No protections
+CLE,2029,1,CLE,
+CLE,2029,2,ATL,No protections
+CLE,2030,1,CLE,
+CLE,2030,2,SAS,No protections
+CLE,2031,1,CLE,
+CLE,2031,2,CLE,
+CLE,2032,1,CLE,
+CLE,2032,2,UTA,No protections
+CLE,2033,1,CLE,
+CLE,2033,2,CLE,
+DAL,2027,1,CHA,Protected 1-2
+DAL,2027,2,DAL,
+DAL,2028,1,DAL,
+DAL,2028,2,LAC,No protections
+DAL,2029,1,HOU,"HOU will receive the two most favorable of its 2029 1st round pick, DAL' 2029 1st round pick and PHX's 2029 1st round pick and BKN will receive the least favorable of the three (via DAL and PHX to BKN; via DAL or PHX to HOU; via HOU's right to swap for DAL or PHX)"
+DAL,2029,2,BKN,No protections
+DAL,2030,1,SAS,"SAS will receive the most / more favorable of its 2030 1st round pick, DAL' 2030 1st round pick and MIN's 2030 1st round pick protected for selection 1; DAL will receive the less favorable of its pick and the SAS pick; MIN will receive the less favorable of (1) its pick and (2) the more favorable of the SAS pick and the DAL pick"
+DAL,2030,2,BKN,No protections
+DAL,2031,1,DAL,
+DAL,2031,2,DET,No protections
+DAL,2032,1,DAL,
+DAL,2032,2,NYK,No protections
+DAL,2033,1,DAL,
+DAL,2033,2,DAL,
+DEN,2027,1,OKC,Protected 1-5
+DEN,2027,2,UTA,No protections
+DEN,2028,1,DEN,
+DEN,2028,2,WAS,Protected 31-33
+DEN,2029,1,OKC,"only if and at least two years after DEN conveys a first potential 1st round pick to OKC, then DEN's next potential 1st round pick to OKC protected for selections 1-5 in 2029 and 1-5 in 2030; if DEN has not conveyed this next potential 1st round pick to OKC by 2030, then DEN will instead convey its 2030 2nd round pick to OKC (if the 1st round pick is conveyed, then OKC will still receive the 2nd round pick via CHA); OKC may convey the 2nd round pick to MEM (see OKC incoming)"
+DEN,2029,2,CHA,No protections
+DEN,2030,1,DEN,
+DEN,2030,2,DEN,
+DEN,2031,1,DEN,
+DEN,2031,2,CHI,No protections
+DEN,2032,1,BKN,No protections
+DEN,2032,2,BKN,No protections
+DEN,2033,1,DEN,
+DEN,2033,2,DEN,
+DET,2027,1,DET,
+DET,2027,2,DET,
+DET,2028,1,DET,
+DET,2028,2,DET,"UTA will receive the least favorable of (1) DET's 2028 2nd round pick protected for selections 56-60, (2) the less favorable of CHA's 2028 2nd round pick and the LAC' 2028 2nd round pick, (3) MIA's 2028 2nd round pick round pick, conveyable if DAL conveys a 1st round pick to CHA in 2027, and (iv) NYK's 2028 2nd round pick (via CHA to DAL to DET; via MIA to SAS to DAL to DET; via NYK to DET)"
+DET,2028,2,PHI,Protected 31-55
+DET,2029,1,DET,
+DET,2029,2,DET,
+DET,2030,1,DET,
+DET,2030,2,DET,
+DET,2031,1,DET,
+DET,2031,2,OKC,No protections
+DET,2032,1,DET,
+DET,2032,2,DET,
+DET,2033,1,DET,
+DET,2033,2,DET,
+GSW,2027,1,GSW,
+GSW,2027,2,GSW,
+GSW,2028,1,GSW,
+GSW,2028,2,GSW,
+GSW,2029,1,GSW,
+GSW,2029,2,BKN,No protections
+GSW,2030,1,MEM,Protected 1-20
+GSW,2030,2,GSW,
+GSW,2031,1,GSW,
+GSW,2031,2,GSW,CHI will receive the more favorable of MIN's 2031 2nd round pick and GSW's 2031 2nd round pick and DET will receive the less favorable of the two (via MIN's right to swap for GSW)
+GSW,2032,1,GSW,
+GSW,2032,2,MEM,Protected 31-50
+GSW,2033,1,GSW,
+GSW,2033,2,GSW,
+HOU,2027,1,HOU,HOU has the right to swap its 2027 1st round pick for BKN's 2027 1st round pick
+HOU,2027,2,HOU,
+HOU,2028,1,HOU,
+HOU,2028,2,CHA,No protections
+HOU,2029,1,HOU,
+HOU,2029,2,DAL,No protections
+HOU,2030,1,HOU,
+HOU,2030,2,HOU,
+HOU,2031,1,HOU,
+HOU,2031,2,BOS,Protected 31-55
+HOU,2031,2,ATL,"ATL has the right to swap its 2031 2nd round pick for HOU's 2031 2nd round pick protected for selections 56-60 (if this pick falls within its protected range and is therefore not conveyable, then HOU's commitment to ATL will be lifted)"
+HOU,2032,1,HOU,
+HOU,2032,2,HOU,
+HOU,2033,1,HOU,
+HOU,2033,2,CHA,No protections
+IND,2027,1,IND,
+IND,2027,2,IND,
+IND,2028,1,IND,
+IND,2028,2,IND,
+IND,2029,1,LAC,No protections
+IND,2029,2,IND,No protections
+IND,2030,1,IND,
+IND,2030,2,CHI,CHI has the right to swap its 2030 2nd round pick for IND's 2030 2nd round pick
+IND,2031,1,IND,
+IND,2031,2,WAS,WAS will receive the more favorable of IND's 2031 2nd round pick and MIA's 2031 2nd round pick; MEM will receive the more favorable of (1) its 2031 2nd round pick and (2) the less favorable of the IND pick and the MIA pick and IND will receive the least favorable of the three (via MIA's right to swap for IND; via UTA to WAS; via MEM' right to swap for MIA or IND)
+IND,2032,1,IND,
+IND,2032,2,IND,
+IND,2033,1,IND,
+IND,2033,2,IND,
+LAC,2027,1,LAC,
+LAC,2027,2,UTA,No protections
+LAC,2028,1,PHI,No protections
+LAC,2028,2,LAC,
+LAC,2029,1,PHI,"PHI has the right to swap its 2029 1st round pick for the LAC' 2029 1st round pick protected for selections 1-3 (if this pick falls within its protected range and is therefore not conveyable, then the LAC' commitment to PHI will be lifted)"
+LAC,2029,2,SAS,No protections
+LAC,2030,1,LAC,
+LAC,2030,2,LAC,
+LAC,2031,1,LAC,
+LAC,2031,2,LAC,
+LAC,2032,1,LAC,
+LAC,2032,2,LAC,
+LAC,2033,1,LAC,
+LAC,2033,2,LAC,
+LAL,2027,1,MEM,Protected 1-4
+LAL,2027,2,BKN,No protections
+LAL,2028,1,UTA,"UTA will receive the most favorable of its 2028 1st round pick, CLE's 2028 1st round pick and the LAL' 2028 1st round pick; the LAL will receive the less favorable of (1) its pick and (2) the more favorable of the UTA pick and the CLE pick; ATL will receive the more favorable of (1) its 2028 1st round pick and (2) the less favorable of the UTA pick and the CLE pick and CLE will receive the least favorable of the three (via UTA's right to swap for CLE; via UTA's right to swap UTA or CLE for LAL; via ATL's right to swap for UTA or CLE)"
+LAL,2028,2,LAL,
+LAL,2029,1,DAL,No protections
+LAL,2029,2,WAS,No protections
+LAL,2030,1,UTA,UTA has the right to swap its 2030 1st round pick for the LAL' 2030 1st round pick
+LAL,2030,2,BKN,No protections
+LAL,2031,1,UTA,No protections
+LAL,2031,2,BKN,No protections
+LAL,2032,1,LAL,
+LAL,2032,2,LAL,
+LAL,2033,1,UTA,No protections
+LAL,2033,2,LAL,
+MEM,2027,1,MEM,
+MEM,2027,2,CHA,No protections
+MEM,2028,1,MEM,
+MEM,2028,2,BKN,No protections
+MEM,2029,1,MEM,"MEM has the right to swap its 2029 1st round pick for ORL's 2029 1st round pick protected for selections 1-2; if this pick falls within its protected range and is therefore not conveyable, then ORL will instead convey its 2029 2nd round pick to MEM"
+MEM,2029,2,BKN,No protections
+MEM,2030,1,MEM,
+MEM,2030,2,MIN,Protected 31-50
+MEM,2031,1,MEM,
+MEM,2031,2,MEM,
+MEM,2032,1,MEM,
+MEM,2032,2,MEM,MEM has the right to swap its 2032 2nd round pick for PHI's 2032 2nd round pick
+MEM,2033,1,MEM,
+MEM,2033,2,MEM,
+MIA,2027,1,CHA,Protected 1-14
+MIA,2027,2,MIA,No protections
+MIA,2028,1,MIA,
+MIA,2028,2,DET,No protections
+MIA,2029,1,MIA,
+MIA,2029,2,MIA,
+MIA,2030,1,MIL,POR has the right to swap its 2030 1st round pick for MIL's 2030 1st round pick; MIL then has the right to swap the less favorable of its pick and the POR pick for MIA's 2030 1st round pick
+MIA,2030,2,MIA,
+MIA,2031,1,MIL,No protections
+MIA,2031,2,MIA,WAS will receive the more favorable of IND's 2031 2nd round pick and MIA's 2031 2nd round pick; MEM will receive the more favorable of (1) its 2031 2nd round pick and (2) the less favorable of the IND pick and the MIA pick and IND will receive the least favorable of the three (via MIA's right to swap for IND; via UTA to WAS; via MEM' right to swap for MIA or IND)
+MIA,2032,1,MIA,
+MIA,2032,2,BKN,No protections
+MIA,2033,1,MIL,No protections
+MIA,2033,2,MIL,No protections
+MIL,2027,1,NOP,"NOP will receive the more favorable of its 2027 1st round pick and MIL's 2027 1st round pick and ATL will receive the less favorable of the two protected for selections 1-4; if this pick falls within its protected range and is therefore not conveyable, then NOP' commitment to ATL will be lifted and NOP will instead receive both picks (via NOP)"
+MIL,2027,2,DET,No protections
+MIL,2028,1,POR,"POR will receive the more favorable of its 2028 1st round pick and MIL's 2028 1st round pick; WAS will receive the more favorable of (1) the more favorable of (a) its 2028 1st round pick and (b) the least / less favorable of BKN's 2028 1st round pick, PHI's 2028 1st round pick protected for selections 1-8 and PHX's 2028 1st round pick and (2) the less favorable of the MIL pick and the POR pick and MIL will receive the less favorable of (1) and (2) (via POR's right to swap for MIL; via WAS's right to swap WAS, BKN, PHI or PHX for MIL or POR)"
+MIL,2028,2,MIL,
+MIL,2029,1,MIL,
+MIL,2029,2,MIL,
+MIL,2030,1,MIL,
+MIL,2030,2,ORL,No protections
+MIL,2031,1,MIL,
+MIL,2031,2,CHA,No protections
+MIL,2032,1,MIL,
+MIL,2032,2,CHA,No protections
+MIL,2033,1,MIL,
+MIL,2033,2,MIL,
+MIN,2027,1,MIN,
+MIN,2027,2,POR,No protections
+MIN,2028,1,CHA,CHA has the right to swap its 2028 1st round pick for MIN's 2028 1st round pick
+MIN,2028,2,DEN,No protections
+MIN,2029,1,CHA,"CHA has the right to swap the least favorable of its 2029 1st round pick, UTA's 2029 1st round pick and CLE's 2029 1st round pick for MIN's 2029 1st round pick protected for selections 6-30 (if the MIN pick falls within its protected range of 6-30 and is therefore not conveyable to CHA as part of this conveyance, then this commitment of MIN's to CHA and this swap right of CHA's will be lifted); CHA may convey the pick it receives to PHX"
+MIN,2029,2,CHA,No protections
+MIN,2030,1,MIN,
+MIN,2030,2,OKC,No protections
+MIN,2031,1,SAC,No protections
+MIN,2031,2,CHI,CHI will receive the more favorable of MIN's 2031 2nd round pick and GSW's 2031 2nd round pick and DET will receive the less favorable of the two (via MIN's right to swap for GSW)
+MIN,2032,1,MIN,
+MIN,2032,2,CHA,No protections
+MIN,2033,1,CHA,No protections
+MIN,2033,2,CHA,No protections
+NOP,2027,1,NOP,"NOP will receive the more favorable of its 2027 1st round pick and MIL's 2027 1st round pick and ATL will receive the less favorable of the two protected for selections 1-4; if this pick falls within its protected range and is therefore not conveyable, then NOP' commitment to ATL will be lifted and NOP will instead receive both picks (via NOP)"
+NOP,2027,2,NOP,
+NOP,2028,1,NOP,
+NOP,2028,2,SAS,No protections
+NOP,2029,1,NOP,
+NOP,2029,2,SAS,No protections
+NOP,2030,1,NOP,
+NOP,2030,2,NOP,
+NOP,2031,1,NOP,
+NOP,2031,2,ORL,ORL will receive the more favorable of its 2031 2nd round pick and NOP' 2031 2nd round pick and OKC will receive the less favorable of the two (via ORL's right to swap for NOP)
+NOP,2032,1,NOP,
+NOP,2032,2,NOP,
+NOP,2033,1,NOP,
+NOP,2033,2,NOP,
+NYK,2027,1,BKN,No protections
+NYK,2027,2,NYK,
+NYK,2028,1,BKN,"if (1) PHI's 2028 1st round pick protected for selections 1-8 is conveyed to BKN and is the third most favorable of PHI, BKN's 2028 1st round pick, PHX's 2028 1st round pick and NYK's 2028 1st round pick and (2) NYK is the most or second most favorable of the four, then BKN will receive the most and third most favorable of the four; in all other scenarios, BKN will receive the most / two most favorable of these; if PHI if conveyed and / or NYK is less favorable than BKN and PHX, then NYK will receive the least favorable of NYK, BKN and PHX; in all other scenarios, NYK will receive the second most favorable of the three; WAS will receive the more favorable of (1) its 2028 1st round pick and (2) the least / less favorable of PHI if conveyed, BKN and PHX and PHX will receive the less favorable of (1) and (2); WAS may swap the pick it receives for MIL or POR (see WAS incoming) (via BKN's right to swap BKN or PHI for PHX; via BKN's right to swap BKN or PHX for NYK; via WAS's right to swap for PHX, BKN or PHI)"
+NYK,2028,2,DET,No protections
+NYK,2029,1,BKN,No protections
+NYK,2029,2,NYK,
+NYK,2030,1,NYK,
+NYK,2030,2,ATL,No protections
+NYK,2031,1,BKN,No protections
+NYK,2031,2,CHI,No protections
+NYK,2032,1,NYK,
+NYK,2032,2,NYK,
+NYK,2033,1,NYK,
+NYK,2033,2,NYK,
+OKC,2027,1,OKC,OKC has the right to swap the less favorable of its 2027 1st round pick and DEN's 2027 1st round pick protected for selections 1-5 for the LAC' 2027 1st round pick; the LAC then have the right to swap the OKC pick or the DEN pick for TOR's 2027 1st round pick
+OKC,2027,2,OKC,
+OKC,2028,1,OKC,OKC has the right to swap its 2028 1st round pick for DAL' 2028 1st round pick
+OKC,2028,2,OKC,
+OKC,2029,1,OKC,
+OKC,2029,2,OKC,
+OKC,2030,1,OKC,
+OKC,2030,2,OKC,
+OKC,2031,1,OKC,
+OKC,2031,2,OKC,
+OKC,2032,1,OKC,
+OKC,2032,2,OKC,
+OKC,2033,1,OKC,
+OKC,2033,2,MEM,No protections
+ORL,2027,1,ORL,
+ORL,2027,2,ORL,
+ORL,2028,1,POR,No protections
+ORL,2028,2,CHA,No protections
+ORL,2029,1,MEM,"MEM has the right to swap its 2029 1st round pick for ORL's 2029 1st round pick protected for selections 1-2; if this pick falls within its protected range and is therefore not conveyable, then ORL will instead convey its 2029 2nd round pick to MEM"
+ORL,2029,2,ORL,
+ORL,2030,1,MEM,No protections
+ORL,2030,2,ORL,ORL has the right to swap its 2030 2nd round pick for NOP' 2030 2nd round pick
+ORL,2031,1,ORL,
+ORL,2031,2,ORL,ORL will receive the more favorable of its 2031 2nd round pick and NOP' 2031 2nd round pick and OKC will receive the less favorable of the two (via ORL's right to swap for NOP)
+ORL,2032,1,ORL,
+ORL,2032,2,ORL,
+ORL,2033,1,ORL,
+ORL,2033,2,ORL,
+PHI,2027,1,PHI,
+PHI,2027,2,PHI,
+PHI,2028,1,BKN,Protected 1-8
+PHI,2028,2,PHI,
+PHI,2029,1,PHI,"PHI has the right to swap its 2029 1st round pick for the LAC' 2029 1st round pick protected for selections 1-3 (if this pick falls within its protected range and is therefore not conveyable, then the LAC' commitment to PHI will be lifted)"
+PHI,2029,2,PHI,
+PHI,2030,1,PHI,
+PHI,2030,2,NYK,No protections
+PHI,2031,1,BOS,No protections
+PHI,2031,2,PHI,
+PHI,2032,1,PHI,
+PHI,2032,2,MEM,MEM has the right to swap its 2032 2nd round pick for PHI's 2032 2nd round pick
+PHI,2033,1,PHI,
+PHI,2033,2,PHI,
+PHX,2027,1,HOU,No protections
+PHX,2027,2,PHX,
+PHX,2028,1,BKN,"if (1) PHI's 2028 1st round pick protected for selections 1-8 is conveyed to BKN and is the third most favorable of PHI, BKN's 2028 1st round pick, PHX's 2028 1st round pick and NYK's 2028 1st round pick and (2) NYK is the most or second most favorable of the four, then BKN will receive the most and third most favorable of the four; in all other scenarios, BKN will receive the most / two most favorable of these; if PHI if conveyed and / or NYK is less favorable than BKN and PHX, then NYK will receive the least favorable of NYK, BKN and PHX; in all other scenarios, NYK will receive the second most favorable of the three; WAS will receive the more favorable of (1) its 2028 1st round pick and (2) the least / less favorable of PHI if conveyed, BKN and PHX and PHX will receive the less favorable of (1) and (2); WAS may swap the pick it receives for MIL or POR (see WAS incoming) (via BKN's right to swap BKN or PHI for PHX; via BKN's right to swap BKN or PHX for NYK; via WAS's right to swap for PHX, BKN or PHI)"
+PHX,2028,2,CHI,"CHI will receive the most favorable of its 2028 2nd round pick, IND's 2028 2nd round pick and PHX's 2028 2nd round pick; IND will receive the less favorable of (1) the more favorable of its pick and and the PHX pick and (2) the CHI pick; NYK will receive the less favorable of the IND pick and the PHX pick (via PHX to IND; via CHI's right to swap for IND or PHX)"
+PHX,2029,1,HOU,"HOU will receive the two most favorable of its 2029 1st round pick, DAL' 2029 1st round pick and PHX's 2029 1st round pick and BKN will receive the least favorable of the three (via DAL and PHX to BKN; via DAL or PHX to HOU; via HOU's right to swap for DAL or PHX)"
+PHX,2029,2,NYK,No protections
+PHX,2030,1,WAS,WAS will receive the more favorable of its 2030 1st round pick and PHX's 2030 1st round pick; MEM will receive the more favorable of (1) its 2030 1st round pick and (2) the less favorable of the WAS pick and the PHX pick and PHX will receive the least favorable of the three (via WAS's right swap for PHX; via MEM' right to swap for WAS or PHX)
+PHX,2030,2,PHX,
+PHX,2031,1,MEM,No protections
+PHX,2031,2,CHA,No protections
+PHX,2032,1,PHX,
+PHX,2032,2,PHX,No protections
+PHX,2033,1,CHA,No protections
+PHX,2033,2,NYK,No protections
+POR,2027,1,POR,
+POR,2027,2,POR,No protections
+POR,2027,2,POR,"HOU will receive the less favorable of POR's 2027 2nd round pick and NOP' 2027 2nd round pick if this pick falls outside its protected range of 31-55 (if this pick falls within its protected range and is therefore not conveyed, then POR's commitment to HOU will be lifted) (via POR to BOS)"
+POR,2028,1,POR,
+POR,2028,2,POR,
+POR,2029,1,POR,
+POR,2029,2,MEM,No protections
+POR,2030,1,POR,POR has the right to swap its 2030 1st round pick for MIL's 2030 1st round pick; MIL then has the right to swap the less favorable of its pick and the POR pick for MIA's 2030 1st round pick
+POR,2030,2,POR,
+POR,2031,1,POR,
+POR,2031,2,POR,
+POR,2032,1,POR,
+POR,2032,2,POR,
+POR,2033,1,POR,
+POR,2033,2,POR,
+SAC,2027,1,SAC,
+SAC,2027,2,SAC,
+SAC,2028,1,SAC,
+SAC,2028,2,POR,No protections
+SAC,2029,1,SAC,
+SAC,2029,2,NYK,No protections
+SAC,2030,1,SAC,
+SAC,2030,2,SAS,No protections
+SAC,2031,1,SAS,SAS has the right to swap its 2031 1st round pick for SAC's 2031 1st round pick
+SAC,2031,2,DEN,No protections
+SAC,2032,1,SAC,
+SAC,2032,2,CLE,No protections
+SAC,2033,1,SAC,
+SAC,2033,2,ATL,No protections
+SAS,2027,1,OKC,Protected 1-16
+SAS,2027,1,SAC,Protected 17-30
+SAS,2027,2,SAS,
+SAS,2028,1,SAS,"SAS has the right to swap its 2028 1st round pick for BOS's 2028 1st round pick protected for selection 1; if this pick falls on its protected selection and is therefore not conveyable, then BOS will instead convey its 2028 2nd round pick to SAS protected for selections 46-60 (if this pick falls within its protected range and is therefore not conveyed, then BOS's commitment to SAS will be lifted); BOS may convey the SAS 1st round pick to PHI (see BOS incoming)"
+SAS,2028,2,SAS,
+SAS,2029,1,SAS,
+SAS,2029,2,SAS,
+SAS,2030,1,SAS,
+SAS,2030,2,SAS,
+SAS,2031,1,SAS,SAS has the right to swap its 2031 1st round pick for SAC's 2031 1st round pick
+SAS,2031,2,SAS,
+SAS,2032,1,SAS,
+SAS,2032,2,SAS,
+SAS,2033,1,SAS,
+SAS,2033,2,SAS,
+TOR,2027,1,LAC,OKC has the right to swap the less favorable of its 2027 1st round pick and DEN's 2027 1st round pick protected for selections 1-5 for the LAC' 2027 1st round pick; the LAC then have the right to swap the OKC pick or the DEN pick for TOR's 2027 1st round pick
+TOR,2027,2,TOR,
+TOR,2028,1,TOR,
+TOR,2028,2,TOR,
+TOR,2029,1,TOR,
+TOR,2029,2,TOR,
+TOR,2030,1,TOR,
+TOR,2030,2,LAC,No protections
+TOR,2031,1,LAC,No protections
+TOR,2031,2,NOP,No protections
+TOR,2032,1,TOR,
+TOR,2032,2,BKN,No protections
+TOR,2033,1,LAC,No protections
+TOR,2033,2,LAC,No protections
+UTA,2027,1,UTA,
+UTA,2027,2,IND,No protections
+UTA,2028,1,UTA,
+UTA,2028,2,OKC,No protections
+UTA,2029,1,UTA,
+UTA,2029,2,UTA,
+UTA,2030,1,UTA,UTA has the right to swap its 2030 1st round pick for the LAL' 2030 1st round pick
+UTA,2030,2,UTA,No protections
+UTA,2031,1,UTA,
+UTA,2031,2,UTA,
+UTA,2032,1,UTA,
+UTA,2032,2,WAS,No protections
+UTA,2033,1,UTA,
+UTA,2033,2,UTA,
+WAS,2027,1,WAS,
+WAS,2027,2,NYK,No protections
+WAS,2028,1,WAS,
+WAS,2028,2,WAS,No protections
+WAS,2029,1,WAS,
+WAS,2029,2,WAS,
+WAS,2030,1,WAS,WAS will receive the more favorable of its 2030 1st round pick and PHX's 2030 1st round pick; MEM will receive the more favorable of (1) its 2030 1st round pick and (2) the less favorable of the WAS pick and the PHX pick and PHX will receive the least favorable of the three (via WAS's right swap for PHX; via MEM' right to swap for WAS or PHX)
+WAS,2030,2,PHI,No protections
+WAS,2031,1,WAS,
+WAS,2031,2,LAL,No protections
+WAS,2032,1,WAS,
+WAS,2032,2,LAL,No protections
+WAS,2033,1,WAS,
+WAS,2033,2,WAS,
