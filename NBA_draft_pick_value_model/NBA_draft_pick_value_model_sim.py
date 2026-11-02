@@ -874,8 +874,8 @@ lottery_balls.head()
 rng = np.random.default_rng()
 
 sims = []
-for i in range(1, 11):
-    print(f"\rsim {i}/{10}", end="", flush=True)
+for i in range(1, 10001):
+    print(f"\rsim {i}/{10000}", end="", flush=True)
     sim = []
 
     #SIM MISSED GAMES
