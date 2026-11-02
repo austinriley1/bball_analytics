@@ -1,7 +1,0 @@
-requests
-pandas
-numpy
-nba_api
-matplotlib
-python-dateutil
-isodate
