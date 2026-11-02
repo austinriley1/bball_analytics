@@ -1,0 +1,1201 @@
+date_game,game_start_time,visitor_team_name,visitor_abbr,visitor_pts,home_team_name,home_abbr,home_pts,box_score_text,game_id,overtimes,attendance,game_duration,arena_name,game_remarks,season,month,game_date,played
+"Tue, Oct 20, 2026",3:00p,Boston Celtics,BOS,113.0,Detroit Pistons,DET,121.0,Box Score,202610200DET,,20178.0,2:28,Little Caesars Arena,,2027,october,2026-10-20,True
+"Tue, Oct 20, 2026",7:00p,Philadelphia 76ers,PHI,106.0,New York Knicks,NYK,100.0,Box Score,202610200NYK,,19812.0,2:41,Madison Square Garden (IV),,2027,october,2026-10-20,True
+"Tue, Oct 20, 2026",9:30p,Oklahoma City Thunder,OKC,116.0,San Antonio Spurs,SAS,104.0,Box Score,202610200SAS,,19160.0,2:31,Frost Bank Center,,2027,october,2026-10-20,True
+"Wed, Oct 21, 2026",7:00p,Milwaukee Bucks,MIL,116.0,Washington Wizards,WAS,128.0,Box Score,202610210WAS,,18805.0,2:26,Capital One Arena,,2027,october,2026-10-21,True
+"Wed, Oct 21, 2026",7:00p,Atlanta Hawks,ATL,132.0,Orlando Magic,ORL,125.0,Box Score,202610210ORL,,18864.0,2:40,Kia Center,,2027,october,2026-10-21,True
+"Wed, Oct 21, 2026",7:30p,Charlotte Hornets,CHO,110.0,Brooklyn Nets,BRK,103.0,Box Score,202610210BRK,,17548.0,2:30,Barclays Center,,2027,october,2026-10-21,True
+"Wed, Oct 21, 2026",7:30p,Chicago Bulls,CHI,92.0,Toronto Raptors,TOR,135.0,Box Score,202610210TOR,,19800.0,2:37,Scotiabank Arena,,2027,october,2026-10-21,True
+"Wed, Oct 21, 2026",7:30p,Minnesota Timberwolves,MIN,131.0,Miami Heat,MIA,106.0,Box Score,202610210MIA,,19837.0,2:35,Kaseya Center,,2027,october,2026-10-21,True
+"Wed, Oct 21, 2026",8:00p,Utah Jazz,UTA,103.0,Memphis Grizzlies,MEM,123.0,Box Score,202610210MEM,,17276.0,2:22,FedExForum,,2027,october,2026-10-21,True
+"Wed, Oct 21, 2026",8:00p,Indiana Pacers,IND,123.0,New Orleans Pelicans,NOP,120.0,Box Score,202610210NOP,,17232.0,2:24,Smoothie King Center,,2027,october,2026-10-21,True
+"Wed, Oct 21, 2026",8:30p,Dallas Mavericks,DAL,110.0,Houston Rockets,HOU,128.0,Box Score,202610210HOU,,18055.0,2:18,Toyota Center,,2027,october,2026-10-21,True
+"Wed, Oct 21, 2026",10:00p,Golden State Warriors,GSW,105.0,Los Angeles Lakers,LAL,127.0,Box Score,202610210LAL,,19057.0,,Crypto.com Arena,,2027,october,2026-10-21,True
+"Wed, Oct 21, 2026",10:00p,Phoenix Suns,PHO,83.0,Portland Trail Blazers,POR,124.0,Box Score,202610210POR,,19367.0,2:12,Moda Center,,2027,october,2026-10-21,True
+"Wed, Oct 21, 2026",10:30p,Sacramento Kings,SAC,96.0,Los Angeles Clippers,LAC,121.0,Box Score,202610210LAC,,17927.0,2:13,Intuit Dome,,2027,october,2026-10-21,True
+"Thu, Oct 22, 2026",7:00p,Cleveland Cavaliers,CLE,,Philadelphia 76ers,PHI,,,,,,,Xfinity Mobile Arena,,2027,october,2026-10-22,False
+"Thu, Oct 22, 2026",9:30p,Denver Nuggets,DEN,,Oklahoma City Thunder,OKC,,,,,,,Paycom Center,,2027,october,2026-10-22,False
+"Fri, Oct 23, 2026",4:00p,Chicago Bulls,CHI,,Milwaukee Bucks,MIL,,,,,,,Fiserv Forum,,2027,october,2026-10-23,False
+"Fri, Oct 23, 2026",7:00p,Toronto Raptors,TOR,,Washington Wizards,WAS,,,,,,,Capital One Arena,,2027,october,2026-10-23,False
+"Fri, Oct 23, 2026",7:00p,Minnesota Timberwolves,MIN,,Orlando Magic,ORL,,,,,,,Kia Center,,2027,october,2026-10-23,False
+"Fri, Oct 23, 2026",7:00p,Atlanta Hawks,ATL,,Charlotte Hornets,CHO,,,,,,,Spectrum Center,,2027,october,2026-10-23,False
+"Fri, Oct 23, 2026",7:00p,New York Knicks,NYK,,Boston Celtics,BOS,,,,,,,TD Garden,,2027,october,2026-10-23,False
+"Fri, Oct 23, 2026",7:00p,Dallas Mavericks,DAL,,Indiana Pacers,IND,,,,,,,Gainbridge Fieldhouse,,2027,october,2026-10-23,False
+"Fri, Oct 23, 2026",8:00p,Detroit Pistons,DET,,Miami Heat,MIA,,,,,,,Kaseya Center,,2027,october,2026-10-23,False
+"Fri, Oct 23, 2026",9:30p,Houston Rockets,HOU,,San Antonio Spurs,SAS,,,,,,,Moody Center,,2027,october,2026-10-23,False
+"Fri, Oct 23, 2026",9:30p,New Orleans Pelicans,NOP,,Utah Jazz,UTA,,,,,,,Delta Center,,2027,october,2026-10-23,False
+"Fri, Oct 23, 2026",10:00p,Los Angeles Clippers,LAC,,Los Angeles Lakers,LAL,,,,,,,Crypto.com Arena,,2027,october,2026-10-23,False
+"Fri, Oct 23, 2026",10:00p,Memphis Grizzlies,MEM,,Golden State Warriors,GSW,,,,,,,Chase Center,,2027,october,2026-10-23,False
+"Fri, Oct 23, 2026",10:00p,Portland Trail Blazers,POR,,Sacramento Kings,SAC,,,,,,,Golden 1 Center,,2027,october,2026-10-23,False
+"Sat, Oct 24, 2026",6:00p,Miami Heat,MIA,,Charlotte Hornets,CHO,,,,,,,Spectrum Center,,2027,october,2026-10-24,False
+"Sat, Oct 24, 2026",7:30p,Milwaukee Bucks,MIL,,Philadelphia 76ers,PHI,,,,,,,Xfinity Mobile Arena,,2027,october,2026-10-24,False
+"Sat, Oct 24, 2026",7:30p,Brooklyn Nets,BRK,,Cleveland Cavaliers,CLE,,,,,,,Rocket Arena,,2027,october,2026-10-24,False
+"Sat, Oct 24, 2026",8:00p,San Antonio Spurs,SAS,,Dallas Mavericks,DAL,,,,,,,American Airlines Center,,2027,october,2026-10-24,False
+"Sat, Oct 24, 2026",8:00p,Washington Wizards,WAS,,Chicago Bulls,CHI,,,,,,,United Center,,2027,october,2026-10-24,False
+"Sat, Oct 24, 2026",8:30p,Houston Rockets,HOU,,Atlanta Hawks,ATL,,,,,,,State Farm Arena,,2027,october,2026-10-24,False
+"Sat, Oct 24, 2026",9:00p,New Orleans Pelicans,NOP,,Denver Nuggets,DEN,,,,,,,Ball Arena,,2027,october,2026-10-24,False
+"Sat, Oct 24, 2026",10:00p,Golden State Warriors,GSW,,Phoenix Suns,PHO,,,,,,,Mortgage Matchup Center,,2027,october,2026-10-24,False
+"Sun, Oct 25, 2026",5:00p,Los Angeles Lakers,LAL,,Utah Jazz,UTA,,,,,,,Delta Center,,2027,october,2026-10-25,False
+"Sun, Oct 25, 2026",6:00p,Indiana Pacers,IND,,Brooklyn Nets,BRK,,,,,,,Barclays Center,,2027,october,2026-10-25,False
+"Sun, Oct 25, 2026",7:00p,Toronto Raptors,TOR,,Minnesota Timberwolves,MIN,,,,,,,Target Center,,2027,october,2026-10-25,False
+"Sun, Oct 25, 2026",7:00p,Orlando Magic,ORL,,New York Knicks,NYK,,,,,,,Madison Square Garden (IV),,2027,october,2026-10-25,False
+"Sun, Oct 25, 2026",7:00p,Los Angeles Clippers,LAC,,Oklahoma City Thunder,OKC,,,,,,,Paycom Center,,2027,october,2026-10-25,False
+"Sun, Oct 25, 2026",7:30p,Detroit Pistons,DET,,Philadelphia 76ers,PHI,,,,,,,Xfinity Mobile Arena,,2027,october,2026-10-25,False
+"Sun, Oct 25, 2026",9:00p,Memphis Grizzlies,MEM,,Sacramento Kings,SAC,,,,,,,Golden 1 Center,,2027,october,2026-10-25,False
+"Mon, Oct 26, 2026",7:00p,Minnesota Timberwolves,MIN,,Cleveland Cavaliers,CLE,,,,,,,Rocket Arena,,2027,october,2026-10-26,False
+"Mon, Oct 26, 2026",7:00p,Washington Wizards,WAS,,Charlotte Hornets,CHO,,,,,,,Spectrum Center,,2027,october,2026-10-26,False
+"Mon, Oct 26, 2026",7:30p,Dallas Mavericks,DAL,,Miami Heat,MIA,,,,,,,Kaseya Center,,2027,october,2026-10-26,False
+"Mon, Oct 26, 2026",7:30p,Chicago Bulls,CHI,,Boston Celtics,BOS,,,,,,,TD Garden,,2027,october,2026-10-26,False
+"Mon, Oct 26, 2026",8:00p,Indiana Pacers,IND,,Milwaukee Bucks,MIL,,,,,,,Fiserv Forum,,2027,october,2026-10-26,False
+"Mon, Oct 26, 2026",8:00p,Phoenix Suns,PHO,,Oklahoma City Thunder,OKC,,,,,,,Paycom Center,,2027,october,2026-10-26,False
+"Mon, Oct 26, 2026",8:30p,Atlanta Hawks,ATL,,Houston Rockets,HOU,,,,,,,Toyota Center,,2027,october,2026-10-26,False
+"Mon, Oct 26, 2026",9:00p,Memphis Grizzlies,MEM,,Utah Jazz,UTA,,,,,,,Delta Center,,2027,october,2026-10-26,False
+"Mon, Oct 26, 2026",10:00p,Golden State Warriors,GSW,,Denver Nuggets,DEN,,,,,,,Ball Arena,,2027,october,2026-10-26,False
+"Tue, Oct 27, 2026",7:30p,Brooklyn Nets,BRK,,Boston Celtics,BOS,,,,,,,TD Garden,,2027,october,2026-10-27,False
+"Tue, Oct 27, 2026",8:00p,Detroit Pistons,DET,,New York Knicks,NYK,,,,,,,Madison Square Garden (IV),,2027,october,2026-10-27,False
+"Tue, Oct 27, 2026",8:00p,Sacramento Kings,SAC,,San Antonio Spurs,SAS,,,,,,,Frost Bank Center,,2027,october,2026-10-27,False
+"Tue, Oct 27, 2026",11:00p,Portland Trail Blazers,POR,,Los Angeles Lakers,LAL,,,,,,,Crypto.com Arena,,2027,october,2026-10-27,False
+"Wed, Oct 28, 2026",7:00p,Miami Heat,MIA,,Atlanta Hawks,ATL,,,,,,,State Farm Arena,,2027,october,2026-10-28,False
+"Wed, Oct 28, 2026",7:00p,Washington Wizards,WAS,,Cleveland Cavaliers,CLE,,,,,,,Rocket Arena,,2027,october,2026-10-28,False
+"Wed, Oct 28, 2026",7:00p,Philadelphia 76ers,PHI,,Indiana Pacers,IND,,,,,,,Gainbridge Fieldhouse,,2027,october,2026-10-28,False
+"Wed, Oct 28, 2026",7:00p,Charlotte Hornets,CHO,,Detroit Pistons,DET,,,,,,,Little Caesars Arena,,2027,october,2026-10-28,False
+"Wed, Oct 28, 2026",7:30p,Orlando Magic,ORL,,Toronto Raptors,TOR,,,,,,,Scotiabank Arena,,2027,october,2026-10-28,False
+"Wed, Oct 28, 2026",8:00p,Houston Rockets,HOU,,Milwaukee Bucks,MIL,,,,,,,Fiserv Forum,,2027,october,2026-10-28,False
+"Wed, Oct 28, 2026",8:00p,Golden State Warriors,GSW,,Minnesota Timberwolves,MIN,,,,,,,Target Center,,2027,october,2026-10-28,False
+"Wed, Oct 28, 2026",8:00p,Denver Nuggets,DEN,,New Orleans Pelicans,NOP,,,,,,,Smoothie King Center,,2027,october,2026-10-28,False
+"Wed, Oct 28, 2026",8:00p,New York Knicks,NYK,,Chicago Bulls,CHI,,,,,,,United Center,,2027,october,2026-10-28,False
+"Wed, Oct 28, 2026",9:00p,San Antonio Spurs,SAS,,Utah Jazz,UTA,,,,,,,Delta Center,,2027,october,2026-10-28,False
+"Wed, Oct 28, 2026",9:30p,Oklahoma City Thunder,OKC,,Dallas Mavericks,DAL,,,,,,,American Airlines Center,,2027,october,2026-10-28,False
+"Wed, Oct 28, 2026",10:30p,Los Angeles Lakers,LAL,,Los Angeles Clippers,LAC,,,,,,,Intuit Dome,,2027,october,2026-10-28,False
+"Thu, Oct 29, 2026",7:00p,Cleveland Cavaliers,CLE,,Atlanta Hawks,ATL,,,,,,,State Farm Arena,,2027,october,2026-10-29,False
+"Thu, Oct 29, 2026",8:00p,Sacramento Kings,SAC,,New Orleans Pelicans,NOP,,,,,,,Smoothie King Center,,2027,october,2026-10-29,False
+"Thu, Oct 29, 2026",10:00p,Memphis Grizzlies,MEM,,Portland Trail Blazers,POR,,,,,,,Moda Center,,2027,october,2026-10-29,False
+"Fri, Oct 30, 2026",7:00p,Charlotte Hornets,CHO,,Washington Wizards,WAS,,,,,,,Capital One Arena,NBA Cup,2027,october,2026-10-30,False
+"Fri, Oct 30, 2026",7:30p,Chicago Bulls,CHI,,Boston Celtics,BOS,,,,,,,TD Garden,NBA Cup,2027,october,2026-10-30,False
+"Fri, Oct 30, 2026",7:30p,Detroit Pistons,DET,,Brooklyn Nets,BRK,,,,,,,Barclays Center,NBA Cup,2027,october,2026-10-30,False
+"Fri, Oct 30, 2026",7:30p,New York Knicks,NYK,,Philadelphia 76ers,PHI,,,,,,,Xfinity Mobile Arena,NBA Cup,2027,october,2026-10-30,False
+"Fri, Oct 30, 2026",7:30p,Orlando Magic,ORL,,Toronto Raptors,TOR,,,,,,,Scotiabank Arena,NBA Cup,2027,october,2026-10-30,False
+"Fri, Oct 30, 2026",8:00p,Houston Rockets,HOU,,Dallas Mavericks,DAL,,,,,,,American Airlines Center,NBA Cup,2027,october,2026-10-30,False
+"Fri, Oct 30, 2026",8:00p,Indiana Pacers,IND,,Miami Heat,MIA,,,,,,,Kaseya Center,NBA Cup,2027,october,2026-10-30,False
+"Fri, Oct 30, 2026",8:00p,Los Angeles Clippers,LAC,,Minnesota Timberwolves,MIN,,,,,,,Target Center,NBA Cup,2027,october,2026-10-30,False
+"Fri, Oct 30, 2026",10:00p,Los Angeles Lakers,LAL,,Golden State Warriors,GSW,,,,,,,Chase Center,NBA Cup,2027,october,2026-10-30,False
+"Fri, Oct 30, 2026",10:00p,Denver Nuggets,DEN,,Phoenix Suns,PHO,,,,,,,Mortgage Matchup Center,NBA Cup,2027,october,2026-10-30,False
+"Sat, Oct 31, 2026",3:00p,Portland Trail Blazers,POR,,Utah Jazz,UTA,,,,,,,Delta Center,,2027,october,2026-10-31,False
+"Sat, Oct 31, 2026",6:00p,Philadelphia 76ers,PHI,,Charlotte Hornets,CHO,,,,,,,Spectrum Center,,2027,october,2026-10-31,False
+"Sat, Oct 31, 2026",7:00p,Atlanta Hawks,ATL,,New Orleans Pelicans,NOP,,,,,,,Smoothie King Center,,2027,october,2026-10-31,False
+"Sat, Oct 31, 2026",8:00p,Sacramento Kings,SAC,,Memphis Grizzlies,MEM,,,,,,,FedExForum,,2027,october,2026-10-31,False
+"Sat, Oct 31, 2026",8:00p,Cleveland Cavaliers,CLE,,Milwaukee Bucks,MIL,,,,,,,Fiserv Forum,,2027,october,2026-10-31,False
+"Sat, Oct 31, 2026",8:00p,Minnesota Timberwolves,MIN,,San Antonio Spurs,SAS,,,,,,,Frost Bank Center,,2027,october,2026-10-31,False
+"Sat, Oct 31, 2026",8:30p,Oklahoma City Thunder,OKC,,Houston Rockets,HOU,,,,,,,Toyota Center,,2027,october,2026-10-31,False
+"Sun, Nov 1, 2026",3:30p,Boston Celtics,BOS,,Orlando Magic,ORL,,,,,,,Kia Center,,2027,november,2026-11-01,False
+"Sun, Nov 1, 2026",5:00p,Brooklyn Nets,BRK,,Indiana Pacers,IND,,,,,,,Gainbridge Fieldhouse,,2027,november,2026-11-01,False
+"Sun, Nov 1, 2026",8:30p,Los Angeles Clippers,LAC,,Golden State Warriors,GSW,,,,,,,Chase Center,,2027,november,2026-11-01,False
+"Sun, Nov 1, 2026",9:00p,Toronto Raptors,TOR,,Los Angeles Lakers,LAL,,,,,,,Crypto.com Arena,,2027,november,2026-11-01,False
+"Mon, Nov 2, 2026",7:00p,Oklahoma City Thunder,OKC,,Cleveland Cavaliers,CLE,,,,,,,Rocket Arena,,2027,november,2026-11-02,False
+"Mon, Nov 2, 2026",7:30p,Detroit Pistons,DET,,Charlotte Hornets,CHO,,,,,,,Spectrum Center,,2027,november,2026-11-02,False
+"Mon, Nov 2, 2026",7:30p,Atlanta Hawks,ATL,,Indiana Pacers,IND,,,,,,,Gainbridge Fieldhouse,,2027,november,2026-11-02,False
+"Mon, Nov 2, 2026",7:30p,Brooklyn Nets,BRK,,New York Knicks,NYK,,,,,,,Madison Square Garden (IV),,2027,november,2026-11-02,False
+"Mon, Nov 2, 2026",7:30p,Washington Wizards,WAS,,Orlando Magic,ORL,,,,,,,Kia Center,,2027,november,2026-11-02,False
+"Mon, Nov 2, 2026",7:30p,Chicago Bulls,CHI,,Philadelphia 76ers,PHI,,,,,,,Xfinity Mobile Arena,,2027,november,2026-11-02,False
+"Mon, Nov 2, 2026",8:00p,Sacramento Kings,SAC,,Dallas Mavericks,DAL,,,,,,,American Airlines Center,,2027,november,2026-11-02,False
+"Mon, Nov 2, 2026",8:00p,New Orleans Pelicans,NOP,,Memphis Grizzlies,MEM,,,,,,,FedExForum,,2027,november,2026-11-02,False
+"Mon, Nov 2, 2026",8:00p,Milwaukee Bucks,MIL,,Minnesota Timberwolves,MIN,,,,,,,Target Center,,2027,november,2026-11-02,False
+"Mon, Nov 2, 2026",8:30p,Boston Celtics,BOS,,Houston Rockets,HOU,,,,,,,Toyota Center,,2027,november,2026-11-02,False
+"Mon, Nov 2, 2026",8:30p,Utah Jazz,UTA,,San Antonio Spurs,SAS,,,,,,,Frost Bank Center,,2027,november,2026-11-02,False
+"Mon, Nov 2, 2026",9:00p,Portland Trail Blazers,POR,,Denver Nuggets,DEN,,,,,,,Ball Arena,,2027,november,2026-11-02,False
+"Mon, Nov 2, 2026",10:00p,Phoenix Suns,PHO,,Golden State Warriors,GSW,,,,,,,Chase Center,,2027,november,2026-11-02,False
+"Mon, Nov 2, 2026",10:00p,Toronto Raptors,TOR,,Los Angeles Clippers,LAC,,,,,,,Intuit Dome,,2027,november,2026-11-02,False
+"Mon, Nov 2, 2026",10:00p,Miami Heat,MIA,,Los Angeles Lakers,LAL,,,,,,,Crypto.com Arena,,2027,november,2026-11-02,False
+"Wed, Nov 4, 2026",7:00p,Philadelphia 76ers,PHI,,Detroit Pistons,DET,,,,,,,Little Caesars Arena,,2027,november,2026-11-04,False
+"Wed, Nov 4, 2026",7:00p,Atlanta Hawks,ATL,,Washington Wizards,WAS,,,,,,,Capital One Arena,,2027,november,2026-11-04,False
+"Wed, Nov 4, 2026",7:30p,Milwaukee Bucks,MIL,,Boston Celtics,BOS,,,,,,,TD Garden,,2027,november,2026-11-04,False
+"Wed, Nov 4, 2026",7:30p,Charlotte Hornets,CHO,,Brooklyn Nets,BRK,,,,,,,Barclays Center,,2027,november,2026-11-04,False
+"Wed, Nov 4, 2026",7:30p,Chicago Bulls,CHI,,New York Knicks,NYK,,,,,,,Madison Square Garden (IV),,2027,november,2026-11-04,False
+"Wed, Nov 4, 2026",8:00p,Indiana Pacers,IND,,Memphis Grizzlies,MEM,,,,,,,FedExForum,,2027,november,2026-11-04,False
+"Wed, Nov 4, 2026",8:00p,Utah Jazz,UTA,,New Orleans Pelicans,NOP,,,,,,,Smoothie King Center,,2027,november,2026-11-04,False
+"Wed, Nov 4, 2026",8:00p,Cleveland Cavaliers,CLE,,Oklahoma City Thunder,OKC,,,,,,,Paycom Center,,2027,november,2026-11-04,False
+"Wed, Nov 4, 2026",8:30p,Minnesota Timberwolves,MIN,,Houston Rockets,HOU,,,,,,,Toyota Center,,2027,november,2026-11-04,False
+"Wed, Nov 4, 2026",9:00p,Toronto Raptors,TOR,,Denver Nuggets,DEN,,,,,,,Ball Arena,,2027,november,2026-11-04,False
+"Wed, Nov 4, 2026",9:00p,Portland Trail Blazers,POR,,Phoenix Suns,PHO,,,,,,,Mortgage Matchup Center,,2027,november,2026-11-04,False
+"Wed, Nov 4, 2026",9:30p,Dallas Mavericks,DAL,,San Antonio Spurs,SAS,,,,,,,Frost Bank Center,,2027,november,2026-11-04,False
+"Wed, Nov 4, 2026",10:00p,Los Angeles Lakers,LAL,,Sacramento Kings,SAC,,,,,,,Golden 1 Center,,2027,november,2026-11-04,False
+"Wed, Nov 4, 2026",10:30p,Miami Heat,MIA,,Los Angeles Clippers,LAC,,,,,,,Intuit Dome,,2027,november,2026-11-04,False
+"Thu, Nov 5, 2026",9:00p,Orlando Magic,ORL,,Phoenix Suns,PHO,,,,,,,Mortgage Matchup Center,,2027,november,2026-11-05,False
+"Thu, Nov 5, 2026",10:00p,Miami Heat,MIA,,Golden State Warriors,GSW,,,,,,,Chase Center,,2027,november,2026-11-05,False
+"Fri, Nov 6, 2026",7:00p,Washington Wizards,WAS,,Atlanta Hawks,ATL,,,,,,,State Farm Arena,NBA Cup,2027,november,2026-11-06,False
+"Fri, Nov 6, 2026",7:00p,Boston Celtics,BOS,,Charlotte Hornets,CHO,,,,,,,Spectrum Center,NBA Cup,2027,november,2026-11-06,False
+"Fri, Nov 6, 2026",7:30p,Philadelphia 76ers,PHI,,Cleveland Cavaliers,CLE,,,,,,,Rocket Arena,NBA Cup,2027,november,2026-11-06,False
+"Fri, Nov 6, 2026",8:00p,Utah Jazz,UTA,,Dallas Mavericks,DAL,,,,,,,American Airlines Center,NBA Cup,2027,november,2026-11-06,False
+"Fri, Nov 6, 2026",8:00p,Oklahoma City Thunder,OKC,,Memphis Grizzlies,MEM,,,,,,,FedExForum,NBA Cup,2027,november,2026-11-06,False
+"Fri, Nov 6, 2026",8:00p,Toronto Raptors,TOR,,Milwaukee Bucks,MIL,,,,,,,Fiserv Forum,NBA Cup,2027,november,2026-11-06,False
+"Fri, Nov 6, 2026",8:00p,Minnesota Timberwolves,MIN,,New Orleans Pelicans,NOP,,,,,,,Smoothie King Center,NBA Cup,2027,november,2026-11-06,False
+"Fri, Nov 6, 2026",10:00p,Portland Trail Blazers,POR,,Los Angeles Lakers,LAL,,,,,,,Crypto.com Arena,NBA Cup,2027,november,2026-11-06,False
+"Fri, Nov 6, 2026",10:00p,San Antonio Spurs,SAS,,Sacramento Kings,SAC,,,,,,,Golden 1 Center,NBA Cup,2027,november,2026-11-06,False
+"Sat, Nov 7, 2026",5:00p,Denver Nuggets,DEN,,Indiana Pacers,IND,,,,,,,Mexico City Arena,,2027,november,2026-11-07,False
+"Sat, Nov 7, 2026",7:30p,Brooklyn Nets,BRK,,Atlanta Hawks,ATL,,,,,,,State Farm Arena,,2027,november,2026-11-07,False
+"Sat, Nov 7, 2026",8:00p,New York Knicks,NYK,,Cleveland Cavaliers,CLE,,,,,,,Rocket Arena,,2027,november,2026-11-07,False
+"Sat, Nov 7, 2026",8:00p,Washington Wizards,WAS,,Oklahoma City Thunder,OKC,,,,,,,Paycom Center,,2027,november,2026-11-07,False
+"Sat, Nov 7, 2026",8:30p,Orlando Magic,ORL,,Golden State Warriors,GSW,,,,,,,Chase Center,,2027,november,2026-11-07,False
+"Sat, Nov 7, 2026",9:00p,Houston Rockets,HOU,,Phoenix Suns,PHO,,,,,,,Mortgage Matchup Center,,2027,november,2026-11-07,False
+"Sat, Nov 7, 2026",10:00p,San Antonio Spurs,SAS,,Portland Trail Blazers,POR,,,,,,,Moda Center,,2027,november,2026-11-07,False
+"Sun, Nov 8, 2026",3:30p,Philadelphia 76ers,PHI,,Chicago Bulls,CHI,,,,,,,United Center,,2027,november,2026-11-08,False
+"Sun, Nov 8, 2026",6:00p,Los Angeles Lakers,LAL,,Detroit Pistons,DET,,,,,,,Little Caesars Arena,,2027,november,2026-11-08,False
+"Sun, Nov 8, 2026",7:00p,Utah Jazz,UTA,,Minnesota Timberwolves,MIN,,,,,,,Target Center,,2027,november,2026-11-08,False
+"Sun, Nov 8, 2026",7:30p,Brooklyn Nets,BRK,,Dallas Mavericks,DAL,,,,,,,American Airlines Center,,2027,november,2026-11-08,False
+"Sun, Nov 8, 2026",8:00p,Boston Celtics,BOS,,Milwaukee Bucks,MIL,,,,,,,Fiserv Forum,,2027,november,2026-11-08,False
+"Sun, Nov 8, 2026",9:00p,New Orleans Pelicans,NOP,,Los Angeles Clippers,LAC,,,,,,,Intuit Dome,,2027,november,2026-11-08,False
+"Sun, Nov 8, 2026",9:00p,Miami Heat,MIA,,Sacramento Kings,SAC,,,,,,,Golden 1 Center,,2027,november,2026-11-08,False
+"Mon, Nov 9, 2026",7:00p,Los Angeles Lakers,LAL,,Atlanta Hawks,ATL,,,,,,,State Farm Arena,,2027,november,2026-11-09,False
+"Mon, Nov 9, 2026",7:00p,Cleveland Cavaliers,CLE,,Charlotte Hornets,CHO,,,,,,,Spectrum Center,,2027,november,2026-11-09,False
+"Mon, Nov 9, 2026",7:00p,Washington Wizards,WAS,,Detroit Pistons,DET,,,,,,,Little Caesars Arena,,2027,november,2026-11-09,False
+"Mon, Nov 9, 2026",7:30p,Memphis Grizzlies,MEM,,Toronto Raptors,TOR,,,,,,,Scotiabank Arena,,2027,november,2026-11-09,False
+"Mon, Nov 9, 2026",8:00p,Indiana Pacers,IND,,Dallas Mavericks,DAL,,,,,,,American Airlines Center,,2027,november,2026-11-09,False
+"Mon, Nov 9, 2026",8:30p,Denver Nuggets,DEN,,Houston Rockets,HOU,,,,,,,Toyota Center,,2027,november,2026-11-09,False
+"Mon, Nov 9, 2026",9:00p,San Antonio Spurs,SAS,,Phoenix Suns,PHO,,,,,,,Mortgage Matchup Center,,2027,november,2026-11-09,False
+"Mon, Nov 9, 2026",10:00p,New Orleans Pelicans,NOP,,Golden State Warriors,GSW,,,,,,,Chase Center,,2027,november,2026-11-09,False
+"Tue, Nov 10, 2026",7:30p,Milwaukee Bucks,MIL,,New York Knicks,NYK,,,,,,,Madison Square Garden (IV),,2027,november,2026-11-10,False
+"Tue, Nov 10, 2026",8:00p,Boston Celtics,BOS,,Philadelphia 76ers,PHI,,,,,,,Xfinity Mobile Arena,,2027,november,2026-11-10,False
+"Tue, Nov 10, 2026",9:00p,Los Angeles Clippers,LAC,,Phoenix Suns,PHO,,,,,,,Mortgage Matchup Center,,2027,november,2026-11-10,False
+"Tue, Nov 10, 2026",9:00p,Miami Heat,MIA,,Utah Jazz,UTA,,,,,,,Delta Center,,2027,november,2026-11-10,False
+"Tue, Nov 10, 2026",10:00p,Orlando Magic,ORL,,Sacramento Kings,SAC,,,,,,,Golden 1 Center,,2027,november,2026-11-10,False
+"Tue, Nov 10, 2026",11:00p,Oklahoma City Thunder,OKC,,Portland Trail Blazers,POR,,,,,,,Moda Center,,2027,november,2026-11-10,False
+"Wed, Nov 11, 2026",7:00p,Washington Wizards,WAS,,Indiana Pacers,IND,,,,,,,Gainbridge Fieldhouse,,2027,november,2026-11-11,False
+"Wed, Nov 11, 2026",7:00p,Cleveland Cavaliers,CLE,,New York Knicks,NYK,,,,,,,Madison Square Garden (IV),,2027,november,2026-11-11,False
+"Wed, Nov 11, 2026",7:00p,Boston Celtics,BOS,,Toronto Raptors,TOR,,,,,,,Scotiabank Arena,,2027,november,2026-11-11,False
+"Wed, Nov 11, 2026",8:00p,San Antonio Spurs,SAS,,Chicago Bulls,CHI,,,,,,,United Center,,2027,november,2026-11-11,False
+"Wed, Nov 11, 2026",8:00p,Denver Nuggets,DEN,,Memphis Grizzlies,MEM,,,,,,,FedExForum,,2027,november,2026-11-11,False
+"Wed, Nov 11, 2026",8:00p,Los Angeles Lakers,LAL,,Milwaukee Bucks,MIL,,,,,,,Fiserv Forum,,2027,november,2026-11-11,False
+"Wed, Nov 11, 2026",8:00p,Brooklyn Nets,BRK,,New Orleans Pelicans,NOP,,,,,,,Smoothie King Center,,2027,november,2026-11-11,False
+"Wed, Nov 11, 2026",9:00p,Orlando Magic,ORL,,Utah Jazz,UTA,,,,,,,Delta Center,,2027,november,2026-11-11,False
+"Wed, Nov 11, 2026",9:30p,Golden State Warriors,GSW,,Houston Rockets,HOU,,,,,,,Toyota Center,,2027,november,2026-11-11,False
+"Wed, Nov 11, 2026",10:00p,Oklahoma City Thunder,OKC,,Portland Trail Blazers,POR,,,,,,,Moda Center,,2027,november,2026-11-11,False
+"Thu, Nov 12, 2026",7:00p,Toronto Raptors,TOR,,Philadelphia 76ers,PHI,,,,,,,Xfinity Mobile Arena,,2027,november,2026-11-12,False
+"Thu, Nov 12, 2026",7:00p,Detroit Pistons,DET,,Washington Wizards,WAS,,,,,,,Capital One Arena,,2027,november,2026-11-12,False
+"Thu, Nov 12, 2026",8:00p,Dallas Mavericks,DAL,,Minnesota Timberwolves,MIN,,,,,,,Target Center,,2027,november,2026-11-12,False
+"Thu, Nov 12, 2026",9:00p,Charlotte Hornets,CHO,,Phoenix Suns,PHO,,,,,,,Mortgage Matchup Center,,2027,november,2026-11-12,False
+"Fri, Nov 13, 2026",7:00p,New York Knicks,NYK,,Indiana Pacers,IND,,,,,,,Gainbridge Fieldhouse,NBA Cup,2027,november,2026-11-13,False
+"Fri, Nov 13, 2026",7:00p,Milwaukee Bucks,MIL,,Orlando Magic,ORL,,,,,,,Kia Center,NBA Cup,2027,november,2026-11-13,False
+"Fri, Nov 13, 2026",8:00p,Atlanta Hawks,ATL,,Chicago Bulls,CHI,,,,,,,United Center,NBA Cup,2027,november,2026-11-13,False
+"Fri, Nov 13, 2026",8:00p,Cleveland Cavaliers,CLE,,Miami Heat,MIA,,,,,,,Kaseya Center,NBA Cup,2027,november,2026-11-13,False
+"Fri, Nov 13, 2026",8:00p,Memphis Grizzlies,MEM,,New Orleans Pelicans,NOP,,,,,,,Smoothie King Center,NBA Cup,2027,november,2026-11-13,False
+"Fri, Nov 13, 2026",8:30p,Utah Jazz,UTA,,Houston Rockets,HOU,,,,,,,Toyota Center,NBA Cup,2027,november,2026-11-13,False
+"Fri, Nov 13, 2026",9:30p,Golden State Warriors,GSW,,San Antonio Spurs,SAS,,,,,,,Frost Bank Center,NBA Cup,2027,november,2026-11-13,False
+"Fri, Nov 13, 2026",10:00p,Portland Trail Blazers,POR,,Sacramento Kings,SAC,,,,,,,Golden 1 Center,NBA Cup,2027,november,2026-11-13,False
+"Fri, Nov 13, 2026",10:30p,Oklahoma City Thunder,OKC,,Los Angeles Clippers,LAC,,,,,,,Intuit Dome,NBA Cup,2027,november,2026-11-13,False
+"Sat, Nov 14, 2026",7:00p,Denver Nuggets,DEN,,New Orleans Pelicans,NOP,,,,,,,Smoothie King Center,,2027,november,2026-11-14,False
+"Sat, Nov 14, 2026",7:30p,Dallas Mavericks,DAL,,Cleveland Cavaliers,CLE,,,,,,,Rocket Arena,,2027,november,2026-11-14,False
+"Sat, Nov 14, 2026",8:00p,Brooklyn Nets,BRK,,Memphis Grizzlies,MEM,,,,,,,FedExForum,,2027,november,2026-11-14,False
+"Sat, Nov 14, 2026",8:00p,Detroit Pistons,DET,,Miami Heat,MIA,,,,,,,Kaseya Center,,2027,november,2026-11-14,False
+"Sat, Nov 14, 2026",8:00p,Chicago Bulls,CHI,,Minnesota Timberwolves,MIN,,,,,,,Target Center,,2027,november,2026-11-14,False
+"Sun, Nov 15, 2026",1:00p,Indiana Pacers,IND,,Philadelphia 76ers,PHI,,,,,,,Xfinity Mobile Arena,,2027,november,2026-11-15,False
+"Sun, Nov 15, 2026",4:00p,Los Angeles Lakers,LAL,,Phoenix Suns,PHO,,,,,,,Mortgage Matchup Center,,2027,november,2026-11-15,False
+"Sun, Nov 15, 2026",4:30p,Charlotte Hornets,CHO,,Los Angeles Clippers,LAC,,,,,,,Intuit Dome,,2027,november,2026-11-15,False
+"Sun, Nov 15, 2026",5:00p,San Antonio Spurs,SAS,,Utah Jazz,UTA,,,,,,,Delta Center,,2027,november,2026-11-15,False
+"Sun, Nov 15, 2026",6:00p,Dallas Mavericks,DAL,,Boston Celtics,BOS,,,,,,,TD Garden,,2027,november,2026-11-15,False
+"Sun, Nov 15, 2026",6:00p,New York Knicks,NYK,,Toronto Raptors,TOR,,,,,,,Scotiabank Arena,,2027,november,2026-11-15,False
+"Sun, Nov 15, 2026",7:00p,Houston Rockets,HOU,,Washington Wizards,WAS,,,,,,,Capital One Arena,,2027,november,2026-11-15,False
+"Sun, Nov 15, 2026",8:00p,Atlanta Hawks,ATL,,Milwaukee Bucks,MIL,,,,,,,Fiserv Forum,,2027,november,2026-11-15,False
+"Sun, Nov 15, 2026",9:00p,Oklahoma City Thunder,OKC,,Sacramento Kings,SAC,,,,,,,Golden 1 Center,,2027,november,2026-11-15,False
+"Mon, Nov 16, 2026",7:00p,Orlando Magic,ORL,,Boston Celtics,BOS,,,,,,,TD Garden,,2027,november,2026-11-16,False
+"Mon, Nov 16, 2026",7:00p,Chicago Bulls,CHI,,Cleveland Cavaliers,CLE,,,,,,,Rocket Arena,,2027,november,2026-11-16,False
+"Mon, Nov 16, 2026",7:00p,Memphis Grizzlies,MEM,,Washington Wizards,WAS,,,,,,,Capital One Arena,,2027,november,2026-11-16,False
+"Mon, Nov 16, 2026",7:30p,Philadelphia 76ers,PHI,,Brooklyn Nets,BRK,,,,,,,Barclays Center,,2027,november,2026-11-16,False
+"Mon, Nov 16, 2026",7:30p,Houston Rockets,HOU,,Miami Heat,MIA,,,,,,,Kaseya Center,,2027,november,2026-11-16,False
+"Mon, Nov 16, 2026",8:00p,Portland Trail Blazers,POR,,Minnesota Timberwolves,MIN,,,,,,,Target Center,,2027,november,2026-11-16,False
+"Mon, Nov 16, 2026",8:00p,Golden State Warriors,GSW,,New Orleans Pelicans,NOP,,,,,,,Smoothie King Center,,2027,november,2026-11-16,False
+"Mon, Nov 16, 2026",9:00p,Phoenix Suns,PHO,,Denver Nuggets,DEN,,,,,,,Ball Arena,,2027,november,2026-11-16,False
+"Tue, Nov 17, 2026",7:30p,New York Knicks,NYK,,Toronto Raptors,TOR,,,,,,,Scotiabank Arena,,2027,november,2026-11-17,False
+"Tue, Nov 17, 2026",8:00p,Portland Trail Blazers,POR,,Minnesota Timberwolves,MIN,,,,,,,Target Center,,2027,november,2026-11-17,False
+"Tue, Nov 17, 2026",8:00p,Detroit Pistons,DET,,San Antonio Spurs,SAS,,,,,,,Frost Bank Center,,2027,november,2026-11-17,False
+"Tue, Nov 17, 2026",10:00p,Charlotte Hornets,CHO,,Los Angeles Lakers,LAL,,,,,,,Crypto.com Arena,,2027,november,2026-11-17,False
+"Tue, Nov 17, 2026",11:00p,Utah Jazz,UTA,,Los Angeles Clippers,LAC,,,,,,,Intuit Dome,,2027,november,2026-11-17,False
+"Wed, Nov 18, 2026",7:00p,Memphis Grizzlies,MEM,,Cleveland Cavaliers,CLE,,,,,,,Rocket Arena,,2027,november,2026-11-18,False
+"Wed, Nov 18, 2026",7:00p,Houston Rockets,HOU,,Indiana Pacers,IND,,,,,,,Gainbridge Fieldhouse,,2027,november,2026-11-18,False
+"Wed, Nov 18, 2026",7:00p,Milwaukee Bucks,MIL,,Miami Heat,MIA,,,,,,,Kaseya Center,,2027,november,2026-11-18,False
+"Wed, Nov 18, 2026",7:00p,Philadelphia 76ers,PHI,,Orlando Magic,ORL,,,,,,,Kia Center,,2027,november,2026-11-18,False
+"Wed, Nov 18, 2026",7:30p,Chicago Bulls,CHI,,Brooklyn Nets,BRK,,,,,,,Barclays Center,,2027,november,2026-11-18,False
+"Wed, Nov 18, 2026",7:30p,Washington Wizards,WAS,,Toronto Raptors,TOR,,,,,,,Scotiabank Arena,,2027,november,2026-11-18,False
+"Wed, Nov 18, 2026",8:00p,Detroit Pistons,DET,,New Orleans Pelicans,NOP,,,,,,,Smoothie King Center,,2027,november,2026-11-18,False
+"Wed, Nov 18, 2026",8:00p,Atlanta Hawks,ATL,,Oklahoma City Thunder,OKC,,,,,,,Paycom Center,,2027,november,2026-11-18,False
+"Wed, Nov 18, 2026",9:00p,Boston Celtics,BOS,,Denver Nuggets,DEN,,,,,,,Ball Arena,,2027,november,2026-11-18,False
+"Wed, Nov 18, 2026",9:30p,Golden State Warriors,GSW,,Dallas Mavericks,DAL,,,,,,,American Airlines Center,,2027,november,2026-11-18,False
+"Wed, Nov 18, 2026",10:00p,Utah Jazz,UTA,,Los Angeles Lakers,LAL,,,,,,,Crypto.com Arena,,2027,november,2026-11-18,False
+"Wed, Nov 18, 2026",10:00p,Phoenix Suns,PHO,,Sacramento Kings,SAC,,,,,,,Golden 1 Center,,2027,november,2026-11-18,False
+"Thu, Nov 19, 2026",8:00p,Golden State Warriors,GSW,,Memphis Grizzlies,MEM,,,,,,,FedExForum,,2027,november,2026-11-19,False
+"Thu, Nov 19, 2026",8:00p,Portland Trail Blazers,POR,,Milwaukee Bucks,MIL,,,,,,,Fiserv Forum,,2027,november,2026-11-19,False
+"Thu, Nov 19, 2026",8:00p,New York Knicks,NYK,,Minnesota Timberwolves,MIN,,,,,,,Target Center,,2027,november,2026-11-19,False
+"Thu, Nov 19, 2026",8:00p,Los Angeles Clippers,LAC,,San Antonio Spurs,SAS,,,,,,,Frost Bank Center,,2027,november,2026-11-19,False
+"Fri, Nov 20, 2026",7:00p,Charlotte Hornets,CHO,,Atlanta Hawks,ATL,,,,,,,State Farm Arena,NBA Cup,2027,november,2026-11-20,False
+"Fri, Nov 20, 2026",7:30p,Orlando Magic,ORL,,Brooklyn Nets,BRK,,,,,,,Barclays Center,NBA Cup,2027,november,2026-11-20,False
+"Fri, Nov 20, 2026",7:30p,Indiana Pacers,IND,,Cleveland Cavaliers,CLE,,,,,,,Rocket Arena,NBA Cup,2027,november,2026-11-20,False
+"Fri, Nov 20, 2026",7:30p,Toronto Raptors,TOR,,Detroit Pistons,DET,,,,,,,Little Caesars Arena,NBA Cup,2027,november,2026-11-20,False
+"Fri, Nov 20, 2026",8:00p,Washington Wizards,WAS,,Chicago Bulls,CHI,,,,,,,United Center,NBA Cup,2027,november,2026-11-20,False
+"Fri, Nov 20, 2026",8:00p,New Orleans Pelicans,NOP,,Oklahoma City Thunder,OKC,,,,,,,Paycom Center,NBA Cup,2027,november,2026-11-20,False
+"Fri, Nov 20, 2026",9:30p,Phoenix Suns,PHO,,Utah Jazz,UTA,,,,,,,Delta Center,NBA Cup,2027,november,2026-11-20,False
+"Fri, Nov 20, 2026",10:00p,Houston Rockets,HOU,,Denver Nuggets,DEN,,,,,,,Ball Arena,NBA Cup,2027,november,2026-11-20,False
+"Fri, Nov 20, 2026",10:00p,Sacramento Kings,SAC,,Los Angeles Lakers,LAL,,,,,,,Crypto.com Arena,NBA Cup,2027,november,2026-11-20,False
+"Sat, Nov 21, 2026",1:00p,Milwaukee Bucks,MIL,,Philadelphia 76ers,PHI,,,,,,,Xfinity Mobile Arena,,2027,november,2026-11-21,False
+"Sat, Nov 21, 2026",7:30p,Portland Trail Blazers,POR,,New York Knicks,NYK,,,,,,,Madison Square Garden (IV),,2027,november,2026-11-21,False
+"Sat, Nov 21, 2026",8:00p,Los Angeles Clippers,LAC,,Dallas Mavericks,DAL,,,,,,,American Airlines Center,,2027,november,2026-11-21,False
+"Sat, Nov 21, 2026",8:00p,Memphis Grizzlies,MEM,,Minnesota Timberwolves,MIN,,,,,,,Target Center,,2027,november,2026-11-21,False
+"Sat, Nov 21, 2026",8:00p,New Orleans Pelicans,NOP,,San Antonio Spurs,SAS,,,,,,,Frost Bank Center,,2027,november,2026-11-21,False
+"Sat, Nov 21, 2026",10:00p,Boston Celtics,BOS,,Sacramento Kings,SAC,,,,,,,Golden 1 Center,,2027,november,2026-11-21,False
+"Sun, Nov 22, 2026",3:30p,Detroit Pistons,DET,,Atlanta Hawks,ATL,,,,,,,State Farm Arena,,2027,november,2026-11-22,False
+"Sun, Nov 22, 2026",6:00p,Oklahoma City Thunder,OKC,,Miami Heat,MIA,,,,,,,Kaseya Center,,2027,november,2026-11-22,False
+"Sun, Nov 22, 2026",7:00p,Denver Nuggets,DEN,,Chicago Bulls,CHI,,,,,,,United Center,,2027,november,2026-11-22,False
+"Sun, Nov 22, 2026",7:00p,Dallas Mavericks,DAL,,Utah Jazz,UTA,,,,,,,Delta Center,,2027,november,2026-11-22,False
+"Sun, Nov 22, 2026",7:00p,Orlando Magic,ORL,,Washington Wizards,WAS,,,,,,,Capital One Arena,,2027,november,2026-11-22,False
+"Sun, Nov 22, 2026",8:00p,Indiana Pacers,IND,,New York Knicks,NYK,,,,,,,Madison Square Garden (IV),,2027,november,2026-11-22,False
+"Sun, Nov 22, 2026",8:30p,Boston Celtics,BOS,,Golden State Warriors,GSW,,,,,,,Chase Center,,2027,november,2026-11-22,False
+"Mon, Nov 23, 2026",7:00p,Memphis Grizzlies,MEM,,Charlotte Hornets,CHO,,,,,,,Spectrum Center,,2027,november,2026-11-23,False
+"Mon, Nov 23, 2026",7:00p,Portland Trail Blazers,POR,,Philadelphia 76ers,PHI,,,,,,,Xfinity Mobile Arena,,2027,november,2026-11-23,False
+"Mon, Nov 23, 2026",7:30p,Oklahoma City Thunder,OKC,,Indiana Pacers,IND,,,,,,,Gainbridge Fieldhouse,,2027,november,2026-11-23,False
+"Mon, Nov 23, 2026",7:30p,Brooklyn Nets,BRK,,Minnesota Timberwolves,MIN,,,,,,,Target Center,,2027,november,2026-11-23,False
+"Mon, Nov 23, 2026",7:30p,Milwaukee Bucks,MIL,,Toronto Raptors,TOR,,,,,,,Scotiabank Arena,,2027,november,2026-11-23,False
+"Mon, Nov 23, 2026",8:00p,Cleveland Cavaliers,CLE,,Chicago Bulls,CHI,,,,,,,United Center,,2027,november,2026-11-23,False
+"Mon, Nov 23, 2026",8:00p,Phoenix Suns,PHO,,New Orleans Pelicans,NOP,,,,,,,Smoothie King Center,,2027,november,2026-11-23,False
+"Mon, Nov 23, 2026",8:30p,Los Angeles Clippers,LAC,,Houston Rockets,HOU,,,,,,,Toyota Center,,2027,november,2026-11-23,False
+"Mon, Nov 23, 2026",10:00p,Utah Jazz,UTA,,Los Angeles Lakers,LAL,,,,,,,Crypto.com Arena,,2027,november,2026-11-23,False
+"Mon, Nov 23, 2026",10:00p,San Antonio Spurs,SAS,,Sacramento Kings,SAC,,,,,,,Golden 1 Center,,2027,november,2026-11-23,False
+"Tue, Nov 24, 2026",7:00p,Detroit Pistons,DET,,Orlando Magic,ORL,,,,,,,Kia Center,NBA Cup,2027,november,2026-11-24,False
+"Tue, Nov 24, 2026",8:00p,Boston Celtics,BOS,,Washington Wizards,WAS,,,,,,,Capital One Arena,NBA Cup,2027,november,2026-11-24,False
+"Tue, Nov 24, 2026",10:00p,Dallas Mavericks,DAL,,Denver Nuggets,DEN,,,,,,,Ball Arena,NBA Cup,2027,november,2026-11-24,False
+"Wed, Nov 25, 2026",5:00p,Miami Heat,MIA,,Philadelphia 76ers,PHI,,,,,,,Xfinity Mobile Arena,NBA Cup,2027,november,2026-11-25,False
+"Wed, Nov 25, 2026",7:00p,Chicago Bulls,CHI,,Charlotte Hornets,CHO,,,,,,,Spectrum Center,NBA Cup,2027,november,2026-11-25,False
+"Wed, Nov 25, 2026",7:30p,Cleveland Cavaliers,CLE,,New York Knicks,NYK,,,,,,,Madison Square Garden (IV),NBA Cup,2027,november,2026-11-25,False
+"Wed, Nov 25, 2026",7:30p,Minnesota Timberwolves,MIN,,Oklahoma City Thunder,OKC,,,,,,,Paycom Center,NBA Cup,2027,november,2026-11-25,False
+"Wed, Nov 25, 2026",8:00p,Los Angeles Clippers,LAC,,Memphis Grizzlies,MEM,,,,,,,FedExForum,NBA Cup,2027,november,2026-11-25,False
+"Wed, Nov 25, 2026",8:00p,Brooklyn Nets,BRK,,Milwaukee Bucks,MIL,,,,,,,Fiserv Forum,NBA Cup,2027,november,2026-11-25,False
+"Wed, Nov 25, 2026",8:30p,Phoenix Suns,PHO,,Houston Rockets,HOU,,,,,,,Toyota Center,NBA Cup,2027,november,2026-11-25,False
+"Wed, Nov 25, 2026",10:00p,Sacramento Kings,SAC,,Golden State Warriors,GSW,,,,,,,Chase Center,NBA Cup,2027,november,2026-11-25,False
+"Wed, Nov 25, 2026",10:00p,San Antonio Spurs,SAS,,Portland Trail Blazers,POR,,,,,,,Moda Center,NBA Cup,2027,november,2026-11-25,False
+"Fri, Nov 27, 2026",7:00p,Miami Heat,MIA,,New York Knicks,NYK,,,,,,,Madison Square Garden (IV),NBA Cup,2027,november,2026-11-27,False
+"Fri, Nov 27, 2026",7:30p,Milwaukee Bucks,MIL,,Detroit Pistons,DET,,,,,,,Little Caesars Arena,NBA Cup,2027,november,2026-11-27,False
+"Fri, Nov 27, 2026",7:30p,Philadelphia 76ers,PHI,,Indiana Pacers,IND,,,,,,,Gainbridge Fieldhouse,NBA Cup,2027,november,2026-11-27,False
+"Fri, Nov 27, 2026",7:30p,Brooklyn Nets,BRK,,Toronto Raptors,TOR,,,,,,,Scotiabank Arena,NBA Cup,2027,november,2026-11-27,False
+"Fri, Nov 27, 2026",8:00p,Atlanta Hawks,ATL,,Boston Celtics,BOS,,,,,,,TD Garden,NBA Cup,2027,november,2026-11-27,False
+"Fri, Nov 27, 2026",8:30p,Memphis Grizzlies,MEM,,Minnesota Timberwolves,MIN,,,,,,,Target Center,NBA Cup,2027,november,2026-11-27,False
+"Fri, Nov 27, 2026",9:00p,Dallas Mavericks,DAL,,Phoenix Suns,PHO,,,,,,,Mortgage Matchup Center,NBA Cup,2027,november,2026-11-27,False
+"Fri, Nov 27, 2026",9:30p,New Orleans Pelicans,NOP,,Los Angeles Clippers,LAC,,,,,,,Intuit Dome,NBA Cup,2027,november,2026-11-27,False
+"Fri, Nov 27, 2026",9:30p,Golden State Warriors,GSW,,Portland Trail Blazers,POR,,,,,,,Moda Center,NBA Cup,2027,november,2026-11-27,False
+"Fri, Nov 27, 2026",9:30p,Los Angeles Lakers,LAL,,San Antonio Spurs,SAS,,,,,,,Frost Bank Center,NBA Cup,2027,november,2026-11-27,False
+"Fri, Nov 27, 2026",9:30p,Denver Nuggets,DEN,,Utah Jazz,UTA,,,,,,,Delta Center,NBA Cup,2027,november,2026-11-27,False
+"Sat, Nov 28, 2026",5:00p,Orlando Magic,ORL,,Washington Wizards,WAS,,,,,,,Capital One Arena,,2027,november,2026-11-28,False
+"Sat, Nov 28, 2026",6:00p,Brooklyn Nets,BRK,,Charlotte Hornets,CHO,,,,,,,Spectrum Center,,2027,november,2026-11-28,False
+"Sat, Nov 28, 2026",8:00p,Indiana Pacers,IND,,Chicago Bulls,CHI,,,,,,,United Center,,2027,november,2026-11-28,False
+"Sat, Nov 28, 2026",8:00p,Oklahoma City Thunder,OKC,,Milwaukee Bucks,MIL,,,,,,,Fiserv Forum,,2027,november,2026-11-28,False
+"Sat, Nov 28, 2026",8:30p,Philadelphia 76ers,PHI,,Houston Rockets,HOU,,,,,,,Toyota Center,,2027,november,2026-11-28,False
+"Sun, Nov 29, 2026",4:00p,Los Angeles Lakers,LAL,,Memphis Grizzlies,MEM,,,,,,,FedExForum,,2027,november,2026-11-29,False
+"Sun, Nov 29, 2026",4:00p,Boston Celtics,BOS,,San Antonio Spurs,SAS,,,,,,,Frost Bank Center,,2027,november,2026-11-29,False
+"Sun, Nov 29, 2026",5:00p,Phoenix Suns,PHO,,Utah Jazz,UTA,,,,,,,Delta Center,,2027,november,2026-11-29,False
+"Sun, Nov 29, 2026",6:00p,Miami Heat,MIA,,Cleveland Cavaliers,CLE,,,,,,,Rocket Arena,,2027,november,2026-11-29,False
+"Sun, Nov 29, 2026",6:00p,Orlando Magic,ORL,,Detroit Pistons,DET,,,,,,,Little Caesars Arena,,2027,november,2026-11-29,False
+"Sun, Nov 29, 2026",6:00p,Atlanta Hawks,ATL,,New York Knicks,NYK,,,,,,,Madison Square Garden (IV),,2027,november,2026-11-29,False
+"Sun, Nov 29, 2026",6:00p,New Orleans Pelicans,NOP,,Portland Trail Blazers,POR,,,,,,,Moda Center,,2027,november,2026-11-29,False
+"Sun, Nov 29, 2026",6:00p,Denver Nuggets,DEN,,Toronto Raptors,TOR,,,,,,,Scotiabank Arena,,2027,november,2026-11-29,False
+"Sun, Nov 29, 2026",8:30p,Los Angeles Clippers,LAC,,Golden State Warriors,GSW,,,,,,,Chase Center,,2027,november,2026-11-29,False
+"Sun, Nov 29, 2026",9:00p,Minnesota Timberwolves,MIN,,Sacramento Kings,SAC,,,,,,,Golden 1 Center,,2027,november,2026-11-29,False
+"Mon, Nov 30, 2026",7:00p,Washington Wizards,WAS,,Charlotte Hornets,CHO,,,,,,,Spectrum Center,,2027,november,2026-11-30,False
+"Mon, Nov 30, 2026",7:00p,Denver Nuggets,DEN,,Detroit Pistons,DET,,,,,,,Little Caesars Arena,,2027,november,2026-11-30,False
+"Mon, Nov 30, 2026",7:30p,Oklahoma City Thunder,OKC,,Brooklyn Nets,BRK,,,,,,,Barclays Center,,2027,november,2026-11-30,False
+"Mon, Nov 30, 2026",7:30p,Los Angeles Lakers,LAL,,Houston Rockets,HOU,,,,,,,Toyota Center,,2027,november,2026-11-30,False
+"Mon, Nov 30, 2026",8:00p,Boston Celtics,BOS,,Dallas Mavericks,DAL,,,,,,,American Airlines Center,,2027,november,2026-11-30,False
+"Mon, Nov 30, 2026",8:00p,San Antonio Spurs,SAS,,Milwaukee Bucks,MIL,,,,,,,Fiserv Forum,,2027,november,2026-11-30,False
+"Mon, Nov 30, 2026",10:00p,New Orleans Pelicans,NOP,,Sacramento Kings,SAC,,,,,,,Golden 1 Center,,2027,november,2026-11-30,False
+"Tue, Dec 1, 2026",7:00p,Indiana Pacers,IND,,Cleveland Cavaliers,CLE,,,,,,,Rocket Arena,,2027,december,2026-12-01,False
+"Tue, Dec 1, 2026",7:00p,Memphis Grizzlies,MEM,,Philadelphia 76ers,PHI,,,,,,,Xfinity Mobile Arena,,2027,december,2026-12-01,False
+"Tue, Dec 1, 2026",7:30p,Atlanta Hawks,ATL,,Miami Heat,MIA,,,,,,,Kaseya Center,,2027,december,2026-12-01,False
+"Tue, Dec 1, 2026",8:00p,New York Knicks,NYK,,Chicago Bulls,CHI,,,,,,,United Center,,2027,december,2026-12-01,False
+"Tue, Dec 1, 2026",8:30p,Toronto Raptors,TOR,,Houston Rockets,HOU,,,,,,,Toyota Center,,2027,december,2026-12-01,False
+"Tue, Dec 1, 2026",9:00p,Los Angeles Clippers,LAC,,Phoenix Suns,PHO,,,,,,,Mortgage Matchup Center,,2027,december,2026-12-01,False
+"Tue, Dec 1, 2026",10:00p,Minnesota Timberwolves,MIN,,Portland Trail Blazers,POR,,,,,,,Moda Center,,2027,december,2026-12-01,False
+"Tue, Dec 1, 2026",11:00p,Utah Jazz,UTA,,Golden State Warriors,GSW,,,,,,,Chase Center,,2027,december,2026-12-01,False
+"Wed, Dec 2, 2026",7:00p,Memphis Grizzlies,MEM,,Detroit Pistons,DET,,,,,,,Little Caesars Arena,,2027,december,2026-12-02,False
+"Wed, Dec 2, 2026",7:00p,Denver Nuggets,DEN,,Philadelphia 76ers,PHI,,,,,,,Xfinity Mobile Arena,,2027,december,2026-12-02,False
+"Wed, Dec 2, 2026",7:30p,Charlotte Hornets,CHO,,Boston Celtics,BOS,,,,,,,TD Garden,,2027,december,2026-12-02,False
+"Wed, Dec 2, 2026",8:00p,Orlando Magic,ORL,,Dallas Mavericks,DAL,,,,,,,American Airlines Center,,2027,december,2026-12-02,False
+"Wed, Dec 2, 2026",8:00p,New York Knicks,NYK,,Milwaukee Bucks,MIL,,,,,,,Fiserv Forum,,2027,december,2026-12-02,False
+"Wed, Dec 2, 2026",8:00p,Los Angeles Lakers,LAL,,New Orleans Pelicans,NOP,,,,,,,Smoothie King Center,,2027,december,2026-12-02,False
+"Wed, Dec 2, 2026",8:00p,Brooklyn Nets,BRK,,Oklahoma City Thunder,OKC,,,,,,,Paycom Center,,2027,december,2026-12-02,False
+"Wed, Dec 2, 2026",9:00p,Sacramento Kings,SAC,,Phoenix Suns,PHO,,,,,,,Mortgage Matchup Center,,2027,december,2026-12-02,False
+"Wed, Dec 2, 2026",10:30p,Minnesota Timberwolves,MIN,,Los Angeles Clippers,LAC,,,,,,,Intuit Dome,,2027,december,2026-12-02,False
+"Thu, Dec 3, 2026",7:00p,Indiana Pacers,IND,,Atlanta Hawks,ATL,,,,,,,State Farm Arena,,2027,december,2026-12-03,False
+"Thu, Dec 3, 2026",7:30p,Washington Wizards,WAS,,Miami Heat,MIA,,,,,,,Kaseya Center,,2027,december,2026-12-03,False
+"Thu, Dec 3, 2026",8:00p,Cleveland Cavaliers,CLE,,Chicago Bulls,CHI,,,,,,,United Center,,2027,december,2026-12-03,False
+"Thu, Dec 3, 2026",8:00p,Toronto Raptors,TOR,,San Antonio Spurs,SAS,,,,,,,Frost Bank Center,,2027,december,2026-12-03,False
+"Thu, Dec 3, 2026",10:00p,Utah Jazz,UTA,,Portland Trail Blazers,POR,,,,,,,Moda Center,,2027,december,2026-12-03,False
+"Sat, Dec 12, 2026",5:00p,Milwaukee Bucks,MIL,,Memphis Grizzlies,MEM,,,,,,,FedExForum,,2027,december,2026-12-12,False
+"Sat, Dec 12, 2026",7:00p,Charlotte Hornets,CHO,,Washington Wizards,WAS,,,,,,,Capital One Arena,,2027,december,2026-12-12,False
+"Sat, Dec 12, 2026",7:30p,Orlando Magic,ORL,,Philadelphia 76ers,PHI,,,,,,,Xfinity Mobile Arena,,2027,december,2026-12-12,False
+"Sat, Dec 12, 2026",8:00p,Golden State Warriors,GSW,,Cleveland Cavaliers,CLE,,,,,,,Rocket Arena,,2027,december,2026-12-12,False
+"Sat, Dec 12, 2026",8:30p,New York Knicks,NYK,,Miami Heat,MIA,,,,,,,Kaseya Center,,2027,december,2026-12-12,False
+"Sat, Dec 12, 2026",9:00p,Minnesota Timberwolves,MIN,,Phoenix Suns,PHO,,,,,,,Mortgage Matchup Center,,2027,december,2026-12-12,False
+"Sat, Dec 12, 2026",9:30p,Denver Nuggets,DEN,,Utah Jazz,UTA,,,,,,,Delta Center,,2027,december,2026-12-12,False
+"Sat, Dec 12, 2026",10:00p,Atlanta Hawks,ATL,,Portland Trail Blazers,POR,,,,,,,Moda Center,,2027,december,2026-12-12,False
+"Sun, Dec 13, 2026",3:00p,Boston Celtics,BOS,,Brooklyn Nets,BRK,,,,,,,Barclays Center,,2027,december,2026-12-13,False
+"Sun, Dec 13, 2026",3:30p,Toronto Raptors,TOR,,Oklahoma City Thunder,OKC,,,,,,,Paycom Center,,2027,december,2026-12-13,False
+"Sun, Dec 13, 2026",5:00p,Detroit Pistons,DET,,Indiana Pacers,IND,,,,,,,Gainbridge Fieldhouse,,2027,december,2026-12-13,False
+"Sun, Dec 13, 2026",6:00p,Houston Rockets,HOU,,Chicago Bulls,CHI,,,,,,,United Center,,2027,december,2026-12-13,False
+"Sun, Dec 13, 2026",7:00p,Los Angeles Clippers,LAC,,San Antonio Spurs,SAS,,,,,,,Frost Bank Center,,2027,december,2026-12-13,False
+"Sun, Dec 13, 2026",9:00p,New Orleans Pelicans,NOP,,Sacramento Kings,SAC,,,,,,,Golden 1 Center,,2027,december,2026-12-13,False
+"Mon, Dec 14, 2026",7:00p,Toronto Raptors,TOR,,Charlotte Hornets,CHO,,,,,,,Spectrum Center,,2027,december,2026-12-14,False
+"Mon, Dec 14, 2026",7:00p,Brooklyn Nets,BRK,,Detroit Pistons,DET,,,,,,,Little Caesars Arena,,2027,december,2026-12-14,False
+"Mon, Dec 14, 2026",7:00p,Philadelphia 76ers,PHI,,Orlando Magic,ORL,,,,,,,Kia Center,,2027,december,2026-12-14,False
+"Mon, Dec 14, 2026",7:30p,Washington Wizards,WAS,,Boston Celtics,BOS,,,,,,,TD Garden,,2027,december,2026-12-14,False
+"Mon, Dec 14, 2026",8:00p,Miami Heat,MIA,,Chicago Bulls,CHI,,,,,,,United Center,,2027,december,2026-12-14,False
+"Mon, Dec 14, 2026",8:00p,Milwaukee Bucks,MIL,,Dallas Mavericks,DAL,,,,,,,American Airlines Center,,2027,december,2026-12-14,False
+"Mon, Dec 14, 2026",8:00p,Golden State Warriors,GSW,,Memphis Grizzlies,MEM,,,,,,,FedExForum,,2027,december,2026-12-14,False
+"Mon, Dec 14, 2026",8:30p,New York Knicks,NYK,,Houston Rockets,HOU,,,,,,,Toyota Center,,2027,december,2026-12-14,False
+"Mon, Dec 14, 2026",9:00p,Atlanta Hawks,ATL,,Phoenix Suns,PHO,,,,,,,Mortgage Matchup Center,,2027,december,2026-12-14,False
+"Mon, Dec 14, 2026",9:00p,Minnesota Timberwolves,MIN,,Utah Jazz,UTA,,,,,,,Delta Center,,2027,december,2026-12-14,False
+"Mon, Dec 14, 2026",10:00p,New Orleans Pelicans,NOP,,Los Angeles Lakers,LAL,,,,,,,Crypto.com Arena,,2027,december,2026-12-14,False
+"Tue, Dec 15, 2026",8:00p,San Antonio Spurs,SAS,,Cleveland Cavaliers,CLE,,,,,,,Rocket Arena,,2027,december,2026-12-15,False
+"Tue, Dec 15, 2026",11:00p,Denver Nuggets,DEN,,Portland Trail Blazers,POR,,,,,,,Moda Center,,2027,december,2026-12-15,False
+"Wed, Dec 16, 2026",7:00p,Washington Wizards,WAS,,Boston Celtics,BOS,,,,,,,TD Garden,,2027,december,2026-12-16,False
+"Wed, Dec 16, 2026",7:00p,Los Angeles Clippers,LAC,,Charlotte Hornets,CHO,,,,,,,Spectrum Center,,2027,december,2026-12-16,False
+"Wed, Dec 16, 2026",7:00p,Phoenix Suns,PHO,,Detroit Pistons,DET,,,,,,,Little Caesars Arena,,2027,december,2026-12-16,False
+"Wed, Dec 16, 2026",7:00p,Golden State Warriors,GSW,,Indiana Pacers,IND,,,,,,,Gainbridge Fieldhouse,,2027,december,2026-12-16,False
+"Wed, Dec 16, 2026",7:00p,Cleveland Cavaliers,CLE,,Orlando Magic,ORL,,,,,,,Kia Center,,2027,december,2026-12-16,False
+"Wed, Dec 16, 2026",7:30p,Dallas Mavericks,DAL,,Brooklyn Nets,BRK,,,,,,,Barclays Center,,2027,december,2026-12-16,False
+"Wed, Dec 16, 2026",7:30p,San Antonio Spurs,SAS,,Toronto Raptors,TOR,,,,,,,Scotiabank Arena,,2027,december,2026-12-16,False
+"Wed, Dec 16, 2026",8:00p,Utah Jazz,UTA,,Chicago Bulls,CHI,,,,,,,United Center,,2027,december,2026-12-16,False
+"Wed, Dec 16, 2026",8:00p,Miami Heat,MIA,,Memphis Grizzlies,MEM,,,,,,,FedExForum,,2027,december,2026-12-16,False
+"Wed, Dec 16, 2026",8:00p,New York Knicks,NYK,,New Orleans Pelicans,NOP,,,,,,,Smoothie King Center,,2027,december,2026-12-16,False
+"Wed, Dec 16, 2026",8:00p,Sacramento Kings,SAC,,Oklahoma City Thunder,OKC,,,,,,,Paycom Center,,2027,december,2026-12-16,False
+"Wed, Dec 16, 2026",8:30p,Milwaukee Bucks,MIL,,Houston Rockets,HOU,,,,,,,Toyota Center,,2027,december,2026-12-16,False
+"Wed, Dec 16, 2026",9:30p,Los Angeles Lakers,LAL,,Minnesota Timberwolves,MIN,,,,,,,Target Center,,2027,december,2026-12-16,False
+"Thu, Dec 17, 2026",7:00p,Portland Trail Blazers,POR,,Indiana Pacers,IND,,,,,,,Gainbridge Fieldhouse,,2027,december,2026-12-17,False
+"Thu, Dec 17, 2026",7:00p,Dallas Mavericks,DAL,,Philadelphia 76ers,PHI,,,,,,,Xfinity Mobile Arena,,2027,december,2026-12-17,False
+"Thu, Dec 17, 2026",9:00p,Atlanta Hawks,ATL,,Denver Nuggets,DEN,,,,,,,Ball Arena,,2027,december,2026-12-17,False
+"Fri, Dec 18, 2026",7:00p,Oklahoma City Thunder,OKC,,Charlotte Hornets,CHO,,,,,,,Spectrum Center,,2027,december,2026-12-18,False
+"Fri, Dec 18, 2026",7:00p,Los Angeles Clippers,LAC,,Miami Heat,MIA,,,,,,,Kaseya Center,,2027,december,2026-12-18,False
+"Fri, Dec 18, 2026",7:00p,New York Knicks,NYK,,Washington Wizards,WAS,,,,,,,Capital One Arena,,2027,december,2026-12-18,False
+"Fri, Dec 18, 2026",7:30p,Utah Jazz,UTA,,Boston Celtics,BOS,,,,,,,TD Garden,,2027,december,2026-12-18,False
+"Fri, Dec 18, 2026",7:30p,Orlando Magic,ORL,,Brooklyn Nets,BRK,,,,,,,Barclays Center,,2027,december,2026-12-18,False
+"Fri, Dec 18, 2026",7:30p,Cleveland Cavaliers,CLE,,Detroit Pistons,DET,,,,,,,Little Caesars Arena,,2027,december,2026-12-18,False
+"Fri, Dec 18, 2026",7:30p,Golden State Warriors,GSW,,Toronto Raptors,TOR,,,,,,,Scotiabank Arena,,2027,december,2026-12-18,False
+"Fri, Dec 18, 2026",8:00p,Houston Rockets,HOU,,Memphis Grizzlies,MEM,,,,,,,FedExForum,,2027,december,2026-12-18,False
+"Fri, Dec 18, 2026",8:00p,Phoenix Suns,PHO,,Milwaukee Bucks,MIL,,,,,,,Fiserv Forum,,2027,december,2026-12-18,False
+"Fri, Dec 18, 2026",8:00p,Los Angeles Lakers,LAL,,Minnesota Timberwolves,MIN,,,,,,,Target Center,,2027,december,2026-12-18,False
+"Fri, Dec 18, 2026",8:00p,Sacramento Kings,SAC,,New Orleans Pelicans,NOP,,,,,,,Smoothie King Center,,2027,december,2026-12-18,False
+"Fri, Dec 18, 2026",8:00p,Chicago Bulls,CHI,,San Antonio Spurs,SAS,,,,,,,Frost Bank Center,,2027,december,2026-12-18,False
+"Sat, Dec 19, 2026",6:00p,Portland Trail Blazers,POR,,Charlotte Hornets,CHO,,,,,,,Spectrum Center,,2027,december,2026-12-19,False
+"Sat, Dec 19, 2026",7:00p,Orlando Magic,ORL,,Atlanta Hawks,ATL,,,,,,,State Farm Arena,,2027,december,2026-12-19,False
+"Sat, Dec 19, 2026",8:00p,Chicago Bulls,CHI,,Dallas Mavericks,DAL,,,,,,,American Airlines Center,,2027,december,2026-12-19,False
+"Sat, Dec 19, 2026",9:00p,Los Angeles Lakers,LAL,,Denver Nuggets,DEN,,,,,,,Ball Arena,,2027,december,2026-12-19,False
+"Sun, Dec 20, 2026",3:00p,Washington Wizards,WAS,,Brooklyn Nets,BRK,,,,,,,Barclays Center,,2027,december,2026-12-20,False
+"Sun, Dec 20, 2026",3:30p,Houston Rockets,HOU,,Toronto Raptors,TOR,,,,,,,Scotiabank Arena,,2027,december,2026-12-20,False
+"Sun, Dec 20, 2026",4:00p,Phoenix Suns,PHO,,Memphis Grizzlies,MEM,,,,,,,FedExForum,,2027,december,2026-12-20,False
+"Sun, Dec 20, 2026",6:00p,Utah Jazz,UTA,,Cleveland Cavaliers,CLE,,,,,,,Rocket Arena,,2027,december,2026-12-20,False
+"Sun, Dec 20, 2026",6:00p,Sacramento Kings,SAC,,Miami Heat,MIA,,,,,,,Kaseya Center,,2027,december,2026-12-20,False
+"Sun, Dec 20, 2026",7:00p,Oklahoma City Thunder,OKC,,Atlanta Hawks,ATL,,,,,,,State Farm Arena,,2027,december,2026-12-20,False
+"Sun, Dec 20, 2026",7:00p,San Antonio Spurs,SAS,,New Orleans Pelicans,NOP,,,,,,,Smoothie King Center,,2027,december,2026-12-20,False
+"Sun, Dec 20, 2026",8:00p,Detroit Pistons,DET,,Boston Celtics,BOS,,,,,,,TD Garden,,2027,december,2026-12-20,False
+"Sun, Dec 20, 2026",8:00p,Golden State Warriors,GSW,,Milwaukee Bucks,MIL,,,,,,,Fiserv Forum,,2027,december,2026-12-20,False
+"Sun, Dec 20, 2026",10:00p,Indiana Pacers,IND,,Los Angeles Clippers,LAC,,,,,,,Intuit Dome,,2027,december,2026-12-20,False
+"Mon, Dec 21, 2026",7:00p,Philadelphia 76ers,PHI,,Charlotte Hornets,CHO,,,,,,,Spectrum Center,,2027,december,2026-12-21,False
+"Mon, Dec 21, 2026",7:00p,New York Knicks,NYK,,Cleveland Cavaliers,CLE,,,,,,,Rocket Arena,,2027,december,2026-12-21,False
+"Mon, Dec 21, 2026",7:00p,Sacramento Kings,SAC,,Orlando Magic,ORL,,,,,,,Kia Center,,2027,december,2026-12-21,False
+"Mon, Dec 21, 2026",7:30p,Portland Trail Blazers,POR,,Brooklyn Nets,BRK,,,,,,,Barclays Center,,2027,december,2026-12-21,False
+"Mon, Dec 21, 2026",7:30p,Chicago Bulls,CHI,,Miami Heat,MIA,,,,,,,Kaseya Center,,2027,december,2026-12-21,False
+"Mon, Dec 21, 2026",8:00p,Phoenix Suns,PHO,,Minnesota Timberwolves,MIN,,,,,,,Target Center,,2027,december,2026-12-21,False
+"Mon, Dec 21, 2026",8:00p,Memphis Grizzlies,MEM,,New Orleans Pelicans,NOP,,,,,,,Smoothie King Center,,2027,december,2026-12-21,False
+"Mon, Dec 21, 2026",8:00p,Milwaukee Bucks,MIL,,San Antonio Spurs,SAS,,,,,,,Frost Bank Center,,2027,december,2026-12-21,False
+"Mon, Dec 21, 2026",10:00p,Indiana Pacers,IND,,Los Angeles Lakers,LAL,,,,,,,Crypto.com Arena,,2027,december,2026-12-21,False
+"Mon, Dec 21, 2026",10:30p,Denver Nuggets,DEN,,Los Angeles Clippers,LAC,,,,,,,Intuit Dome,,2027,december,2026-12-21,False
+"Tue, Dec 22, 2026",7:00p,Toronto Raptors,TOR,,Washington Wizards,WAS,,,,,,,Capital One Arena,,2027,december,2026-12-22,False
+"Tue, Dec 22, 2026",8:00p,Detroit Pistons,DET,,Oklahoma City Thunder,OKC,,,,,,,Paycom Center,,2027,december,2026-12-22,False
+"Tue, Dec 22, 2026",10:30p,Dallas Mavericks,DAL,,Golden State Warriors,GSW,,,,,,,Chase Center,,2027,december,2026-12-22,False
+"Wed, Dec 23, 2026",7:00p,Detroit Pistons,DET,,Atlanta Hawks,ATL,,,,,,,State Farm Arena,,2027,december,2026-12-23,False
+"Wed, Dec 23, 2026",7:00p,Charlotte Hornets,CHO,,Orlando Magic,ORL,,,,,,,Kia Center,,2027,december,2026-12-23,False
+"Wed, Dec 23, 2026",7:00p,Cleveland Cavaliers,CLE,,Washington Wizards,WAS,,,,,,,Capital One Arena,,2027,december,2026-12-23,False
+"Wed, Dec 23, 2026",7:30p,Portland Trail Blazers,POR,,Boston Celtics,BOS,,,,,,,TD Garden,,2027,december,2026-12-23,False
+"Wed, Dec 23, 2026",7:30p,San Antonio Spurs,SAS,,Brooklyn Nets,BRK,,,,,,,Barclays Center,,2027,december,2026-12-23,False
+"Wed, Dec 23, 2026",7:30p,Chicago Bulls,CHI,,Miami Heat,MIA,,,,,,,Kaseya Center,,2027,december,2026-12-23,False
+"Wed, Dec 23, 2026",7:30p,Utah Jazz,UTA,,New York Knicks,NYK,,,,,,,Madison Square Garden (IV),,2027,december,2026-12-23,False
+"Wed, Dec 23, 2026",7:30p,Houston Rockets,HOU,,Philadelphia 76ers,PHI,,,,,,,Xfinity Mobile Arena,,2027,december,2026-12-23,False
+"Wed, Dec 23, 2026",8:00p,Toronto Raptors,TOR,,Memphis Grizzlies,MEM,,,,,,,FedExForum,,2027,december,2026-12-23,False
+"Wed, Dec 23, 2026",8:00p,Minnesota Timberwolves,MIN,,Milwaukee Bucks,MIL,,,,,,,Fiserv Forum,,2027,december,2026-12-23,False
+"Wed, Dec 23, 2026",8:00p,Oklahoma City Thunder,OKC,,New Orleans Pelicans,NOP,,,,,,,Smoothie King Center,,2027,december,2026-12-23,False
+"Wed, Dec 23, 2026",9:00p,Indiana Pacers,IND,,Phoenix Suns,PHO,,,,,,,Mortgage Matchup Center,,2027,december,2026-12-23,False
+"Wed, Dec 23, 2026",10:00p,Denver Nuggets,DEN,,Los Angeles Lakers,LAL,,,,,,,Crypto.com Arena,,2027,december,2026-12-23,False
+"Wed, Dec 23, 2026",10:00p,Dallas Mavericks,DAL,,Sacramento Kings,SAC,,,,,,,Golden 1 Center,,2027,december,2026-12-23,False
+"Wed, Dec 23, 2026",10:30p,Golden State Warriors,GSW,,Los Angeles Clippers,LAC,,,,,,,Intuit Dome,,2027,december,2026-12-23,False
+"Fri, Dec 25, 2026",12:00p,San Antonio Spurs,SAS,,New York Knicks,NYK,,,,,,,Madison Square Garden (IV),,2027,december,2026-12-25,False
+"Fri, Dec 25, 2026",2:30p,Miami Heat,MIA,,Boston Celtics,BOS,,,,,,,TD Garden,,2027,december,2026-12-25,False
+"Fri, Dec 25, 2026",5:00p,Philadelphia 76ers,PHI,,Los Angeles Lakers,LAL,,,,,,,Crypto.com Arena,,2027,december,2026-12-25,False
+"Fri, Dec 25, 2026",8:00p,Oklahoma City Thunder,OKC,,Minnesota Timberwolves,MIN,,,,,,,Target Center,,2027,december,2026-12-25,False
+"Fri, Dec 25, 2026",10:30p,Denver Nuggets,DEN,,Golden State Warriors,GSW,,,,,,,Chase Center,,2027,december,2026-12-25,False
+"Sat, Dec 26, 2026",1:00p,Portland Trail Blazers,POR,,Washington Wizards,WAS,,,,,,,Capital One Arena,,2027,december,2026-12-26,False
+"Sat, Dec 26, 2026",3:30p,Charlotte Hornets,CHO,,Atlanta Hawks,ATL,,,,,,,State Farm Arena,,2027,december,2026-12-26,False
+"Sat, Dec 26, 2026",5:00p,Indiana Pacers,IND,,Utah Jazz,UTA,,,,,,,Delta Center,,2027,december,2026-12-26,False
+"Sat, Dec 26, 2026",6:00p,New Orleans Pelicans,NOP,,Brooklyn Nets,BRK,,,,,,,Barclays Center,,2027,december,2026-12-26,False
+"Sat, Dec 26, 2026",7:00p,Toronto Raptors,TOR,,Orlando Magic,ORL,,,,,,,Kia Center,,2027,december,2026-12-26,False
+"Sat, Dec 26, 2026",8:00p,Detroit Pistons,DET,,Chicago Bulls,CHI,,,,,,,United Center,,2027,december,2026-12-26,False
+"Sat, Dec 26, 2026",8:00p,Phoenix Suns,PHO,,Dallas Mavericks,DAL,,,,,,,American Airlines Center,,2027,december,2026-12-26,False
+"Sat, Dec 26, 2026",10:30p,Memphis Grizzlies,MEM,,Los Angeles Clippers,LAC,,,,,,,Intuit Dome,,2027,december,2026-12-26,False
+"Sun, Dec 27, 2026",3:30p,Oklahoma City Thunder,OKC,,Houston Rockets,HOU,,,,,,,Toyota Center,,2027,december,2026-12-27,False
+"Sun, Dec 27, 2026",6:00p,Washington Wizards,WAS,,Cleveland Cavaliers,CLE,,,,,,,Rocket Arena,,2027,december,2026-12-27,False
+"Sun, Dec 27, 2026",6:00p,Charlotte Hornets,CHO,,Miami Heat,MIA,,,,,,,Kaseya Center,,2027,december,2026-12-27,False
+"Sun, Dec 27, 2026",6:00p,Brooklyn Nets,BRK,,New York Knicks,NYK,,,,,,,Madison Square Garden (IV),,2027,december,2026-12-27,False
+"Sun, Dec 27, 2026",6:00p,Milwaukee Bucks,MIL,,Orlando Magic,ORL,,,,,,,Kia Center,,2027,december,2026-12-27,False
+"Sun, Dec 27, 2026",6:00p,Utah Jazz,UTA,,Sacramento Kings,SAC,,,,,,,Golden 1 Center,,2027,december,2026-12-27,False
+"Sun, Dec 27, 2026",7:00p,Portland Trail Blazers,POR,,Detroit Pistons,DET,,,,,,,Little Caesars Arena,,2027,december,2026-12-27,False
+"Sun, Dec 27, 2026",7:00p,Atlanta Hawks,ATL,,San Antonio Spurs,SAS,,,,,,,Frost Bank Center,,2027,december,2026-12-27,False
+"Sun, Dec 27, 2026",8:00p,Indiana Pacers,IND,,Denver Nuggets,DEN,,,,,,,Ball Arena,,2027,december,2026-12-27,False
+"Sun, Dec 27, 2026",8:30p,Minnesota Timberwolves,MIN,,Golden State Warriors,GSW,,,,,,,Chase Center,,2027,december,2026-12-27,False
+"Sun, Dec 27, 2026",9:00p,Philadelphia 76ers,PHI,,Los Angeles Clippers,LAC,,,,,,,Intuit Dome,,2027,december,2026-12-27,False
+"Sun, Dec 27, 2026",9:00p,Memphis Grizzlies,MEM,,Los Angeles Lakers,LAL,,,,,,,Crypto.com Arena,,2027,december,2026-12-27,False
+"Mon, Dec 28, 2026",7:30p,New Orleans Pelicans,NOP,,Toronto Raptors,TOR,,,,,,,Scotiabank Arena,,2027,december,2026-12-28,False
+"Mon, Dec 28, 2026",8:00p,Cleveland Cavaliers,CLE,,Boston Celtics,BOS,,,,,,,TD Garden,,2027,december,2026-12-28,False
+"Mon, Dec 28, 2026",9:00p,Golden State Warriors,GSW,,Phoenix Suns,PHO,,,,,,,Mortgage Matchup Center,,2027,december,2026-12-28,False
+"Mon, Dec 28, 2026",10:30p,Minnesota Timberwolves,MIN,,Denver Nuggets,DEN,,,,,,,Ball Arena,,2027,december,2026-12-28,False
+"Tue, Dec 29, 2026",7:00p,Chicago Bulls,CHI,,Atlanta Hawks,ATL,,,,,,,State Farm Arena,,2027,december,2026-12-29,False
+"Tue, Dec 29, 2026",7:00p,Orlando Magic,ORL,,Charlotte Hornets,CHO,,,,,,,Spectrum Center,,2027,december,2026-12-29,False
+"Tue, Dec 29, 2026",7:00p,Los Angeles Clippers,LAC,,Indiana Pacers,IND,,,,,,,Gainbridge Fieldhouse,,2027,december,2026-12-29,False
+"Tue, Dec 29, 2026",8:00p,Miami Heat,MIA,,Dallas Mavericks,DAL,,,,,,,American Airlines Center,,2027,december,2026-12-29,False
+"Tue, Dec 29, 2026",8:00p,San Antonio Spurs,SAS,,Memphis Grizzlies,MEM,,,,,,,FedExForum,,2027,december,2026-12-29,False
+"Tue, Dec 29, 2026",8:00p,Milwaukee Bucks,MIL,,Oklahoma City Thunder,OKC,,,,,,,Paycom Center,,2027,december,2026-12-29,False
+"Tue, Dec 29, 2026",10:00p,Brooklyn Nets,BRK,,Portland Trail Blazers,POR,,,,,,,Moda Center,,2027,december,2026-12-29,False
+"Tue, Dec 29, 2026",10:00p,Philadelphia 76ers,PHI,,Sacramento Kings,SAC,,,,,,,Golden 1 Center,,2027,december,2026-12-29,False
+"Tue, Dec 29, 2026",10:30p,Houston Rockets,HOU,,Los Angeles Lakers,LAL,,,,,,,Crypto.com Arena,,2027,december,2026-12-29,False
+"Wed, Dec 30, 2026",7:00p,New Orleans Pelicans,NOP,,Detroit Pistons,DET,,,,,,,Little Caesars Arena,,2027,december,2026-12-30,False
+"Wed, Dec 30, 2026",7:30p,Washington Wizards,WAS,,Toronto Raptors,TOR,,,,,,,Scotiabank Arena,,2027,december,2026-12-30,False
+"Wed, Dec 30, 2026",8:00p,Boston Celtics,BOS,,Chicago Bulls,CHI,,,,,,,United Center,,2027,december,2026-12-30,False
+"Wed, Dec 30, 2026",9:00p,Philadelphia 76ers,PHI,,Phoenix Suns,PHO,,,,,,,Mortgage Matchup Center,,2027,december,2026-12-30,False
+"Wed, Dec 30, 2026",9:00p,New York Knicks,NYK,,Utah Jazz,UTA,,,,,,,Delta Center,,2027,december,2026-12-30,False
+"Wed, Dec 30, 2026",10:00p,Houston Rockets,HOU,,Golden State Warriors,GSW,,,,,,,Chase Center,,2027,december,2026-12-30,False
+"Thu, Dec 31, 2026",1:00p,San Antonio Spurs,SAS,,Charlotte Hornets,CHO,,,,,,,Spectrum Center,,2027,december,2026-12-31,False
+"Thu, Dec 31, 2026",3:00p,Milwaukee Bucks,MIL,,Atlanta Hawks,ATL,,,,,,,State Farm Arena,,2027,december,2026-12-31,False
+"Thu, Dec 31, 2026",3:00p,Los Angeles Clippers,LAC,,Cleveland Cavaliers,CLE,,,,,,,Rocket Arena,,2027,december,2026-12-31,False
+"Thu, Dec 31, 2026",3:00p,Orlando Magic,ORL,,Indiana Pacers,IND,,,,,,,Gainbridge Fieldhouse,,2027,december,2026-12-31,False
+"Thu, Dec 31, 2026",4:00p,Denver Nuggets,DEN,,Minnesota Timberwolves,MIN,,,,,,,Target Center,,2027,december,2026-12-31,False
+"Thu, Dec 31, 2026",6:00p,Brooklyn Nets,BRK,,Sacramento Kings,SAC,,,,,,,Golden 1 Center,,2027,december,2026-12-31,False
+"Thu, Dec 31, 2026",8:00p,Los Angeles Lakers,LAL,,New Orleans Pelicans,NOP,,,,,,,Smoothie King Center,,2027,december,2026-12-31,False
+"Thu, Dec 31, 2026",8:00p,Miami Heat,MIA,,Oklahoma City Thunder,OKC,,,,,,,Paycom Center,,2027,december,2026-12-31,False
+"Thu, Dec 31, 2026",9:00p,New York Knicks,NYK,,Phoenix Suns,PHO,,,,,,,Mortgage Matchup Center,,2027,december,2026-12-31,False
+"Fri, Jan 1, 2027",5:00p,San Antonio Spurs,SAS,,Washington Wizards,WAS,,,,,,,Capital One Arena,,2027,january,2027-01-01,False
+"Fri, Jan 1, 2027",7:30p,Orlando Magic,ORL,,Detroit Pistons,DET,,,,,,,Little Caesars Arena,,2027,january,2027-01-01,False
+"Fri, Jan 1, 2027",7:30p,Los Angeles Clippers,LAC,,Toronto Raptors,TOR,,,,,,,Scotiabank Arena,,2027,january,2027-01-01,False
+"Fri, Jan 1, 2027",8:00p,Philadelphia 76ers,PHI,,Milwaukee Bucks,MIL,,,,,,,Fiserv Forum,,2027,january,2027-01-01,False
+"Fri, Jan 1, 2027",8:30p,Dallas Mavericks,DAL,,Houston Rockets,HOU,,,,,,,Toyota Center,,2027,january,2027-01-01,False
+"Fri, Jan 1, 2027",9:30p,Boston Celtics,BOS,,Utah Jazz,UTA,,,,,,,Delta Center,,2027,january,2027-01-01,False
+"Sat, Jan 2, 2027",1:00p,Cleveland Cavaliers,CLE,,Charlotte Hornets,CHO,,,,,,,Spectrum Center,,2027,january,2027-01-02,False
+"Sat, Jan 2, 2027",5:00p,New York Knicks,NYK,,Denver Nuggets,DEN,,,,,,,Ball Arena,,2027,january,2027-01-02,False
+"Sat, Jan 2, 2027",7:00p,Minnesota Timberwolves,MIN,,Indiana Pacers,IND,,,,,,,Gainbridge Fieldhouse,,2027,january,2027-01-02,False
+"Sat, Jan 2, 2027",7:00p,Miami Heat,MIA,,New Orleans Pelicans,NOP,,,,,,,Smoothie King Center,,2027,january,2027-01-02,False
+"Sat, Jan 2, 2027",7:30p,Dallas Mavericks,DAL,,Atlanta Hawks,ATL,,,,,,,State Farm Arena,,2027,january,2027-01-02,False
+"Sat, Jan 2, 2027",8:00p,Los Angeles Lakers,LAL,,Chicago Bulls,CHI,,,,,,,United Center,,2027,january,2027-01-02,False
+"Sat, Jan 2, 2027",8:00p,Utah Jazz,UTA,,Oklahoma City Thunder,OKC,,,,,,,Paycom Center,,2027,january,2027-01-02,False
+"Sat, Jan 2, 2027",8:30p,Brooklyn Nets,BRK,,Golden State Warriors,GSW,,,,,,,Chase Center,,2027,january,2027-01-02,False
+"Sat, Jan 2, 2027",9:00p,Sacramento Kings,SAC,,Phoenix Suns,PHO,,,,,,,Mortgage Matchup Center,,2027,january,2027-01-02,False
+"Sat, Jan 2, 2027",10:00p,Boston Celtics,BOS,,Portland Trail Blazers,POR,,,,,,,Moda Center,,2027,january,2027-01-02,False
+"Sun, Jan 3, 2027",5:00p,Detroit Pistons,DET,,Denver Nuggets,DEN,,,,,,,Ball Arena,,2027,january,2027-01-03,False
+"Sun, Jan 3, 2027",5:30p,Charlotte Hornets,CHO,,Milwaukee Bucks,MIL,,,,,,,Fiserv Forum,,2027,january,2027-01-03,False
+"Sun, Jan 3, 2027",6:00p,Memphis Grizzlies,MEM,,Orlando Magic,ORL,,,,,,,Kia Center,,2027,january,2027-01-03,False
+"Sun, Jan 3, 2027",7:00p,Cleveland Cavaliers,CLE,,Houston Rockets,HOU,,,,,,,Toyota Center,,2027,january,2027-01-03,False
+"Sun, Jan 3, 2027",7:00p,San Antonio Spurs,SAS,,Minnesota Timberwolves,MIN,,,,,,,Target Center,,2027,january,2027-01-03,False
+"Sun, Jan 3, 2027",7:00p,Los Angeles Lakers,LAL,,Toronto Raptors,TOR,,,,,,,Scotiabank Arena,,2027,january,2027-01-03,False
+"Sun, Jan 3, 2027",7:00p,Los Angeles Clippers,LAC,,Washington Wizards,WAS,,,,,,,Capital One Arena,,2027,january,2027-01-03,False
+"Sun, Jan 3, 2027",8:00p,Sacramento Kings,SAC,,Oklahoma City Thunder,OKC,,,,,,,Paycom Center,,2027,january,2027-01-03,False
+"Mon, Jan 4, 2027",7:00p,Chicago Bulls,CHI,,Indiana Pacers,IND,,,,,,,Gainbridge Fieldhouse,,2027,january,2027-01-04,False
+"Mon, Jan 4, 2027",7:00p,Atlanta Hawks,ATL,,Philadelphia 76ers,PHI,,,,,,,Xfinity Mobile Arena,,2027,january,2027-01-04,False
+"Mon, Jan 4, 2027",8:00p,Dallas Mavericks,DAL,,New Orleans Pelicans,NOP,,,,,,,Smoothie King Center,,2027,january,2027-01-04,False
+"Mon, Jan 4, 2027",9:00p,Boston Celtics,BOS,,Phoenix Suns,PHO,,,,,,,Mortgage Matchup Center,,2027,january,2027-01-04,False
+"Mon, Jan 4, 2027",9:00p,Brooklyn Nets,BRK,,Utah Jazz,UTA,,,,,,,Delta Center,,2027,january,2027-01-04,False
+"Mon, Jan 4, 2027",10:00p,New York Knicks,NYK,,Portland Trail Blazers,POR,,,,,,,Moda Center,,2027,january,2027-01-04,False
+"Tue, Jan 5, 2027",7:00p,Atlanta Hawks,ATL,,Charlotte Hornets,CHO,,,,,,,Spectrum Center,,2027,january,2027-01-05,False
+"Tue, Jan 5, 2027",7:00p,Toronto Raptors,TOR,,Cleveland Cavaliers,CLE,,,,,,,Rocket Arena,,2027,january,2027-01-05,False
+"Tue, Jan 5, 2027",7:00p,Los Angeles Clippers,LAC,,Orlando Magic,ORL,,,,,,,Kia Center,,2027,january,2027-01-05,False
+"Tue, Jan 5, 2027",7:00p,Los Angeles Lakers,LAL,,Washington Wizards,WAS,,,,,,,Capital One Arena,,2027,january,2027-01-05,False
+"Tue, Jan 5, 2027",7:30p,Memphis Grizzlies,MEM,,Miami Heat,MIA,,,,,,,Kaseya Center,,2027,january,2027-01-05,False
+"Tue, Jan 5, 2027",8:00p,Milwaukee Bucks,MIL,,Chicago Bulls,CHI,,,,,,,United Center,,2027,january,2027-01-05,False
+"Tue, Jan 5, 2027",8:00p,Minnesota Timberwolves,MIN,,Houston Rockets,HOU,,,,,,,Toyota Center,,2027,january,2027-01-05,False
+"Tue, Jan 5, 2027",10:00p,Phoenix Suns,PHO,,Denver Nuggets,DEN,,,,,,,Ball Arena,,2027,january,2027-01-05,False
+"Tue, Jan 5, 2027",10:00p,Detroit Pistons,DET,,Sacramento Kings,SAC,,,,,,,Golden 1 Center,,2027,january,2027-01-05,False
+"Wed, Jan 6, 2027",7:30p,Utah Jazz,UTA,,Brooklyn Nets,BRK,,,,,,,Barclays Center,,2027,january,2027-01-06,False
+"Wed, Jan 6, 2027",7:30p,Oklahoma City Thunder,OKC,,Philadelphia 76ers,PHI,,,,,,,Xfinity Mobile Arena,,2027,january,2027-01-06,False
+"Wed, Jan 6, 2027",8:00p,Portland Trail Blazers,POR,,New Orleans Pelicans,NOP,,,,,,,Smoothie King Center,,2027,january,2027-01-06,False
+"Wed, Jan 6, 2027",8:00p,Indiana Pacers,IND,,San Antonio Spurs,SAS,,,,,,,Frost Bank Center,,2027,january,2027-01-06,False
+"Wed, Jan 6, 2027",10:00p,New York Knicks,NYK,,Golden State Warriors,GSW,,,,,,,Chase Center,,2027,january,2027-01-06,False
+"Thu, Jan 7, 2027",7:00p,Indiana Pacers,IND,,Atlanta Hawks,ATL,,,,,,,State Farm Arena,,2027,january,2027-01-07,False
+"Thu, Jan 7, 2027",7:00p,Denver Nuggets,DEN,,Charlotte Hornets,CHO,,,,,,,Spectrum Center,,2027,january,2027-01-07,False
+"Thu, Jan 7, 2027",7:00p,Cleveland Cavaliers,CLE,,Orlando Magic,ORL,,,,,,,Kia Center,,2027,january,2027-01-07,False
+"Thu, Jan 7, 2027",7:00p,Oklahoma City Thunder,OKC,,Washington Wizards,WAS,,,,,,,Capital One Arena,,2027,january,2027-01-07,False
+"Thu, Jan 7, 2027",7:30p,Miami Heat,MIA,,Brooklyn Nets,BRK,,,,,,,Barclays Center,,2027,january,2027-01-07,False
+"Thu, Jan 7, 2027",7:30p,Minnesota Timberwolves,MIN,,Toronto Raptors,TOR,,,,,,,Scotiabank Arena,,2027,january,2027-01-07,False
+"Thu, Jan 7, 2027",8:00p,Portland Trail Blazers,POR,,Dallas Mavericks,DAL,,,,,,,American Airlines Center,,2027,january,2027-01-07,False
+"Thu, Jan 7, 2027",8:00p,Los Angeles Clippers,LAC,,Milwaukee Bucks,MIL,,,,,,,Fiserv Forum,,2027,january,2027-01-07,False
+"Thu, Jan 7, 2027",8:30p,Memphis Grizzlies,MEM,,Houston Rockets,HOU,,,,,,,Toyota Center,,2027,january,2027-01-07,False
+"Thu, Jan 7, 2027",10:00p,Detroit Pistons,DET,,Golden State Warriors,GSW,,,,,,,Chase Center,,2027,january,2027-01-07,False
+"Thu, Jan 7, 2027",10:00p,Boston Celtics,BOS,,Los Angeles Lakers,LAL,,,,,,,Crypto.com Arena,,2027,january,2027-01-07,False
+"Thu, Jan 7, 2027",10:00p,Chicago Bulls,CHI,,Sacramento Kings,SAC,,,,,,,Golden 1 Center,,2027,january,2027-01-07,False
+"Fri, Jan 8, 2027",7:00p,Miami Heat,MIA,,Philadelphia 76ers,PHI,,,,,,,Xfinity Mobile Arena,,2027,january,2027-01-08,False
+"Fri, Jan 8, 2027",7:00p,Minnesota Timberwolves,MIN,,Washington Wizards,WAS,,,,,,,Capital One Arena,,2027,january,2027-01-08,False
+"Fri, Jan 8, 2027",7:30p,Utah Jazz,UTA,,Toronto Raptors,TOR,,,,,,,Scotiabank Arena,,2027,january,2027-01-08,False
+"Fri, Jan 8, 2027",8:00p,Orlando Magic,ORL,,New Orleans Pelicans,NOP,,,,,,,Smoothie King Center,,2027,january,2027-01-08,False
+"Fri, Jan 8, 2027",8:00p,Memphis Grizzlies,MEM,,San Antonio Spurs,SAS,,,,,,,Frost Bank Center,,2027,january,2027-01-08,False
+"Fri, Jan 8, 2027",9:30p,Phoenix Suns,PHO,,Dallas Mavericks,DAL,,,,,,,American Airlines Center,,2027,january,2027-01-08,False
+"Fri, Jan 8, 2027",10:00p,Detroit Pistons,DET,,Los Angeles Lakers,LAL,,,,,,,Crypto.com Arena,,2027,january,2027-01-08,False
+"Fri, Jan 8, 2027",10:00p,New York Knicks,NYK,,Sacramento Kings,SAC,,,,,,,Golden 1 Center,,2027,january,2027-01-08,False
+"Sat, Jan 9, 2027",5:00p,Denver Nuggets,DEN,,Cleveland Cavaliers,CLE,,,,,,,Rocket Arena,,2027,january,2027-01-09,False
+"Sat, Jan 9, 2027",6:00p,Houston Rockets,HOU,,Brooklyn Nets,BRK,,,,,,,Barclays Center,,2027,january,2027-01-09,False
+"Sat, Jan 9, 2027",7:00p,Milwaukee Bucks,MIL,,Indiana Pacers,IND,,,,,,,Gainbridge Fieldhouse,,2027,january,2027-01-09,False
+"Sat, Jan 9, 2027",8:30p,Chicago Bulls,CHI,,Golden State Warriors,GSW,,,,,,,Chase Center,,2027,january,2027-01-09,False
+"Sat, Jan 9, 2027",10:00p,Charlotte Hornets,CHO,,Portland Trail Blazers,POR,,,,,,,Moda Center,,2027,january,2027-01-09,False
+"Sat, Jan 9, 2027",10:30p,Boston Celtics,BOS,,Los Angeles Clippers,LAC,,,,,,,Intuit Dome,,2027,january,2027-01-09,False
+"Sun, Jan 10, 2027",3:00p,San Antonio Spurs,SAS,,Atlanta Hawks,ATL,,,,,,,State Farm Arena,,2027,january,2027-01-10,False
+"Sun, Jan 10, 2027",6:00p,Utah Jazz,UTA,,Detroit Pistons,DET,,,,,,,Little Caesars Arena,,2027,january,2027-01-10,False
+"Sun, Jan 10, 2027",6:00p,Dallas Mavericks,DAL,,Memphis Grizzlies,MEM,,,,,,,FedExForum,,2027,january,2027-01-10,False
+"Sun, Jan 10, 2027",6:00p,New Orleans Pelicans,NOP,,Miami Heat,MIA,,,,,,,Kaseya Center,,2027,january,2027-01-10,False
+"Sun, Jan 10, 2027",6:00p,Oklahoma City Thunder,OKC,,Orlando Magic,ORL,,,,,,,Kia Center,,2027,january,2027-01-10,False
+"Sun, Jan 10, 2027",6:00p,Philadelphia 76ers,PHI,,Toronto Raptors,TOR,,,,,,,Scotiabank Arena,,2027,january,2027-01-10,False
+"Sun, Jan 10, 2027",7:00p,Chicago Bulls,CHI,,Phoenix Suns,PHO,,,,,,,Mortgage Matchup Center,,2027,january,2027-01-10,False
+"Sun, Jan 10, 2027",9:00p,Charlotte Hornets,CHO,,Sacramento Kings,SAC,,,,,,,Golden 1 Center,,2027,january,2027-01-10,False
+"Mon, Jan 11, 2027",7:00p,Brooklyn Nets,BRK,,Indiana Pacers,IND,,,,,,,Gainbridge Fieldhouse,,2027,january,2027-01-11,False
+"Mon, Jan 11, 2027",7:00p,Atlanta Hawks,ATL,,Washington Wizards,WAS,,,,,,,Capital One Arena,,2027,january,2027-01-11,False
+"Mon, Jan 11, 2027",7:30p,Houston Rockets,HOU,,Boston Celtics,BOS,,,,,,,TD Garden,,2027,january,2027-01-11,False
+"Mon, Jan 11, 2027",7:30p,Denver Nuggets,DEN,,New York Knicks,NYK,,,,,,,Madison Square Garden (IV),,2027,january,2027-01-11,False
+"Mon, Jan 11, 2027",8:00p,Cleveland Cavaliers,CLE,,Minnesota Timberwolves,MIN,,,,,,,Target Center,,2027,january,2027-01-11,False
+"Mon, Jan 11, 2027",10:00p,Los Angeles Lakers,LAL,,Los Angeles Clippers,LAC,,,,,,,Intuit Dome,,2027,january,2027-01-11,False
+"Tue, Jan 12, 2027",7:30p,Brooklyn Nets,BRK,,Miami Heat,MIA,,,,,,,Kaseya Center,,2027,january,2027-01-12,False
+"Tue, Jan 12, 2027",7:30p,Detroit Pistons,DET,,Toronto Raptors,TOR,,,,,,,Scotiabank Arena,,2027,january,2027-01-12,False
+"Tue, Jan 12, 2027",8:00p,Dallas Mavericks,DAL,,Memphis Grizzlies,MEM,,,,,,,FedExForum,,2027,january,2027-01-12,False
+"Tue, Jan 12, 2027",8:00p,Denver Nuggets,DEN,,Milwaukee Bucks,MIL,,,,,,,Fiserv Forum,,2027,january,2027-01-12,False
+"Tue, Jan 12, 2027",8:00p,Washington Wizards,WAS,,Philadelphia 76ers,PHI,,,,,,,Xfinity Mobile Arena,,2027,january,2027-01-12,False
+"Tue, Jan 12, 2027",9:00p,Chicago Bulls,CHI,,Utah Jazz,UTA,,,,,,,Delta Center,,2027,january,2027-01-12,False
+"Tue, Jan 12, 2027",10:00p,Orlando Magic,ORL,,Portland Trail Blazers,POR,,,,,,,Moda Center,,2027,january,2027-01-12,False
+"Tue, Jan 12, 2027",11:00p,Sacramento Kings,SAC,,Golden State Warriors,GSW,,,,,,,Chase Center,,2027,january,2027-01-12,False
+"Wed, Jan 13, 2027",7:00p,Cleveland Cavaliers,CLE,,Atlanta Hawks,ATL,,,,,,,State Farm Arena,,2027,january,2027-01-13,False
+"Wed, Jan 13, 2027",7:00p,New York Knicks,NYK,,Boston Celtics,BOS,,,,,,,TD Garden,,2027,january,2027-01-13,False
+"Wed, Jan 13, 2027",7:00p,Milwaukee Bucks,MIL,,Indiana Pacers,IND,,,,,,,Gainbridge Fieldhouse,,2027,january,2027-01-13,False
+"Wed, Jan 13, 2027",7:30p,Phoenix Suns,PHO,,Toronto Raptors,TOR,,,,,,,Scotiabank Arena,,2027,january,2027-01-13,False
+"Wed, Jan 13, 2027",9:30p,Houston Rockets,HOU,,Oklahoma City Thunder,OKC,,,,,,,Paycom Center,,2027,january,2027-01-13,False
+"Wed, Jan 13, 2027",10:00p,Charlotte Hornets,CHO,,Golden State Warriors,GSW,,,,,,,Chase Center,,2027,january,2027-01-13,False
+"Wed, Jan 13, 2027",10:00p,Los Angeles Lakers,LAL,,Portland Trail Blazers,POR,,,,,,,Moda Center,,2027,january,2027-01-13,False
+"Thu, Jan 14, 2027",2:00p,New Orleans Pelicans,NOP,,San Antonio Spurs,SAS,,,,,,,Accor Arena,,2027,january,2027-01-14,False
+"Thu, Jan 14, 2027",7:00p,Dallas Mavericks,DAL,,Detroit Pistons,DET,,,,,,,Little Caesars Arena,,2027,january,2027-01-14,False
+"Thu, Jan 14, 2027",7:00p,Brooklyn Nets,BRK,,Philadelphia 76ers,PHI,,,,,,,Xfinity Mobile Arena,,2027,january,2027-01-14,False
+"Thu, Jan 14, 2027",7:30p,Miami Heat,MIA,,New York Knicks,NYK,,,,,,,Madison Square Garden (IV),,2027,january,2027-01-14,False
+"Thu, Jan 14, 2027",8:00p,Minnesota Timberwolves,MIN,,Chicago Bulls,CHI,,,,,,,United Center,,2027,january,2027-01-14,False
+"Thu, Jan 14, 2027",9:00p,Memphis Grizzlies,MEM,,Denver Nuggets,DEN,,,,,,,Ball Arena,,2027,january,2027-01-14,False
+"Thu, Jan 14, 2027",9:00p,Charlotte Hornets,CHO,,Utah Jazz,UTA,,,,,,,Delta Center,,2027,january,2027-01-14,False
+"Thu, Jan 14, 2027",10:00p,Orlando Magic,ORL,,Los Angeles Lakers,LAL,,,,,,,Crypto.com Arena,,2027,january,2027-01-14,False
+"Thu, Jan 14, 2027",10:00p,Los Angeles Clippers,LAC,,Sacramento Kings,SAC,,,,,,,Golden 1 Center,,2027,january,2027-01-14,False
+"Fri, Jan 15, 2027",7:00p,Golden State Warriors,GSW,,Atlanta Hawks,ATL,,,,,,,State Farm Arena,,2027,january,2027-01-15,False
+"Fri, Jan 15, 2027",7:00p,Phoenix Suns,PHO,,Indiana Pacers,IND,,,,,,,Gainbridge Fieldhouse,,2027,january,2027-01-15,False
+"Fri, Jan 15, 2027",7:30p,Miami Heat,MIA,,Toronto Raptors,TOR,,,,,,,Scotiabank Arena,,2027,january,2027-01-15,False
+"Fri, Jan 15, 2027",8:00p,Cleveland Cavaliers,CLE,,Milwaukee Bucks,MIL,,,,,,,Fiserv Forum,,2027,january,2027-01-15,False
+"Fri, Jan 15, 2027",8:00p,Utah Jazz,UTA,,Oklahoma City Thunder,OKC,,,,,,,Paycom Center,,2027,january,2027-01-15,False
+"Fri, Jan 15, 2027",8:30p,Washington Wizards,WAS,,Houston Rockets,HOU,,,,,,,Toyota Center,,2027,january,2027-01-15,False
+"Fri, Jan 15, 2027",10:00p,Sacramento Kings,SAC,,Portland Trail Blazers,POR,,,,,,,Moda Center,,2027,january,2027-01-15,False
+"Fri, Jan 15, 2027",10:30p,Orlando Magic,ORL,,Los Angeles Clippers,LAC,,,,,,,Intuit Dome,,2027,january,2027-01-15,False
+"Sat, Jan 16, 2027",12:30p,Minnesota Timberwolves,MIN,,Philadelphia 76ers,PHI,,,,,,,Xfinity Mobile Arena,,2027,january,2027-01-16,False
+"Sat, Jan 16, 2027",7:00p,Brooklyn Nets,BRK,,Boston Celtics,BOS,,,,,,,TD Garden,,2027,january,2027-01-16,False
+"Sat, Jan 16, 2027",7:30p,Dallas Mavericks,DAL,,New York Knicks,NYK,,,,,,,Madison Square Garden (IV),,2027,january,2027-01-16,False
+"Sat, Jan 16, 2027",8:00p,Cleveland Cavaliers,CLE,,Memphis Grizzlies,MEM,,,,,,,FedExForum,,2027,january,2027-01-16,False
+"Sat, Jan 16, 2027",8:30p,Detroit Pistons,DET,,Houston Rockets,HOU,,,,,,,Toyota Center,,2027,january,2027-01-16,False
+"Sat, Jan 16, 2027",9:00p,Charlotte Hornets,CHO,,Denver Nuggets,DEN,,,,,,,Ball Arena,,2027,january,2027-01-16,False
+"Sun, Jan 17, 2027",10:30a,San Antonio Spurs,SAS,,New Orleans Pelicans,NOP,,,,,,,,,2027,january,2027-01-17,False
+"Sun, Jan 17, 2027",1:00p,Indiana Pacers,IND,,Washington Wizards,WAS,,,,,,,Capital One Arena,,2027,january,2027-01-17,False
+"Sun, Jan 17, 2027",3:30p,Toronto Raptors,TOR,,Chicago Bulls,CHI,,,,,,,United Center,,2027,january,2027-01-17,False
+"Sun, Jan 17, 2027",3:30p,Portland Trail Blazers,POR,,Oklahoma City Thunder,OKC,,,,,,,Paycom Center,,2027,january,2027-01-17,False
+"Sun, Jan 17, 2027",5:00p,Sacramento Kings,SAC,,Utah Jazz,UTA,,,,,,,Delta Center,,2027,january,2027-01-17,False
+"Sun, Jan 17, 2027",6:00p,Golden State Warriors,GSW,,Miami Heat,MIA,,,,,,,Kaseya Center,,2027,january,2027-01-17,False
+"Sun, Jan 17, 2027",8:00p,Orlando Magic,ORL,,Denver Nuggets,DEN,,,,,,,Ball Arena,,2027,january,2027-01-17,False
+"Sun, Jan 17, 2027",9:00p,Milwaukee Bucks,MIL,,Los Angeles Lakers,LAL,,,,,,,Crypto.com Arena,,2027,january,2027-01-17,False
+"Mon, Jan 18, 2027",12:00p,Detroit Pistons,DET,,Cleveland Cavaliers,CLE,,,,,,,Rocket Arena,,2027,january,2027-01-18,False
+"Mon, Jan 18, 2027",2:30p,Philadelphia 76ers,PHI,,Atlanta Hawks,ATL,,,,,,,State Farm Arena,,2027,january,2027-01-18,False
+"Mon, Jan 18, 2027",3:00p,Boston Celtics,BOS,,Washington Wizards,WAS,,,,,,,Capital One Arena,,2027,january,2027-01-18,False
+"Mon, Jan 18, 2027",5:00p,Minnesota Timberwolves,MIN,,New York Knicks,NYK,,,,,,,Madison Square Garden (IV),,2027,january,2027-01-18,False
+"Mon, Jan 18, 2027",7:30p,Houston Rockets,HOU,,Memphis Grizzlies,MEM,,,,,,,FedExForum,,2027,january,2027-01-18,False
+"Mon, Jan 18, 2027",8:00p,Oklahoma City Thunder,OKC,,Dallas Mavericks,DAL,,,,,,,American Airlines Center,,2027,january,2027-01-18,False
+"Mon, Jan 18, 2027",10:30p,Phoenix Suns,PHO,,Los Angeles Clippers,LAC,,,,,,,Intuit Dome,,2027,january,2027-01-18,False
+"Tue, Jan 19, 2027",7:00p,Golden State Warriors,GSW,,Orlando Magic,ORL,,,,,,,Kia Center,,2027,january,2027-01-19,False
+"Tue, Jan 19, 2027",7:00p,Indiana Pacers,IND,,Philadelphia 76ers,PHI,,,,,,,Xfinity Mobile Arena,,2027,january,2027-01-19,False
+"Tue, Jan 19, 2027",7:00p,Chicago Bulls,CHI,,Toronto Raptors,TOR,,,,,,,Scotiabank Arena,,2027,january,2027-01-19,False
+"Tue, Jan 19, 2027",7:30p,Portland Trail Blazers,POR,,Miami Heat,MIA,,,,,,,Kaseya Center,,2027,january,2027-01-19,False
+"Tue, Jan 19, 2027",8:00p,Charlotte Hornets,CHO,,Dallas Mavericks,DAL,,,,,,,American Airlines Center,,2027,january,2027-01-19,False
+"Tue, Jan 19, 2027",10:00p,Utah Jazz,UTA,,Denver Nuggets,DEN,,,,,,,Ball Arena,,2027,january,2027-01-19,False
+"Tue, Jan 19, 2027",10:00p,Los Angeles Lakers,LAL,,Sacramento Kings,SAC,,,,,,,Golden 1 Center,,2027,january,2027-01-19,False
+"Wed, Jan 20, 2027",7:00p,Portland Trail Blazers,POR,,Atlanta Hawks,ATL,,,,,,,State Farm Arena,,2027,january,2027-01-20,False
+"Wed, Jan 20, 2027",7:00p,Chicago Bulls,CHI,,Brooklyn Nets,BRK,,,,,,,Barclays Center,,2027,january,2027-01-20,False
+"Wed, Jan 20, 2027",7:30p,Indiana Pacers,IND,,Boston Celtics,BOS,,,,,,,TD Garden,,2027,january,2027-01-20,False
+"Wed, Jan 20, 2027",7:30p,Toronto Raptors,TOR,,New York Knicks,NYK,,,,,,,Madison Square Garden (IV),,2027,january,2027-01-20,False
+"Wed, Jan 20, 2027",8:00p,Houston Rockets,HOU,,Minnesota Timberwolves,MIN,,,,,,,Target Center,,2027,january,2027-01-20,False
+"Wed, Jan 20, 2027",8:00p,Oklahoma City Thunder,OKC,,New Orleans Pelicans,NOP,,,,,,,Smoothie King Center,,2027,january,2027-01-20,False
+"Wed, Jan 20, 2027",9:00p,Memphis Grizzlies,MEM,,Phoenix Suns,PHO,,,,,,,Mortgage Matchup Center,,2027,january,2027-01-20,False
+"Wed, Jan 20, 2027",9:00p,Los Angeles Clippers,LAC,,Utah Jazz,UTA,,,,,,,Delta Center,,2027,january,2027-01-20,False
+"Wed, Jan 20, 2027",9:30p,Miami Heat,MIA,,San Antonio Spurs,SAS,,,,,,,Frost Bank Center,,2027,january,2027-01-20,False
+"Wed, Jan 20, 2027",10:00p,Milwaukee Bucks,MIL,,Sacramento Kings,SAC,,,,,,,Golden 1 Center,,2027,january,2027-01-20,False
+"Thu, Jan 21, 2027",7:30p,Philadelphia 76ers,PHI,,Boston Celtics,BOS,,,,,,,TD Garden,,2027,january,2027-01-21,False
+"Thu, Jan 21, 2027",7:30p,Cleveland Cavaliers,CLE,,Brooklyn Nets,BRK,,,,,,,Barclays Center,,2027,january,2027-01-21,False
+"Thu, Jan 21, 2027",9:00p,Washington Wizards,WAS,,Denver Nuggets,DEN,,,,,,,Ball Arena,,2027,january,2027-01-21,False
+"Thu, Jan 21, 2027",10:00p,Los Angeles Lakers,LAL,,Golden State Warriors,GSW,,,,,,,Chase Center,,2027,january,2027-01-21,False
+"Fri, Jan 22, 2027",7:00p,New York Knicks,NYK,,Atlanta Hawks,ATL,,,,,,,State Farm Arena,,2027,january,2027-01-22,False
+"Fri, Jan 22, 2027",7:00p,Houston Rockets,HOU,,Charlotte Hornets,CHO,,,,,,,Spectrum Center,,2027,january,2027-01-22,False
+"Fri, Jan 22, 2027",7:00p,Portland Trail Blazers,POR,,Orlando Magic,ORL,,,,,,,Kia Center,,2027,january,2027-01-22,False
+"Fri, Jan 22, 2027",7:30p,Indiana Pacers,IND,,Detroit Pistons,DET,,,,,,,Little Caesars Arena,,2027,january,2027-01-22,False
+"Fri, Jan 22, 2027",8:00p,Dallas Mavericks,DAL,,New Orleans Pelicans,NOP,,,,,,,Smoothie King Center,,2027,january,2027-01-22,False
+"Fri, Jan 22, 2027",8:00p,Memphis Grizzlies,MEM,,Oklahoma City Thunder,OKC,,,,,,,Paycom Center,,2027,january,2027-01-22,False
+"Fri, Jan 22, 2027",9:00p,Utah Jazz,UTA,,Phoenix Suns,PHO,,,,,,,Mortgage Matchup Center,,2027,january,2027-01-22,False
+"Fri, Jan 22, 2027",9:30p,Minnesota Timberwolves,MIN,,San Antonio Spurs,SAS,,,,,,,Frost Bank Center,,2027,january,2027-01-22,False
+"Fri, Jan 22, 2027",10:00p,Milwaukee Bucks,MIL,,Golden State Warriors,GSW,,,,,,,Chase Center,,2027,january,2027-01-22,False
+"Fri, Jan 22, 2027",10:00p,Sacramento Kings,SAC,,Los Angeles Lakers,LAL,,,,,,,Crypto.com Arena,,2027,january,2027-01-22,False
+"Fri, Jan 22, 2027",10:30p,Washington Wizards,WAS,,Los Angeles Clippers,LAC,,,,,,,Intuit Dome,,2027,january,2027-01-22,False
+"Sat, Jan 23, 2027",5:00p,Philadelphia 76ers,PHI,,Chicago Bulls,CHI,,,,,,,United Center,,2027,january,2027-01-23,False
+"Sat, Jan 23, 2027",6:00p,Toronto Raptors,TOR,,Brooklyn Nets,BRK,,,,,,,Barclays Center,,2027,january,2027-01-23,False
+"Sat, Jan 23, 2027",7:00p,Charlotte Hornets,CHO,,Boston Celtics,BOS,,,,,,,TD Garden,,2027,january,2027-01-23,False
+"Sat, Jan 23, 2027",8:00p,Cleveland Cavaliers,CLE,,Dallas Mavericks,DAL,,,,,,,American Airlines Center,,2027,january,2027-01-23,False
+"Sat, Jan 23, 2027",8:00p,Atlanta Hawks,ATL,,Miami Heat,MIA,,,,,,,Kaseya Center,,2027,january,2027-01-23,False
+"Sat, Jan 23, 2027",9:00p,Milwaukee Bucks,MIL,,Denver Nuggets,DEN,,,,,,,Ball Arena,,2027,january,2027-01-23,False
+"Sun, Jan 24, 2027",3:30p,Portland Trail Blazers,POR,,San Antonio Spurs,SAS,,,,,,,Frost Bank Center,,2027,january,2027-01-24,False
+"Sun, Jan 24, 2027",4:00p,Washington Wizards,WAS,,Los Angeles Lakers,LAL,,,,,,,Crypto.com Arena,,2027,january,2027-01-24,False
+"Sun, Jan 24, 2027",4:00p,Utah Jazz,UTA,,Phoenix Suns,PHO,,,,,,,Mortgage Matchup Center,,2027,january,2027-01-24,False
+"Sun, Jan 24, 2027",6:00p,Minnesota Timberwolves,MIN,,Detroit Pistons,DET,,,,,,,Little Caesars Arena,,2027,january,2027-01-24,False
+"Sun, Jan 24, 2027",6:00p,Houston Rockets,HOU,,Orlando Magic,ORL,,,,,,,Kia Center,,2027,january,2027-01-24,False
+"Sun, Jan 24, 2027",7:00p,Los Angeles Clippers,LAC,,New York Knicks,NYK,,,,,,,Madison Square Garden (IV),,2027,january,2027-01-24,False
+"Sun, Jan 24, 2027",8:30p,Oklahoma City Thunder,OKC,,Golden State Warriors,GSW,,,,,,,Chase Center,,2027,january,2027-01-24,False
+"Mon, Jan 25, 2027",7:00p,Toronto Raptors,TOR,,Boston Celtics,BOS,,,,,,,TD Garden,,2027,january,2027-01-25,False
+"Mon, Jan 25, 2027",7:00p,Orlando Magic,ORL,,Charlotte Hornets,CHO,,,,,,,Spectrum Center,,2027,january,2027-01-25,False
+"Mon, Jan 25, 2027",7:00p,Los Angeles Clippers,LAC,,Philadelphia 76ers,PHI,,,,,,,Xfinity Mobile Arena,,2027,january,2027-01-25,False
+"Mon, Jan 25, 2027",7:30p,Miami Heat,MIA,,Brooklyn Nets,BRK,,,,,,,Barclays Center,,2027,january,2027-01-25,False
+"Mon, Jan 25, 2027",8:00p,Dallas Mavericks,DAL,,Chicago Bulls,CHI,,,,,,,United Center,,2027,january,2027-01-25,False
+"Mon, Jan 25, 2027",8:00p,Minnesota Timberwolves,MIN,,Memphis Grizzlies,MEM,,,,,,,FedExForum,,2027,january,2027-01-25,False
+"Mon, Jan 25, 2027",8:00p,Cleveland Cavaliers,CLE,,New Orleans Pelicans,NOP,,,,,,,Smoothie King Center,,2027,january,2027-01-25,False
+"Mon, Jan 25, 2027",9:30p,Sacramento Kings,SAC,,Denver Nuggets,DEN,,,,,,,Ball Arena,,2027,january,2027-01-25,False
+"Tue, Jan 26, 2027",7:00p,Atlanta Hawks,ATL,,Detroit Pistons,DET,,,,,,,Little Caesars Arena,,2027,january,2027-01-26,False
+"Tue, Jan 26, 2027",7:00p,Chicago Bulls,CHI,,Indiana Pacers,IND,,,,,,,Gainbridge Fieldhouse,,2027,january,2027-01-26,False
+"Tue, Jan 26, 2027",7:30p,Phoenix Suns,PHO,,New York Knicks,NYK,,,,,,,Madison Square Garden (IV),,2027,january,2027-01-26,False
+"Tue, Jan 26, 2027",8:00p,Houston Rockets,HOU,,San Antonio Spurs,SAS,,,,,,,Frost Bank Center,,2027,january,2027-01-26,False
+"Tue, Jan 26, 2027",9:00p,Milwaukee Bucks,MIL,,Utah Jazz,UTA,,,,,,,Delta Center,,2027,january,2027-01-26,False
+"Tue, Jan 26, 2027",10:00p,Washington Wizards,WAS,,Portland Trail Blazers,POR,,,,,,,Moda Center,,2027,january,2027-01-26,False
+"Tue, Jan 26, 2027",11:00p,Oklahoma City Thunder,OKC,,Los Angeles Lakers,LAL,,,,,,,Crypto.com Arena,,2027,january,2027-01-26,False
+"Wed, Jan 27, 2027",7:00p,Detroit Pistons,DET,,Cleveland Cavaliers,CLE,,,,,,,Rocket Arena,,2027,january,2027-01-27,False
+"Wed, Jan 27, 2027",7:00p,Sacramento Kings,SAC,,Philadelphia 76ers,PHI,,,,,,,Xfinity Mobile Arena,,2027,january,2027-01-27,False
+"Wed, Jan 27, 2027",7:30p,Los Angeles Clippers,LAC,,Boston Celtics,BOS,,,,,,,TD Garden,,2027,january,2027-01-27,False
+"Wed, Jan 27, 2027",7:30p,Phoenix Suns,PHO,,Brooklyn Nets,BRK,,,,,,,Barclays Center,,2027,january,2027-01-27,False
+"Wed, Jan 27, 2027",7:30p,Dallas Mavericks,DAL,,Toronto Raptors,TOR,,,,,,,Scotiabank Arena,,2027,january,2027-01-27,False
+"Wed, Jan 27, 2027",8:00p,Charlotte Hornets,CHO,,San Antonio Spurs,SAS,,,,,,,Frost Bank Center,,2027,january,2027-01-27,False
+"Wed, Jan 27, 2027",8:30p,New Orleans Pelicans,NOP,,Houston Rockets,HOU,,,,,,,Toyota Center,,2027,january,2027-01-27,False
+"Wed, Jan 27, 2027",9:30p,Denver Nuggets,DEN,,Minnesota Timberwolves,MIN,,,,,,,Target Center,,2027,january,2027-01-27,False
+"Wed, Jan 27, 2027",10:00p,Golden State Warriors,GSW,,Portland Trail Blazers,POR,,,,,,,Moda Center,,2027,january,2027-01-27,False
+"Thu, Jan 28, 2027",7:00p,Los Angeles Lakers,LAL,,Indiana Pacers,IND,,,,,,,Gainbridge Fieldhouse,,2027,january,2027-01-28,False
+"Thu, Jan 28, 2027",7:00p,Atlanta Hawks,ATL,,New York Knicks,NYK,,,,,,,Madison Square Garden (IV),,2027,january,2027-01-28,False
+"Thu, Jan 28, 2027",7:00p,Chicago Bulls,CHI,,Orlando Magic,ORL,,,,,,,Kia Center,,2027,january,2027-01-28,False
+"Thu, Jan 28, 2027",7:00p,Sacramento Kings,SAC,,Washington Wizards,WAS,,,,,,,Capital One Arena,,2027,january,2027-01-28,False
+"Thu, Jan 28, 2027",8:00p,Philadelphia 76ers,PHI,,New Orleans Pelicans,NOP,,,,,,,Smoothie King Center,,2027,january,2027-01-28,False
+"Thu, Jan 28, 2027",8:00p,Memphis Grizzlies,MEM,,Oklahoma City Thunder,OKC,,,,,,,Paycom Center,,2027,january,2027-01-28,False
+"Thu, Jan 28, 2027",9:00p,Golden State Warriors,GSW,,Utah Jazz,UTA,,,,,,,Delta Center,,2027,january,2027-01-28,False
+"Thu, Jan 28, 2027",9:30p,Miami Heat,MIA,,Milwaukee Bucks,MIL,,,,,,,Fiserv Forum,,2027,january,2027-01-28,False
+"Fri, Jan 29, 2027",7:00p,Cleveland Cavaliers,CLE,,Toronto Raptors,TOR,,,,,,,Scotiabank Arena,,2027,january,2027-01-29,False
+"Fri, Jan 29, 2027",7:30p,Phoenix Suns,PHO,,Boston Celtics,BOS,,,,,,,TD Garden,,2027,january,2027-01-29,False
+"Fri, Jan 29, 2027",7:30p,Los Angeles Clippers,LAC,,Brooklyn Nets,BRK,,,,,,,Barclays Center,,2027,january,2027-01-29,False
+"Fri, Jan 29, 2027",8:00p,Detroit Pistons,DET,,Dallas Mavericks,DAL,,,,,,,American Airlines Center,,2027,january,2027-01-29,False
+"Fri, Jan 29, 2027",8:30p,Orlando Magic,ORL,,Houston Rockets,HOU,,,,,,,Toyota Center,,2027,january,2027-01-29,False
+"Fri, Jan 29, 2027",9:30p,Charlotte Hornets,CHO,,Minnesota Timberwolves,MIN,,,,,,,Target Center,,2027,january,2027-01-29,False
+"Sat, Jan 30, 2027",12:30p,Philadelphia 76ers,PHI,,Miami Heat,MIA,,,,,,,Kaseya Center,,2027,january,2027-01-30,False
+"Sat, Jan 30, 2027",3:00p,Denver Nuggets,DEN,,Oklahoma City Thunder,OKC,,,,,,,Paycom Center,,2027,january,2027-01-30,False
+"Sat, Jan 30, 2027",5:30p,San Antonio Spurs,SAS,,Golden State Warriors,GSW,,,,,,,Chase Center,,2027,january,2027-01-30,False
+"Sat, Jan 30, 2027",7:00p,Washington Wizards,WAS,,Indiana Pacers,IND,,,,,,,Gainbridge Fieldhouse,,2027,january,2027-01-30,False
+"Sat, Jan 30, 2027",7:30p,New Orleans Pelicans,NOP,,Cleveland Cavaliers,CLE,,,,,,,Rocket Arena,,2027,january,2027-01-30,False
+"Sat, Jan 30, 2027",8:00p,Atlanta Hawks,ATL,,Milwaukee Bucks,MIL,,,,,,,Fiserv Forum,,2027,january,2027-01-30,False
+"Sat, Jan 30, 2027",8:30p,Los Angeles Lakers,LAL,,New York Knicks,NYK,,,,,,,Madison Square Garden (IV),,2027,january,2027-01-30,False
+"Sat, Jan 30, 2027",9:30p,Memphis Grizzlies,MEM,,Utah Jazz,UTA,,,,,,,Delta Center,,2027,january,2027-01-30,False
+"Sun, Jan 31, 2027",3:00p,Sacramento Kings,SAC,,Detroit Pistons,DET,,,,,,,Little Caesars Arena,,2027,january,2027-01-31,False
+"Sun, Jan 31, 2027",6:00p,Phoenix Suns,PHO,,Minnesota Timberwolves,MIN,,,,,,,Target Center,,2027,january,2027-01-31,False
+"Sun, Jan 31, 2027",6:00p,Chicago Bulls,CHI,,Oklahoma City Thunder,OKC,,,,,,,Paycom Center,,2027,january,2027-01-31,False
+"Sun, Jan 31, 2027",6:00p,Brooklyn Nets,BRK,,Orlando Magic,ORL,,,,,,,Kia Center,,2027,january,2027-01-31,False
+"Sun, Jan 31, 2027",6:00p,Boston Celtics,BOS,,Toronto Raptors,TOR,,,,,,,Scotiabank Arena,,2027,january,2027-01-31,False
+"Sun, Jan 31, 2027",7:00p,Los Angeles Lakers,LAL,,Charlotte Hornets,CHO,,,,,,,Spectrum Center,,2027,january,2027-01-31,False
+"Sun, Jan 31, 2027",8:00p,Portland Trail Blazers,POR,,Denver Nuggets,DEN,,,,,,,Ball Arena,,2027,january,2027-01-31,False
+"Sun, Jan 31, 2027",8:30p,Houston Rockets,HOU,,Dallas Mavericks,DAL,,,,,,,American Airlines Center,,2027,january,2027-01-31,False
+"Mon, Feb 1, 2027",7:00p,Washington Wizards,WAS,,Atlanta Hawks,ATL,,,,,,,State Farm Arena,,2027,february,2027-02-01,False
+"Mon, Feb 1, 2027",7:00p,New Orleans Pelicans,NOP,,Philadelphia 76ers,PHI,,,,,,,Xfinity Mobile Arena,,2027,february,2027-02-01,False
+"Mon, Feb 1, 2027",7:30p,New York Knicks,NYK,,Brooklyn Nets,BRK,,,,,,,Barclays Center,,2027,february,2027-02-01,False
+"Mon, Feb 1, 2027",7:30p,Miami Heat,MIA,,Indiana Pacers,IND,,,,,,,Gainbridge Fieldhouse,,2027,february,2027-02-01,False
+"Mon, Feb 1, 2027",8:00p,Memphis Grizzlies,MEM,,Milwaukee Bucks,MIL,,,,,,,Fiserv Forum,,2027,february,2027-02-01,False
+"Mon, Feb 1, 2027",9:00p,Cleveland Cavaliers,CLE,,Utah Jazz,UTA,,,,,,,Delta Center,,2027,february,2027-02-01,False
+"Mon, Feb 1, 2027",10:00p,San Antonio Spurs,SAS,,Golden State Warriors,GSW,,,,,,,Chase Center,,2027,february,2027-02-01,False
+"Tue, Feb 2, 2027",7:00p,Chicago Bulls,CHI,,Detroit Pistons,DET,,,,,,,Little Caesars Arena,,2027,february,2027-02-02,False
+"Tue, Feb 2, 2027",7:00p,New Orleans Pelicans,NOP,,Orlando Magic,ORL,,,,,,,Kia Center,,2027,february,2027-02-02,False
+"Tue, Feb 2, 2027",7:30p,Charlotte Hornets,CHO,,Miami Heat,MIA,,,,,,,Kaseya Center,,2027,february,2027-02-02,False
+"Tue, Feb 2, 2027",8:00p,Los Angeles Lakers,LAL,,Boston Celtics,BOS,,,,,,,TD Garden,,2027,february,2027-02-02,False
+"Tue, Feb 2, 2027",8:00p,Toronto Raptors,TOR,,Dallas Mavericks,DAL,,,,,,,American Airlines Center,,2027,february,2027-02-02,False
+"Tue, Feb 2, 2027",9:00p,Oklahoma City Thunder,OKC,,Denver Nuggets,DEN,,,,,,,Ball Arena,,2027,february,2027-02-02,False
+"Tue, Feb 2, 2027",10:30p,San Antonio Spurs,SAS,,Los Angeles Clippers,LAC,,,,,,,Intuit Dome,,2027,february,2027-02-02,False
+"Tue, Feb 2, 2027",11:00p,Minnesota Timberwolves,MIN,,Portland Trail Blazers,POR,,,,,,,Moda Center,,2027,february,2027-02-02,False
+"Wed, Feb 3, 2027",7:00p,New York Knicks,NYK,,Detroit Pistons,DET,,,,,,,Little Caesars Arena,,2027,february,2027-02-03,False
+"Wed, Feb 3, 2027",7:00p,Atlanta Hawks,ATL,,Indiana Pacers,IND,,,,,,,Gainbridge Fieldhouse,,2027,february,2027-02-03,False
+"Wed, Feb 3, 2027",8:00p,Philadelphia 76ers,PHI,,Memphis Grizzlies,MEM,,,,,,,FedExForum,,2027,february,2027-02-03,False
+"Wed, Feb 3, 2027",9:00p,Cleveland Cavaliers,CLE,,Phoenix Suns,PHO,,,,,,,Mortgage Matchup Center,,2027,february,2027-02-03,False
+"Wed, Feb 3, 2027",9:30p,Utah Jazz,UTA,,Houston Rockets,HOU,,,,,,,Toyota Center,,2027,february,2027-02-03,False
+"Wed, Feb 3, 2027",10:30p,Golden State Warriors,GSW,,Los Angeles Clippers,LAC,,,,,,,Intuit Dome,,2027,february,2027-02-03,False
+"Thu, Feb 4, 2027",7:00p,New Orleans Pelicans,NOP,,Washington Wizards,WAS,,,,,,,Capital One Arena,,2027,february,2027-02-04,False
+"Thu, Feb 4, 2027",7:30p,Los Angeles Lakers,LAL,,Brooklyn Nets,BRK,,,,,,,Barclays Center,,2027,february,2027-02-04,False
+"Thu, Feb 4, 2027",7:30p,Boston Celtics,BOS,,Charlotte Hornets,CHO,,,,,,,Spectrum Center,,2027,february,2027-02-04,False
+"Thu, Feb 4, 2027",7:30p,Milwaukee Bucks,MIL,,Miami Heat,MIA,,,,,,,Kaseya Center,,2027,february,2027-02-04,False
+"Thu, Feb 4, 2027",7:30p,Toronto Raptors,TOR,,New York Knicks,NYK,,,,,,,Madison Square Garden (IV),,2027,february,2027-02-04,False
+"Thu, Feb 4, 2027",8:00p,Oklahoma City Thunder,OKC,,Chicago Bulls,CHI,,,,,,,United Center,,2027,february,2027-02-04,False
+"Thu, Feb 4, 2027",8:00p,Orlando Magic,ORL,,San Antonio Spurs,SAS,,,,,,,Frost Bank Center,,2027,february,2027-02-04,False
+"Thu, Feb 4, 2027",10:00p,Dallas Mavericks,DAL,,Denver Nuggets,DEN,,,,,,,Ball Arena,,2027,february,2027-02-04,False
+"Thu, Feb 4, 2027",10:00p,Cleveland Cavaliers,CLE,,Portland Trail Blazers,POR,,,,,,,Moda Center,,2027,february,2027-02-04,False
+"Thu, Feb 4, 2027",10:00p,Minnesota Timberwolves,MIN,,Sacramento Kings,SAC,,,,,,,Golden 1 Center,,2027,february,2027-02-04,False
+"Fri, Feb 5, 2027",7:00p,Boston Celtics,BOS,,Atlanta Hawks,ATL,,,,,,,State Farm Arena,,2027,february,2027-02-05,False
+"Fri, Feb 5, 2027",7:00p,Golden State Warriors,GSW,,Charlotte Hornets,CHO,,,,,,,Spectrum Center,,2027,february,2027-02-05,False
+"Fri, Feb 5, 2027",7:00p,Detroit Pistons,DET,,Philadelphia 76ers,PHI,,,,,,,Xfinity Mobile Arena,,2027,february,2027-02-05,False
+"Fri, Feb 5, 2027",9:00p,Los Angeles Clippers,LAC,,Denver Nuggets,DEN,,,,,,,Ball Arena,,2027,february,2027-02-05,False
+"Fri, Feb 5, 2027",9:00p,Houston Rockets,HOU,,Phoenix Suns,PHO,,,,,,,Mortgage Matchup Center,,2027,february,2027-02-05,False
+"Fri, Feb 5, 2027",9:30p,Indiana Pacers,IND,,Oklahoma City Thunder,OKC,,,,,,,Paycom Center,,2027,february,2027-02-05,False
+"Sat, Feb 6, 2027",3:00p,Utah Jazz,UTA,,Dallas Mavericks,DAL,,,,,,,American Airlines Center,,2027,february,2027-02-06,False
+"Sat, Feb 6, 2027",3:00p,Miami Heat,MIA,,Minnesota Timberwolves,MIN,,,,,,,Target Center,,2027,february,2027-02-06,False
+"Sat, Feb 6, 2027",5:30p,Portland Trail Blazers,POR,,Memphis Grizzlies,MEM,,,,,,,FedExForum,,2027,february,2027-02-06,False
+"Sat, Feb 6, 2027",6:00p,Washington Wizards,WAS,,Brooklyn Nets,BRK,,,,,,,Barclays Center,,2027,february,2027-02-06,False
+"Sat, Feb 6, 2027",7:30p,Orlando Magic,ORL,,Cleveland Cavaliers,CLE,,,,,,,Rocket Arena,,2027,february,2027-02-06,False
+"Sat, Feb 6, 2027",7:30p,Milwaukee Bucks,MIL,,Toronto Raptors,TOR,,,,,,,Scotiabank Arena,,2027,february,2027-02-06,False
+"Sat, Feb 6, 2027",8:00p,New Orleans Pelicans,NOP,,Chicago Bulls,CHI,,,,,,,United Center,,2027,february,2027-02-06,False
+"Sat, Feb 6, 2027",8:30p,Los Angeles Lakers,LAL,,San Antonio Spurs,SAS,,,,,,,Frost Bank Center,,2027,february,2027-02-06,False
+"Sat, Feb 6, 2027",10:00p,Phoenix Suns,PHO,,Sacramento Kings,SAC,,,,,,,Golden 1 Center,,2027,february,2027-02-06,False
+"Sun, Feb 7, 2027",3:00p,Denver Nuggets,DEN,,Atlanta Hawks,ATL,,,,,,,State Farm Arena,,2027,february,2027-02-07,False
+"Sun, Feb 7, 2027",3:00p,Golden State Warriors,GSW,,Detroit Pistons,DET,,,,,,,Little Caesars Arena,,2027,february,2027-02-07,False
+"Sun, Feb 7, 2027",3:30p,Utah Jazz,UTA,,Minnesota Timberwolves,MIN,,,,,,,Target Center,,2027,february,2027-02-07,False
+"Sun, Feb 7, 2027",4:30p,Los Angeles Clippers,LAC,,Dallas Mavericks,DAL,,,,,,,American Airlines Center,,2027,february,2027-02-07,False
+"Sun, Feb 7, 2027",6:00p,Charlotte Hornets,CHO,,Toronto Raptors,TOR,,,,,,,Scotiabank Arena,,2027,february,2027-02-07,False
+"Sun, Feb 7, 2027",7:00p,Boston Celtics,BOS,,Philadelphia 76ers,PHI,,,,,,,Xfinity Mobile Arena,,2027,february,2027-02-07,False
+"Sun, Feb 7, 2027",9:30p,New York Knicks,NYK,,Oklahoma City Thunder,OKC,,,,,,,Paycom Center,,2027,february,2027-02-07,False
+"Sun, Feb 7, 2027",10:30p,Houston Rockets,HOU,,Sacramento Kings,SAC,,,,,,,Golden 1 Center,,2027,february,2027-02-07,False
+"Mon, Feb 8, 2027",7:00p,Miami Heat,MIA,,Atlanta Hawks,ATL,,,,,,,State Farm Arena,,2027,february,2027-02-08,False
+"Mon, Feb 8, 2027",7:00p,New Orleans Pelicans,NOP,,Indiana Pacers,IND,,,,,,,Gainbridge Fieldhouse,,2027,february,2027-02-08,False
+"Mon, Feb 8, 2027",7:00p,Brooklyn Nets,BRK,,Philadelphia 76ers,PHI,,,,,,,Xfinity Mobile Arena,,2027,february,2027-02-08,False
+"Mon, Feb 8, 2027",7:00p,Chicago Bulls,CHI,,Washington Wizards,WAS,,,,,,,Capital One Arena,,2027,february,2027-02-08,False
+"Mon, Feb 8, 2027",8:00p,Portland Trail Blazers,POR,,Memphis Grizzlies,MEM,,,,,,,FedExForum,,2027,february,2027-02-08,False
+"Mon, Feb 8, 2027",8:00p,Orlando Magic,ORL,,Milwaukee Bucks,MIL,,,,,,,Fiserv Forum,,2027,february,2027-02-08,False
+"Mon, Feb 8, 2027",9:30p,Los Angeles Lakers,LAL,,Phoenix Suns,PHO,,,,,,,Mortgage Matchup Center,,2027,february,2027-02-08,False
+"Tue, Feb 9, 2027",7:00p,Toronto Raptors,TOR,,Cleveland Cavaliers,CLE,,,,,,,Rocket Arena,,2027,february,2027-02-09,False
+"Tue, Feb 9, 2027",7:30p,Denver Nuggets,DEN,,Boston Celtics,BOS,,,,,,,TD Garden,,2027,february,2027-02-09,False
+"Tue, Feb 9, 2027",7:30p,Minnesota Timberwolves,MIN,,Brooklyn Nets,BRK,,,,,,,Barclays Center,,2027,february,2027-02-09,False
+"Tue, Feb 9, 2027",7:30p,Charlotte Hornets,CHO,,New York Knicks,NYK,,,,,,,Madison Square Garden (IV),,2027,february,2027-02-09,False
+"Tue, Feb 9, 2027",8:00p,Golden State Warriors,GSW,,Chicago Bulls,CHI,,,,,,,United Center,,2027,february,2027-02-09,False
+"Tue, Feb 9, 2027",8:00p,San Antonio Spurs,SAS,,Dallas Mavericks,DAL,,,,,,,American Airlines Center,,2027,february,2027-02-09,False
+"Tue, Feb 9, 2027",8:00p,Sacramento Kings,SAC,,Milwaukee Bucks,MIL,,,,,,,Fiserv Forum,,2027,february,2027-02-09,False
+"Tue, Feb 9, 2027",8:00p,Portland Trail Blazers,POR,,Oklahoma City Thunder,OKC,,,,,,,Paycom Center,,2027,february,2027-02-09,False
+"Tue, Feb 9, 2027",10:00p,Houston Rockets,HOU,,Utah Jazz,UTA,,,,,,,Delta Center,,2027,february,2027-02-09,False
+"Tue, Feb 9, 2027",10:30p,Detroit Pistons,DET,,Los Angeles Clippers,LAC,,,,,,,Intuit Dome,,2027,february,2027-02-09,False
+"Wed, Feb 10, 2027",7:00p,New Orleans Pelicans,NOP,,Atlanta Hawks,ATL,,,,,,,State Farm Arena,,2027,february,2027-02-10,False
+"Wed, Feb 10, 2027",7:00p,Cleveland Cavaliers,CLE,,Indiana Pacers,IND,,,,,,,Gainbridge Fieldhouse,,2027,february,2027-02-10,False
+"Wed, Feb 10, 2027",7:00p,Miami Heat,MIA,,Washington Wizards,WAS,,,,,,,Capital One Arena,,2027,february,2027-02-10,False
+"Wed, Feb 10, 2027",7:30p,Golden State Warriors,GSW,,Boston Celtics,BOS,,,,,,,TD Garden,,2027,february,2027-02-10,False
+"Wed, Feb 10, 2027",8:00p,Orlando Magic,ORL,,Memphis Grizzlies,MEM,,,,,,,FedExForum,,2027,february,2027-02-10,False
+"Wed, Feb 10, 2027",9:00p,Detroit Pistons,DET,,Phoenix Suns,PHO,,,,,,,Mortgage Matchup Center,,2027,february,2027-02-10,False
+"Wed, Feb 10, 2027",10:00p,Los Angeles Clippers,LAC,,Los Angeles Lakers,LAL,,,,,,,Crypto.com Arena,,2027,february,2027-02-10,False
+"Thu, Feb 11, 2027",7:00p,Milwaukee Bucks,MIL,,Charlotte Hornets,CHO,,,,,,,Spectrum Center,,2027,february,2027-02-11,False
+"Thu, Feb 11, 2027",7:00p,Utah Jazz,UTA,,Indiana Pacers,IND,,,,,,,Gainbridge Fieldhouse,,2027,february,2027-02-11,False
+"Thu, Feb 11, 2027",7:00p,New York Knicks,NYK,,Philadelphia 76ers,PHI,,,,,,,Xfinity Mobile Arena,,2027,february,2027-02-11,False
+"Thu, Feb 11, 2027",8:00p,Portland Trail Blazers,POR,,Dallas Mavericks,DAL,,,,,,,American Airlines Center,,2027,february,2027-02-11,False
+"Thu, Feb 11, 2027",8:30p,Sacramento Kings,SAC,,Houston Rockets,HOU,,,,,,,Toyota Center,,2027,february,2027-02-11,False
+"Thu, Feb 11, 2027",9:00p,Chicago Bulls,CHI,,Denver Nuggets,DEN,,,,,,,Ball Arena,,2027,february,2027-02-11,False
+"Thu, Feb 11, 2027",9:30p,San Antonio Spurs,SAS,,Oklahoma City Thunder,OKC,,,,,,,Paycom Center,,2027,february,2027-02-11,False
+"Fri, Feb 12, 2027",7:00p,Phoenix Suns,PHO,,Atlanta Hawks,ATL,,,,,,,State Farm Arena,,2027,february,2027-02-12,False
+"Fri, Feb 12, 2027",7:00p,Miami Heat,MIA,,Orlando Magic,ORL,,,,,,,Kia Center,,2027,february,2027-02-12,False
+"Fri, Feb 12, 2027",7:00p,Brooklyn Nets,BRK,,Washington Wizards,WAS,,,,,,,Capital One Arena,,2027,february,2027-02-12,False
+"Fri, Feb 12, 2027",7:30p,Cleveland Cavaliers,CLE,,Toronto Raptors,TOR,,,,,,,Scotiabank Arena,,2027,february,2027-02-12,False
+"Fri, Feb 12, 2027",8:00p,Minnesota Timberwolves,MIN,,Boston Celtics,BOS,,,,,,,TD Garden,,2027,february,2027-02-12,False
+"Fri, Feb 12, 2027",8:00p,Los Angeles Clippers,LAC,,Memphis Grizzlies,MEM,,,,,,,FedExForum,,2027,february,2027-02-12,False
+"Fri, Feb 12, 2027",8:00p,Houston Rockets,HOU,,New Orleans Pelicans,NOP,,,,,,,Smoothie King Center,,2027,february,2027-02-12,False
+"Fri, Feb 12, 2027",10:30p,Denver Nuggets,DEN,,Los Angeles Lakers,LAL,,,,,,,Crypto.com Arena,,2027,february,2027-02-12,False
+"Sat, Feb 13, 2027",2:00p,Sacramento Kings,SAC,,Indiana Pacers,IND,,,,,,,Gainbridge Fieldhouse,,2027,february,2027-02-13,False
+"Sat, Feb 13, 2027",3:00p,Dallas Mavericks,DAL,,Charlotte Hornets,CHO,,,,,,,Spectrum Center,,2027,february,2027-02-13,False
+"Sat, Feb 13, 2027",3:30p,Detroit Pistons,DET,,Portland Trail Blazers,POR,,,,,,,Moda Center,,2027,february,2027-02-13,False
+"Sat, Feb 13, 2027",5:30p,Philadelphia 76ers,PHI,,Oklahoma City Thunder,OKC,,,,,,,Paycom Center,,2027,february,2027-02-13,False
+"Sat, Feb 13, 2027",7:00p,San Antonio Spurs,SAS,,Orlando Magic,ORL,,,,,,,Kia Center,,2027,february,2027-02-13,False
+"Sat, Feb 13, 2027",7:00p,Milwaukee Bucks,MIL,,Washington Wizards,WAS,,,,,,,Capital One Arena,,2027,february,2027-02-13,False
+"Sat, Feb 13, 2027",8:30p,Golden State Warriors,GSW,,New York Knicks,NYK,,,,,,,Madison Square Garden (IV),,2027,february,2027-02-13,False
+"Sun, Feb 14, 2027",1:00p,Sacramento Kings,SAC,,Atlanta Hawks,ATL,,,,,,,State Farm Arena,,2027,february,2027-02-14,False
+"Sun, Feb 14, 2027",1:00p,Toronto Raptors,TOR,,Boston Celtics,BOS,,,,,,,TD Garden,,2027,february,2027-02-14,False
+"Sun, Feb 14, 2027",1:00p,Phoenix Suns,PHO,,Cleveland Cavaliers,CLE,,,,,,,Rocket Arena,,2027,february,2027-02-14,False
+"Sun, Feb 14, 2027",1:00p,Brooklyn Nets,BRK,,Miami Heat,MIA,,,,,,,Kaseya Center,,2027,february,2027-02-14,False
+"Sun, Feb 14, 2027",2:00p,Denver Nuggets,DEN,,Houston Rockets,HOU,,,,,,,Toyota Center,,2027,february,2027-02-14,False
+"Sun, Feb 14, 2027",2:00p,Los Angeles Clippers,LAC,,New Orleans Pelicans,NOP,,,,,,,Smoothie King Center,,2027,february,2027-02-14,False
+"Sun, Feb 14, 2027",3:30p,Chicago Bulls,CHI,,Portland Trail Blazers,POR,,,,,,,Moda Center,,2027,february,2027-02-14,False
+"Mon, Feb 15, 2027",12:00p,Minnesota Timberwolves,MIN,,Charlotte Hornets,CHO,,,,,,,Spectrum Center,,2027,february,2027-02-15,False
+"Mon, Feb 15, 2027",2:30p,Philadelphia 76ers,PHI,,Dallas Mavericks,DAL,,,,,,,American Airlines Center,,2027,february,2027-02-15,False
+"Mon, Feb 15, 2027",5:00p,San Antonio Spurs,SAS,,Miami Heat,MIA,,,,,,,Kaseya Center,,2027,february,2027-02-15,False
+"Mon, Feb 15, 2027",7:00p,Phoenix Suns,PHO,,Washington Wizards,WAS,,,,,,,Capital One Arena,,2027,february,2027-02-15,False
+"Mon, Feb 15, 2027",7:30p,Indiana Pacers,IND,,Golden State Warriors,GSW,,,,,,,Chase Center,,2027,february,2027-02-15,False
+"Mon, Feb 15, 2027",8:00p,New York Knicks,NYK,,Memphis Grizzlies,MEM,,,,,,,FedExForum,,2027,february,2027-02-15,False
+"Mon, Feb 15, 2027",8:00p,Orlando Magic,ORL,,Oklahoma City Thunder,OKC,,,,,,,Paycom Center,,2027,february,2027-02-15,False
+"Mon, Feb 15, 2027",9:00p,Detroit Pistons,DET,,Utah Jazz,UTA,,,,,,,Delta Center,,2027,february,2027-02-15,False
+"Tue, Feb 16, 2027",7:00p,Milwaukee Bucks,MIL,,Cleveland Cavaliers,CLE,,,,,,,Rocket Arena,,2027,february,2027-02-16,False
+"Tue, Feb 16, 2027",8:00p,Toronto Raptors,TOR,,Atlanta Hawks,ATL,,,,,,,State Farm Arena,,2027,february,2027-02-16,False
+"Tue, Feb 16, 2027",10:00p,Chicago Bulls,CHI,,Los Angeles Lakers,LAL,,,,,,,Crypto.com Arena,,2027,february,2027-02-16,False
+"Tue, Feb 16, 2027",10:00p,New Orleans Pelicans,NOP,,Portland Trail Blazers,POR,,,,,,,Moda Center,,2027,february,2027-02-16,False
+"Tue, Feb 16, 2027",11:00p,Houston Rockets,HOU,,Los Angeles Clippers,LAC,,,,,,,Intuit Dome,,2027,february,2027-02-16,False
+"Wed, Feb 17, 2027",7:00p,Toronto Raptors,TOR,,Charlotte Hornets,CHO,,,,,,,Spectrum Center,,2027,february,2027-02-17,False
+"Wed, Feb 17, 2027",7:00p,Milwaukee Bucks,MIL,,Cleveland Cavaliers,CLE,,,,,,,Rocket Arena,,2027,february,2027-02-17,False
+"Wed, Feb 17, 2027",7:00p,New York Knicks,NYK,,Detroit Pistons,DET,,,,,,,Little Caesars Arena,,2027,february,2027-02-17,False
+"Wed, Feb 17, 2027",7:00p,Dallas Mavericks,DAL,,Orlando Magic,ORL,,,,,,,Kia Center,,2027,february,2027-02-17,False
+"Wed, Feb 17, 2027",7:00p,Phoenix Suns,PHO,,Philadelphia 76ers,PHI,,,,,,,Xfinity Mobile Arena,,2027,february,2027-02-17,False
+"Wed, Feb 17, 2027",7:00p,Miami Heat,MIA,,Washington Wizards,WAS,,,,,,,Capital One Arena,,2027,february,2027-02-17,False
+"Wed, Feb 17, 2027",7:30p,Atlanta Hawks,ATL,,Brooklyn Nets,BRK,,,,,,,Barclays Center,,2027,february,2027-02-17,False
+"Wed, Feb 17, 2027",8:00p,San Antonio Spurs,SAS,,Memphis Grizzlies,MEM,,,,,,,FedExForum,,2027,february,2027-02-17,False
+"Wed, Feb 17, 2027",9:00p,Utah Jazz,UTA,,Denver Nuggets,DEN,,,,,,,Ball Arena,,2027,february,2027-02-17,False
+"Wed, Feb 17, 2027",9:30p,Boston Celtics,BOS,,Oklahoma City Thunder,OKC,,,,,,,Paycom Center,,2027,february,2027-02-17,False
+"Wed, Feb 17, 2027",10:00p,New Orleans Pelicans,NOP,,Golden State Warriors,GSW,,,,,,,Chase Center,,2027,february,2027-02-17,False
+"Wed, Feb 17, 2027",10:00p,Indiana Pacers,IND,,Sacramento Kings,SAC,,,,,,,Golden 1 Center,,2027,february,2027-02-17,False
+"Wed, Feb 17, 2027",10:30p,Chicago Bulls,CHI,,Los Angeles Clippers,LAC,,,,,,,Intuit Dome,,2027,february,2027-02-17,False
+"Thu, Feb 18, 2027",7:30p,San Antonio Spurs,SAS,,Minnesota Timberwolves,MIN,,,,,,,Target Center,,2027,february,2027-02-18,False
+"Thu, Feb 18, 2027",8:00p,Boston Celtics,BOS,,Memphis Grizzlies,MEM,,,,,,,FedExForum,,2027,february,2027-02-18,False
+"Thu, Feb 18, 2027",10:00p,Houston Rockets,HOU,,Los Angeles Lakers,LAL,,,,,,,Crypto.com Arena,,2027,february,2027-02-18,False
+"Thu, Feb 18, 2027",10:00p,Indiana Pacers,IND,,Portland Trail Blazers,POR,,,,,,,Moda Center,,2027,february,2027-02-18,False
+"Thu, Feb 25, 2027",7:00p,Sacramento Kings,SAC,,Cleveland Cavaliers,CLE,,,,,,,Rocket Arena,,2027,february,2027-02-25,False
+"Thu, Feb 25, 2027",7:00p,Miami Heat,MIA,,Detroit Pistons,DET,,,,,,,Little Caesars Arena,,2027,february,2027-02-25,False
+"Thu, Feb 25, 2027",7:00p,Charlotte Hornets,CHO,,Orlando Magic,ORL,,,,,,,Kia Center,,2027,february,2027-02-25,False
+"Thu, Feb 25, 2027",7:30p,Philadelphia 76ers,PHI,,Brooklyn Nets,BRK,,,,,,,Barclays Center,,2027,february,2027-02-25,False
+"Thu, Feb 25, 2027",7:30p,Oklahoma City Thunder,OKC,,New York Knicks,NYK,,,,,,,Madison Square Garden (IV),,2027,february,2027-02-25,False
+"Thu, Feb 25, 2027",8:00p,Atlanta Hawks,ATL,,Chicago Bulls,CHI,,,,,,,United Center,,2027,february,2027-02-25,False
+"Thu, Feb 25, 2027",8:00p,Washington Wizards,WAS,,Milwaukee Bucks,MIL,,,,,,,Fiserv Forum,,2027,february,2027-02-25,False
+"Thu, Feb 25, 2027",8:00p,Phoenix Suns,PHO,,New Orleans Pelicans,NOP,,,,,,,Smoothie King Center,,2027,february,2027-02-25,False
+"Thu, Feb 25, 2027",10:00p,Dallas Mavericks,DAL,,Golden State Warriors,GSW,,,,,,,Chase Center,,2027,february,2027-02-25,False
+"Thu, Feb 25, 2027",10:30p,Utah Jazz,UTA,,Los Angeles Clippers,LAC,,,,,,,Intuit Dome,,2027,february,2027-02-25,False
+"Fri, Feb 26, 2027",7:30p,Cleveland Cavaliers,CLE,,Boston Celtics,BOS,,,,,,,TD Garden,,2027,february,2027-02-26,False
+"Fri, Feb 26, 2027",7:30p,Atlanta Hawks,ATL,,Toronto Raptors,TOR,,,,,,,Scotiabank Arena,,2027,february,2027-02-26,False
+"Fri, Feb 26, 2027",8:00p,Indiana Pacers,IND,,Minnesota Timberwolves,MIN,,,,,,,Target Center,,2027,february,2027-02-26,False
+"Fri, Feb 26, 2027",8:00p,Memphis Grizzlies,MEM,,San Antonio Spurs,SAS,,,,,,,Moody Center,,2027,february,2027-02-26,False
+"Fri, Feb 26, 2027",8:30p,Charlotte Hornets,CHO,,Houston Rockets,HOU,,,,,,,Toyota Center,,2027,february,2027-02-26,False
+"Fri, Feb 26, 2027",10:00p,Los Angeles Lakers,LAL,,Denver Nuggets,DEN,,,,,,,Ball Arena,,2027,february,2027-02-26,False
+"Fri, Feb 26, 2027",10:00p,Dallas Mavericks,DAL,,Portland Trail Blazers,POR,,,,,,,Moda Center,,2027,february,2027-02-26,False
+"Sat, Feb 27, 2027",3:00p,Washington Wizards,WAS,,Utah Jazz,UTA,,,,,,,Delta Center,,2027,february,2027-02-27,False
+"Sat, Feb 27, 2027",5:30p,Oklahoma City Thunder,OKC,,Detroit Pistons,DET,,,,,,,Little Caesars Arena,,2027,february,2027-02-27,False
+"Sat, Feb 27, 2027",8:00p,Brooklyn Nets,BRK,,Chicago Bulls,CHI,,,,,,,United Center,,2027,february,2027-02-27,False
+"Sat, Feb 27, 2027",8:00p,Sacramento Kings,SAC,,Memphis Grizzlies,MEM,,,,,,,FedExForum,,2027,february,2027-02-27,False
+"Sat, Feb 27, 2027",8:30p,Philadelphia 76ers,PHI,,New York Knicks,NYK,,,,,,,Madison Square Garden (IV),,2027,february,2027-02-27,False
+"Sat, Feb 27, 2027",9:00p,New Orleans Pelicans,NOP,,Phoenix Suns,PHO,,,,,,,Mortgage Matchup Center,,2027,february,2027-02-27,False
+"Sun, Feb 28, 2027",1:00p,Denver Nuggets,DEN,,San Antonio Spurs,SAS,,,,,,,Moody Center,,2027,february,2027-02-28,False
+"Sun, Feb 28, 2027",3:30p,Los Angeles Lakers,LAL,,Dallas Mavericks,DAL,,,,,,,American Airlines Center,,2027,february,2027-02-28,False
+"Sun, Feb 28, 2027",4:00p,Toronto Raptors,TOR,,Indiana Pacers,IND,,,,,,,Gainbridge Fieldhouse,,2027,february,2027-02-28,False
+"Sun, Feb 28, 2027",4:30p,Atlanta Hawks,ATL,,Orlando Magic,ORL,,,,,,,Kia Center,,2027,february,2027-02-28,False
+"Sun, Feb 28, 2027",7:00p,Sacramento Kings,SAC,,Charlotte Hornets,CHO,,,,,,,Spectrum Center,,2027,february,2027-02-28,False
+"Sun, Feb 28, 2027",7:00p,Boston Celtics,BOS,,Minnesota Timberwolves,MIN,,,,,,,Target Center,,2027,february,2027-02-28,False
+"Sun, Feb 28, 2027",7:30p,Milwaukee Bucks,MIL,,New York Knicks,NYK,,,,,,,Madison Square Garden (IV),,2027,february,2027-02-28,False
+"Sun, Feb 28, 2027",9:30p,Miami Heat,MIA,,Houston Rockets,HOU,,,,,,,Toyota Center,,2027,february,2027-02-28,False
+"Sun, Feb 28, 2027",10:30p,Portland Trail Blazers,POR,,Los Angeles Clippers,LAC,,,,,,,Intuit Dome,,2027,february,2027-02-28,False
+"Mon, Mar 1, 2027",7:00p,Philadelphia 76ers,PHI,,Cleveland Cavaliers,CLE,,,,,,,Rocket Arena,,2027,march,2027-03-01,False
+"Mon, Mar 1, 2027",7:00p,Chicago Bulls,CHI,,Detroit Pistons,DET,,,,,,,Little Caesars Arena,,2027,march,2027-03-01,False
+"Mon, Mar 1, 2027",8:00p,Utah Jazz,UTA,,New Orleans Pelicans,NOP,,,,,,,Smoothie King Center,,2027,march,2027-03-01,False
+"Mon, Mar 1, 2027",8:30p,Golden State Warriors,GSW,,Houston Rockets,HOU,,,,,,,Toyota Center,,2027,march,2027-03-01,False
+"Mon, Mar 1, 2027",9:00p,Brooklyn Nets,BRK,,Denver Nuggets,DEN,,,,,,,Ball Arena,,2027,march,2027-03-01,False
+"Mon, Mar 1, 2027",9:30p,Washington Wizards,WAS,,Phoenix Suns,PHO,,,,,,,Mortgage Matchup Center,,2027,march,2027-03-01,False
+"Tue, Mar 2, 2027",7:00p,Boston Celtics,BOS,,Indiana Pacers,IND,,,,,,,Gainbridge Fieldhouse,,2027,march,2027-03-02,False
+"Tue, Mar 2, 2027",7:00p,Los Angeles Lakers,LAL,,Orlando Magic,ORL,,,,,,,Kia Center,,2027,march,2027-03-02,False
+"Tue, Mar 2, 2027",7:30p,Toronto Raptors,TOR,,Miami Heat,MIA,,,,,,,Kaseya Center,,2027,march,2027-03-02,False
+"Tue, Mar 2, 2027",7:30p,Memphis Grizzlies,MEM,,New York Knicks,NYK,,,,,,,Madison Square Garden (IV),,2027,march,2027-03-02,False
+"Tue, Mar 2, 2027",8:00p,Golden State Warriors,GSW,,Dallas Mavericks,DAL,,,,,,,American Airlines Center,,2027,march,2027-03-02,False
+"Tue, Mar 2, 2027",8:00p,Detroit Pistons,DET,,Milwaukee Bucks,MIL,,,,,,,Fiserv Forum,,2027,march,2027-03-02,False
+"Tue, Mar 2, 2027",8:00p,Minnesota Timberwolves,MIN,,Oklahoma City Thunder,OKC,,,,,,,Paycom Center,,2027,march,2027-03-02,False
+"Tue, Mar 2, 2027",10:00p,Washington Wizards,WAS,,Sacramento Kings,SAC,,,,,,,Golden 1 Center,,2027,march,2027-03-02,False
+"Tue, Mar 2, 2027",11:00p,Los Angeles Clippers,LAC,,Portland Trail Blazers,POR,,,,,,,Moda Center,,2027,march,2027-03-02,False
+"Wed, Mar 3, 2027",7:00p,Chicago Bulls,CHI,,Atlanta Hawks,ATL,,,,,,,State Farm Arena,,2027,march,2027-03-03,False
+"Wed, Mar 3, 2027",7:00p,Charlotte Hornets,CHO,,Philadelphia 76ers,PHI,,,,,,,Xfinity Mobile Arena,,2027,march,2027-03-03,False
+"Wed, Mar 3, 2027",7:30p,Toronto Raptors,TOR,,Miami Heat,MIA,,,,,,,Kaseya Center,,2027,march,2027-03-03,False
+"Wed, Mar 3, 2027",8:00p,Utah Jazz,UTA,,Milwaukee Bucks,MIL,,,,,,,Fiserv Forum,,2027,march,2027-03-03,False
+"Wed, Mar 3, 2027",8:30p,New Orleans Pelicans,NOP,,Houston Rockets,HOU,,,,,,,Toyota Center,,2027,march,2027-03-03,False
+"Wed, Mar 3, 2027",9:00p,Brooklyn Nets,BRK,,Phoenix Suns,PHO,,,,,,,Mortgage Matchup Center,,2027,march,2027-03-03,False
+"Wed, Mar 3, 2027",10:00p,San Antonio Spurs,SAS,,Denver Nuggets,DEN,,,,,,,Ball Arena,,2027,march,2027-03-03,False
+"Thu, Mar 4, 2027",7:00p,Portland Trail Blazers,POR,,Cleveland Cavaliers,CLE,,,,,,,Rocket Arena,,2027,march,2027-03-04,False
+"Thu, Mar 4, 2027",7:00p,Indiana Pacers,IND,,Orlando Magic,ORL,,,,,,,Kia Center,,2027,march,2027-03-04,False
+"Thu, Mar 4, 2027",7:00p,Los Angeles Lakers,LAL,,Philadelphia 76ers,PHI,,,,,,,Xfinity Mobile Arena,,2027,march,2027-03-04,False
+"Thu, Mar 4, 2027",7:30p,Memphis Grizzlies,MEM,,Atlanta Hawks,ATL,,,,,,,State Farm Arena,,2027,march,2027-03-04,False
+"Thu, Mar 4, 2027",9:30p,New York Knicks,NYK,,Dallas Mavericks,DAL,,,,,,,American Airlines Center,,2027,march,2027-03-04,False
+"Thu, Mar 4, 2027",10:00p,Washington Wizards,WAS,,Golden State Warriors,GSW,,,,,,,Chase Center,,2027,march,2027-03-04,False
+"Thu, Mar 4, 2027",10:00p,Oklahoma City Thunder,OKC,,Sacramento Kings,SAC,,,,,,,Golden 1 Center,,2027,march,2027-03-04,False
+"Thu, Mar 4, 2027",10:30p,Brooklyn Nets,BRK,,Los Angeles Clippers,LAC,,,,,,,Intuit Dome,,2027,march,2027-03-04,False
+"Fri, Mar 5, 2027",7:00p,Boston Celtics,BOS,,Detroit Pistons,DET,,,,,,,Little Caesars Arena,,2027,march,2027-03-05,False
+"Fri, Mar 5, 2027",7:00p,Utah Jazz,UTA,,Orlando Magic,ORL,,,,,,,Kia Center,,2027,march,2027-03-05,False
+"Fri, Mar 5, 2027",7:30p,Portland Trail Blazers,POR,,Toronto Raptors,TOR,,,,,,,Scotiabank Arena,,2027,march,2027-03-05,False
+"Fri, Mar 5, 2027",8:00p,Milwaukee Bucks,MIL,,New Orleans Pelicans,NOP,,,,,,,Smoothie King Center,,2027,march,2027-03-05,False
+"Fri, Mar 5, 2027",9:00p,Minnesota Timberwolves,MIN,,Phoenix Suns,PHO,,,,,,,Mortgage Matchup Center,,2027,march,2027-03-05,False
+"Fri, Mar 5, 2027",9:30p,San Antonio Spurs,SAS,,Houston Rockets,HOU,,,,,,,Toyota Center,,2027,march,2027-03-05,False
+"Sat, Mar 6, 2027",3:00p,Indiana Pacers,IND,,Miami Heat,MIA,,,,,,,Kaseya Center,,2027,march,2027-03-06,False
+"Sat, Mar 6, 2027",5:00p,Charlotte Hornets,CHO,,Chicago Bulls,CHI,,,,,,,United Center,,2027,march,2027-03-06,False
+"Sat, Mar 6, 2027",5:30p,Atlanta Hawks,ATL,,Cleveland Cavaliers,CLE,,,,,,,Rocket Arena,,2027,march,2027-03-06,False
+"Sat, Mar 6, 2027",7:00p,Utah Jazz,UTA,,Washington Wizards,WAS,,,,,,,Capital One Arena,,2027,march,2027-03-06,False
+"Sat, Mar 6, 2027",8:00p,New Orleans Pelicans,NOP,,Memphis Grizzlies,MEM,,,,,,,FedExForum,,2027,march,2027-03-06,False
+"Sat, Mar 6, 2027",8:30p,Oklahoma City Thunder,OKC,,Los Angeles Lakers,LAL,,,,,,,Crypto.com Arena,,2027,march,2027-03-06,False
+"Sat, Mar 6, 2027",10:00p,Los Angeles Clippers,LAC,,Sacramento Kings,SAC,,,,,,,Golden 1 Center,,2027,march,2027-03-06,False
+"Sun, Mar 7, 2027",1:00p,Philadelphia 76ers,PHI,,Boston Celtics,BOS,,,,,,,TD Garden,,2027,march,2027-03-07,False
+"Sun, Mar 7, 2027",3:30p,Minnesota Timberwolves,MIN,,Denver Nuggets,DEN,,,,,,,Ball Arena,,2027,march,2027-03-07,False
+"Sun, Mar 7, 2027",5:00p,Portland Trail Blazers,POR,,Chicago Bulls,CHI,,,,,,,United Center,,2027,march,2027-03-07,False
+"Sun, Mar 7, 2027",7:30p,New York Knicks,NYK,,San Antonio Spurs,SAS,,,,,,,Frost Bank Center,,2027,march,2027-03-07,False
+"Sun, Mar 7, 2027",10:00p,Houston Rockets,HOU,,Golden State Warriors,GSW,,,,,,,Chase Center,,2027,march,2027-03-07,False
+"Sun, Mar 7, 2027",10:30p,Brooklyn Nets,BRK,,Los Angeles Lakers,LAL,,,,,,,Crypto.com Arena,,2027,march,2027-03-07,False
+"Mon, Mar 8, 2027",7:00p,Charlotte Hornets,CHO,,Indiana Pacers,IND,,,,,,,Gainbridge Fieldhouse,,2027,march,2027-03-08,False
+"Mon, Mar 8, 2027",7:00p,Utah Jazz,UTA,,Philadelphia 76ers,PHI,,,,,,,Xfinity Mobile Arena,,2027,march,2027-03-08,False
+"Mon, Mar 8, 2027",7:30p,Phoenix Suns,PHO,,Miami Heat,MIA,,,,,,,Kaseya Center,,2027,march,2027-03-08,False
+"Mon, Mar 8, 2027",8:00p,Atlanta Hawks,ATL,,Memphis Grizzlies,MEM,,,,,,,FedExForum,,2027,march,2027-03-08,False
+"Mon, Mar 8, 2027",8:00p,New Orleans Pelicans,NOP,,Minnesota Timberwolves,MIN,,,,,,,Target Center,,2027,march,2027-03-08,False
+"Mon, Mar 8, 2027",9:30p,Dallas Mavericks,DAL,,Oklahoma City Thunder,OKC,,,,,,,Paycom Center,,2027,march,2027-03-08,False
+"Mon, Mar 8, 2027",10:00p,Denver Nuggets,DEN,,Sacramento Kings,SAC,,,,,,,Golden 1 Center,,2027,march,2027-03-08,False
+"Mon, Mar 8, 2027",10:30p,Houston Rockets,HOU,,Los Angeles Clippers,LAC,,,,,,,Intuit Dome,,2027,march,2027-03-08,False
+"Tue, Mar 9, 2027",7:00p,Phoenix Suns,PHO,,Orlando Magic,ORL,,,,,,,Kia Center,,2027,march,2027-03-09,False
+"Tue, Mar 9, 2027",7:30p,Milwaukee Bucks,MIL,,Brooklyn Nets,BRK,,,,,,,Barclays Center,,2027,march,2027-03-09,False
+"Tue, Mar 9, 2027",8:00p,Boston Celtics,BOS,,Chicago Bulls,CHI,,,,,,,United Center,,2027,march,2027-03-09,False
+"Tue, Mar 9, 2027",8:00p,Memphis Grizzlies,MEM,,Dallas Mavericks,DAL,,,,,,,American Airlines Center,,2027,march,2027-03-09,False
+"Tue, Mar 9, 2027",8:00p,Cleveland Cavaliers,CLE,,Detroit Pistons,DET,,,,,,,Little Caesars Arena,,2027,march,2027-03-09,False
+"Tue, Mar 9, 2027",8:00p,Washington Wizards,WAS,,San Antonio Spurs,SAS,,,,,,,Frost Bank Center,,2027,march,2027-03-09,False
+"Tue, Mar 9, 2027",11:00p,Portland Trail Blazers,POR,,Golden State Warriors,GSW,,,,,,,Chase Center,,2027,march,2027-03-09,False
+"Wed, Mar 10, 2027",7:00p,New Orleans Pelicans,NOP,,Charlotte Hornets,CHO,,,,,,,Spectrum Center,,2027,march,2027-03-10,False
+"Wed, Mar 10, 2027",7:00p,Orlando Magic,ORL,,Miami Heat,MIA,,,,,,,Kaseya Center,,2027,march,2027-03-10,False
+"Wed, Mar 10, 2027",7:30p,Oklahoma City Thunder,OKC,,Toronto Raptors,TOR,,,,,,,Scotiabank Arena,,2027,march,2027-03-10,False
+"Wed, Mar 10, 2027",9:00p,Houston Rockets,HOU,,Utah Jazz,UTA,,,,,,,Delta Center,,2027,march,2027-03-10,False
+"Wed, Mar 10, 2027",9:30p,Atlanta Hawks,ATL,,Minnesota Timberwolves,MIN,,,,,,,Target Center,,2027,march,2027-03-10,False
+"Wed, Mar 10, 2027",10:00p,Denver Nuggets,DEN,,Portland Trail Blazers,POR,,,,,,,Moda Center,,2027,march,2027-03-10,False
+"Wed, Mar 10, 2027",10:00p,Golden State Warriors,GSW,,Sacramento Kings,SAC,,,,,,,Golden 1 Center,,2027,march,2027-03-10,False
+"Wed, Mar 10, 2027",10:30p,New York Knicks,NYK,,Los Angeles Clippers,LAC,,,,,,,Intuit Dome,,2027,march,2027-03-10,False
+"Thu, Mar 11, 2027",7:00p,Indiana Pacers,IND,,Charlotte Hornets,CHO,,,,,,,Spectrum Center,,2027,march,2027-03-11,False
+"Thu, Mar 11, 2027",7:00p,Milwaukee Bucks,MIL,,Detroit Pistons,DET,,,,,,,Little Caesars Arena,,2027,march,2027-03-11,False
+"Thu, Mar 11, 2027",7:30p,Memphis Grizzlies,MEM,,Boston Celtics,BOS,,,,,,,TD Garden,,2027,march,2027-03-11,False
+"Thu, Mar 11, 2027",7:30p,Philadelphia 76ers,PHI,,San Antonio Spurs,SAS,,,,,,,Frost Bank Center,,2027,march,2027-03-11,False
+"Thu, Mar 11, 2027",8:00p,Brooklyn Nets,BRK,,Atlanta Hawks,ATL,,,,,,,State Farm Arena,,2027,march,2027-03-11,False
+"Thu, Mar 11, 2027",8:00p,Phoenix Suns,PHO,,Chicago Bulls,CHI,,,,,,,United Center,,2027,march,2027-03-11,False
+"Thu, Mar 11, 2027",8:00p,Washington Wizards,WAS,,Dallas Mavericks,DAL,,,,,,,American Airlines Center,,2027,march,2027-03-11,False
+"Thu, Mar 11, 2027",10:00p,New York Knicks,NYK,,Los Angeles Lakers,LAL,,,,,,,Crypto.com Arena,,2027,march,2027-03-11,False
+"Thu, Mar 11, 2027",10:30p,Cleveland Cavaliers,CLE,,Los Angeles Clippers,LAC,,,,,,,Intuit Dome,,2027,march,2027-03-11,False
+"Fri, Mar 12, 2027",7:30p,Oklahoma City Thunder,OKC,,Boston Celtics,BOS,,,,,,,TD Garden,,2027,march,2027-03-12,False
+"Fri, Mar 12, 2027",8:00p,Miami Heat,MIA,,Milwaukee Bucks,MIL,,,,,,,Fiserv Forum,,2027,march,2027-03-12,False
+"Fri, Mar 12, 2027",8:00p,Toronto Raptors,TOR,,New Orleans Pelicans,NOP,,,,,,,Smoothie King Center,,2027,march,2027-03-12,False
+"Fri, Mar 12, 2027",9:30p,Sacramento Kings,SAC,,Utah Jazz,UTA,,,,,,,Delta Center,,2027,march,2027-03-12,False
+"Fri, Mar 12, 2027",10:00p,Golden State Warriors,GSW,,Denver Nuggets,DEN,,,,,,,Ball Arena,,2027,march,2027-03-12,False
+"Fri, Mar 12, 2027",10:00p,Cleveland Cavaliers,CLE,,Los Angeles Lakers,LAL,,,,,,,Crypto.com Arena,,2027,march,2027-03-12,False
+"Sat, Mar 13, 2027",3:00p,Orlando Magic,ORL,,Atlanta Hawks,ATL,,,,,,,State Farm Arena,,2027,march,2027-03-13,False
+"Sat, Mar 13, 2027",3:00p,Brooklyn Nets,BRK,,Detroit Pistons,DET,,,,,,,Little Caesars Arena,,2027,march,2027-03-13,False
+"Sat, Mar 13, 2027",5:30p,Indiana Pacers,IND,,Houston Rockets,HOU,,,,,,,Toyota Center,,2027,march,2027-03-13,False
+"Sat, Mar 13, 2027",6:00p,Phoenix Suns,PHO,,Charlotte Hornets,CHO,,,,,,,Spectrum Center,,2027,march,2027-03-13,False
+"Sat, Mar 13, 2027",8:00p,Memphis Grizzlies,MEM,,Chicago Bulls,CHI,,,,,,,United Center,,2027,march,2027-03-13,False
+"Sat, Mar 13, 2027",8:00p,New Orleans Pelicans,NOP,,Dallas Mavericks,DAL,,,,,,,American Airlines Center,,2027,march,2027-03-13,False
+"Sat, Mar 13, 2027",8:30p,Philadelphia 76ers,PHI,,Minnesota Timberwolves,MIN,,,,,,,Target Center,,2027,march,2027-03-13,False
+"Sat, Mar 13, 2027",10:30p,Los Angeles Clippers,LAC,,Portland Trail Blazers,POR,,,,,,,Moda Center,,2027,march,2027-03-13,False
+"Sun, Mar 14, 2027",12:00p,Boston Celtics,BOS,,New York Knicks,NYK,,,,,,,Madison Square Garden (IV),,2027,march,2027-03-14,False
+"Sun, Mar 14, 2027",2:30p,San Antonio Spurs,SAS,,Oklahoma City Thunder,OKC,,,,,,,Paycom Center,,2027,march,2027-03-14,False
+"Sun, Mar 14, 2027",5:00p,Detroit Pistons,DET,,Toronto Raptors,TOR,,,,,,,Scotiabank Arena,,2027,march,2027-03-14,False
+"Sun, Mar 14, 2027",6:00p,Cleveland Cavaliers,CLE,,Sacramento Kings,SAC,,,,,,,Golden 1 Center,,2027,march,2027-03-14,False
+"Sun, Mar 14, 2027",7:30p,Miami Heat,MIA,,Denver Nuggets,DEN,,,,,,,Ball Arena,,2027,march,2027-03-14,False
+"Sun, Mar 14, 2027",8:00p,Washington Wizards,WAS,,Minnesota Timberwolves,MIN,,,,,,,Target Center,,2027,march,2027-03-14,False
+"Sun, Mar 14, 2027",10:00p,Golden State Warriors,GSW,,Los Angeles Lakers,LAL,,,,,,,Crypto.com Arena,,2027,march,2027-03-14,False
+"Mon, Mar 15, 2027",7:00p,Toronto Raptors,TOR,,Philadelphia 76ers,PHI,,,,,,,Xfinity Mobile Arena,,2027,march,2027-03-15,False
+"Mon, Mar 15, 2027",7:30p,Indiana Pacers,IND,,Brooklyn Nets,BRK,,,,,,,Barclays Center,,2027,march,2027-03-15,False
+"Mon, Mar 15, 2027",8:00p,Orlando Magic,ORL,,Chicago Bulls,CHI,,,,,,,United Center,,2027,march,2027-03-15,False
+"Mon, Mar 15, 2027",8:00p,Phoenix Suns,PHO,,Memphis Grizzlies,MEM,,,,,,,FedExForum,,2027,march,2027-03-15,False
+"Mon, Mar 15, 2027",9:30p,Atlanta Hawks,ATL,,Dallas Mavericks,DAL,,,,,,,American Airlines Center,,2027,march,2027-03-15,False
+"Tue, Mar 16, 2027",7:00p,New York Knicks,NYK,,Washington Wizards,WAS,,,,,,,Capital One Arena,,2027,march,2027-03-16,False
+"Tue, Mar 16, 2027",7:30p,Sacramento Kings,SAC,,Boston Celtics,BOS,,,,,,,TD Garden,,2027,march,2027-03-16,False
+"Tue, Mar 16, 2027",8:00p,Detroit Pistons,DET,,Indiana Pacers,IND,,,,,,,Gainbridge Fieldhouse,,2027,march,2027-03-16,False
+"Tue, Mar 16, 2027",8:00p,Orlando Magic,ORL,,Milwaukee Bucks,MIL,,,,,,,Fiserv Forum,,2027,march,2027-03-16,False
+"Tue, Mar 16, 2027",8:00p,Minnesota Timberwolves,MIN,,New Orleans Pelicans,NOP,,,,,,,Smoothie King Center,,2027,march,2027-03-16,False
+"Tue, Mar 16, 2027",8:00p,Charlotte Hornets,CHO,,Oklahoma City Thunder,OKC,,,,,,,Paycom Center,,2027,march,2027-03-16,False
+"Tue, Mar 16, 2027",8:30p,San Antonio Spurs,SAS,,Houston Rockets,HOU,,,,,,,Toyota Center,,2027,march,2027-03-16,False
+"Tue, Mar 16, 2027",10:00p,Cleveland Cavaliers,CLE,,Golden State Warriors,GSW,,,,,,,Chase Center,,2027,march,2027-03-16,False
+"Tue, Mar 16, 2027",10:00p,Los Angeles Lakers,LAL,,Portland Trail Blazers,POR,,,,,,,Moda Center,,2027,march,2027-03-16,False
+"Tue, Mar 16, 2027",11:00p,Denver Nuggets,DEN,,Los Angeles Clippers,LAC,,,,,,,Intuit Dome,,2027,march,2027-03-16,False
+"Wed, Mar 17, 2027",7:00p,Chicago Bulls,CHI,,Philadelphia 76ers,PHI,,,,,,,Xfinity Mobile Arena,,2027,march,2027-03-17,False
+"Wed, Mar 17, 2027",7:30p,Sacramento Kings,SAC,,New York Knicks,NYK,,,,,,,Madison Square Garden (IV),,2027,march,2027-03-17,False
+"Wed, Mar 17, 2027",7:30p,Dallas Mavericks,DAL,,Oklahoma City Thunder,OKC,,,,,,,Paycom Center,,2027,march,2027-03-17,False
+"Wed, Mar 17, 2027",8:30p,Brooklyn Nets,BRK,,Houston Rockets,HOU,,,,,,,Toyota Center,,2027,march,2027-03-17,False
+"Wed, Mar 17, 2027",9:00p,Atlanta Hawks,ATL,,Utah Jazz,UTA,,,,,,,Delta Center,,2027,march,2027-03-17,False
+"Wed, Mar 17, 2027",10:00p,Memphis Grizzlies,MEM,,Golden State Warriors,GSW,,,,,,,Chase Center,,2027,march,2027-03-17,False
+"Wed, Mar 17, 2027",10:00p,Phoenix Suns,PHO,,Los Angeles Lakers,LAL,,,,,,,Crypto.com Arena,,2027,march,2027-03-17,False
+"Wed, Mar 17, 2027",10:00p,Miami Heat,MIA,,Portland Trail Blazers,POR,,,,,,,Moda Center,,2027,march,2027-03-17,False
+"Thu, Mar 18, 2027",7:00p,Toronto Raptors,TOR,,Indiana Pacers,IND,,,,,,,Gainbridge Fieldhouse,,2027,march,2027-03-18,False
+"Thu, Mar 18, 2027",7:00p,Philadelphia 76ers,PHI,,Washington Wizards,WAS,,,,,,,Capital One Arena,,2027,march,2027-03-18,False
+"Thu, Mar 18, 2027",7:30p,Orlando Magic,ORL,,Boston Celtics,BOS,,,,,,,TD Garden,,2027,march,2027-03-18,False
+"Thu, Mar 18, 2027",8:00p,Detroit Pistons,DET,,Milwaukee Bucks,MIL,,,,,,,Fiserv Forum,,2027,march,2027-03-18,False
+"Thu, Mar 18, 2027",8:00p,Charlotte Hornets,CHO,,New Orleans Pelicans,NOP,,,,,,,Smoothie King Center,,2027,march,2027-03-18,False
+"Thu, Mar 18, 2027",8:00p,Brooklyn Nets,BRK,,San Antonio Spurs,SAS,,,,,,,Frost Bank Center,,2027,march,2027-03-18,False
+"Thu, Mar 18, 2027",9:00p,Cleveland Cavaliers,CLE,,Denver Nuggets,DEN,,,,,,,Ball Arena,,2027,march,2027-03-18,False
+"Thu, Mar 18, 2027",9:00p,Minnesota Timberwolves,MIN,,Utah Jazz,UTA,,,,,,,Delta Center,,2027,march,2027-03-18,False
+"Thu, Mar 18, 2027",10:30p,Memphis Grizzlies,MEM,,Los Angeles Clippers,LAC,,,,,,,Intuit Dome,,2027,march,2027-03-18,False
+"Fri, Mar 19, 2027",7:30p,Sacramento Kings,SAC,,Toronto Raptors,TOR,,,,,,,Scotiabank Arena,,2027,march,2027-03-19,False
+"Fri, Mar 19, 2027",8:00p,Houston Rockets,HOU,,New Orleans Pelicans,NOP,,,,,,,Smoothie King Center,,2027,march,2027-03-19,False
+"Fri, Mar 19, 2027",8:00p,Dallas Mavericks,DAL,,San Antonio Spurs,SAS,,,,,,,Frost Bank Center,,2027,march,2027-03-19,False
+"Fri, Mar 19, 2027",10:00p,Portland Trail Blazers,POR,,Golden State Warriors,GSW,,,,,,,Chase Center,,2027,march,2027-03-19,False
+"Fri, Mar 19, 2027",10:00p,Atlanta Hawks,ATL,,Los Angeles Lakers,LAL,,,,,,,Crypto.com Arena,,2027,march,2027-03-19,False
+"Fri, Mar 19, 2027",10:30p,Miami Heat,MIA,,Phoenix Suns,PHO,,,,,,,Mortgage Matchup Center,,2027,march,2027-03-19,False
+"Sat, Mar 20, 2027",1:00p,Washington Wizards,WAS,,New York Knicks,NYK,,,,,,,Madison Square Garden (IV),,2027,march,2027-03-20,False
+"Sat, Mar 20, 2027",7:00p,Denver Nuggets,DEN,,Orlando Magic,ORL,,,,,,,Kia Center,,2027,march,2027-03-20,False
+"Sat, Mar 20, 2027",7:30p,Chicago Bulls,CHI,,Cleveland Cavaliers,CLE,,,,,,,Rocket Arena,,2027,march,2027-03-20,False
+"Sat, Mar 20, 2027",8:00p,Charlotte Hornets,CHO,,Detroit Pistons,DET,,,,,,,Little Caesars Arena,,2027,march,2027-03-20,False
+"Sat, Mar 20, 2027",8:00p,Oklahoma City Thunder,OKC,,Memphis Grizzlies,MEM,,,,,,,FedExForum,,2027,march,2027-03-20,False
+"Sat, Mar 20, 2027",8:00p,Indiana Pacers,IND,,Milwaukee Bucks,MIL,,,,,,,Fiserv Forum,,2027,march,2027-03-20,False
+"Sat, Mar 20, 2027",10:30p,Atlanta Hawks,ATL,,Los Angeles Clippers,LAC,,,,,,,Intuit Dome,,2027,march,2027-03-20,False
+"Sun, Mar 21, 2027",3:00p,New Orleans Pelicans,NOP,,Boston Celtics,BOS,,,,,,,TD Garden,,2027,march,2027-03-21,False
+"Sun, Mar 21, 2027",3:00p,Sacramento Kings,SAC,,Brooklyn Nets,BRK,,,,,,,Barclays Center,,2027,march,2027-03-21,False
+"Sun, Mar 21, 2027",5:00p,Portland Trail Blazers,POR,,Phoenix Suns,PHO,,,,,,,Mortgage Matchup Center,,2027,march,2027-03-21,False
+"Sun, Mar 21, 2027",5:00p,Toronto Raptors,TOR,,Utah Jazz,UTA,,,,,,,Delta Center,,2027,march,2027-03-21,False
+"Sun, Mar 21, 2027",6:00p,Denver Nuggets,DEN,,Miami Heat,MIA,,,,,,,Kaseya Center,,2027,march,2027-03-21,False
+"Sun, Mar 21, 2027",7:30p,San Antonio Spurs,SAS,,Philadelphia 76ers,PHI,,,,,,,Xfinity Mobile Arena,,2027,march,2027-03-21,False
+"Sun, Mar 21, 2027",10:00p,Dallas Mavericks,DAL,,Los Angeles Lakers,LAL,,,,,,,Crypto.com Arena,,2027,march,2027-03-21,False
+"Mon, Mar 22, 2027",7:00p,Houston Rockets,HOU,,Cleveland Cavaliers,CLE,,,,,,,Rocket Arena,,2027,march,2027-03-22,False
+"Mon, Mar 22, 2027",7:00p,Indiana Pacers,IND,,Orlando Magic,ORL,,,,,,,Kia Center,,2027,march,2027-03-22,False
+"Mon, Mar 22, 2027",8:00p,Sacramento Kings,SAC,,Chicago Bulls,CHI,,,,,,,United Center,,2027,march,2027-03-22,False
+"Mon, Mar 22, 2027",8:00p,Charlotte Hornets,CHO,,Memphis Grizzlies,MEM,,,,,,,FedExForum,,2027,march,2027-03-22,False
+"Mon, Mar 22, 2027",8:00p,Washington Wizards,WAS,,Milwaukee Bucks,MIL,,,,,,,Fiserv Forum,,2027,march,2027-03-22,False
+"Mon, Mar 22, 2027",9:30p,Detroit Pistons,DET,,Minnesota Timberwolves,MIN,,,,,,,Target Center,,2027,march,2027-03-22,False
+"Mon, Mar 22, 2027",10:00p,Atlanta Hawks,ATL,,Golden State Warriors,GSW,,,,,,,Chase Center,,2027,march,2027-03-22,False
+"Mon, Mar 22, 2027",10:30p,Dallas Mavericks,DAL,,Los Angeles Clippers,LAC,,,,,,,Intuit Dome,,2027,march,2027-03-22,False
+"Tue, Mar 23, 2027",7:30p,Boston Celtics,BOS,,Brooklyn Nets,BRK,,,,,,,Barclays Center,,2027,march,2027-03-23,False
+"Tue, Mar 23, 2027",7:30p,New Orleans Pelicans,NOP,,New York Knicks,NYK,,,,,,,Madison Square Garden (IV),,2027,march,2027-03-23,False
+"Tue, Mar 23, 2027",8:00p,Los Angeles Lakers,LAL,,Miami Heat,MIA,,,,,,,Kaseya Center,,2027,march,2027-03-23,False
+"Tue, Mar 23, 2027",9:00p,Philadelphia 76ers,PHI,,Utah Jazz,UTA,,,,,,,Delta Center,,2027,march,2027-03-23,False
+"Tue, Mar 23, 2027",10:00p,Toronto Raptors,TOR,,Portland Trail Blazers,POR,,,,,,,Moda Center,,2027,march,2027-03-23,False
+"Tue, Mar 23, 2027",11:00p,Oklahoma City Thunder,OKC,,Phoenix Suns,PHO,,,,,,,Mortgage Matchup Center,,2027,march,2027-03-23,False
+"Wed, Mar 24, 2027",7:00p,Detroit Pistons,DET,,Charlotte Hornets,CHO,,,,,,,Spectrum Center,,2027,march,2027-03-24,False
+"Wed, Mar 24, 2027",7:00p,Memphis Grizzlies,MEM,,Indiana Pacers,IND,,,,,,,Gainbridge Fieldhouse,,2027,march,2027-03-24,False
+"Wed, Mar 24, 2027",7:00p,Denver Nuggets,DEN,,Washington Wizards,WAS,,,,,,,Capital One Arena,,2027,march,2027-03-24,False
+"Wed, Mar 24, 2027",7:30p,San Antonio Spurs,SAS,,Boston Celtics,BOS,,,,,,,TD Garden,,2027,march,2027-03-24,False
+"Wed, Mar 24, 2027",7:30p,Houston Rockets,HOU,,New York Knicks,NYK,,,,,,,Madison Square Garden (IV),,2027,march,2027-03-24,False
+"Wed, Mar 24, 2027",8:00p,Orlando Magic,ORL,,Chicago Bulls,CHI,,,,,,,United Center,,2027,march,2027-03-24,False
+"Wed, Mar 24, 2027",8:00p,Dallas Mavericks,DAL,,Minnesota Timberwolves,MIN,,,,,,,Target Center,,2027,march,2027-03-24,False
+"Wed, Mar 24, 2027",10:00p,Philadelphia 76ers,PHI,,Golden State Warriors,GSW,,,,,,,Chase Center,,2027,march,2027-03-24,False
+"Wed, Mar 24, 2027",10:00p,Oklahoma City Thunder,OKC,,Phoenix Suns,PHO,,,,,,,Mortgage Matchup Center,,2027,march,2027-03-24,False
+"Wed, Mar 24, 2027",10:00p,Atlanta Hawks,ATL,,Sacramento Kings,SAC,,,,,,,Golden 1 Center,,2027,march,2027-03-24,False
+"Wed, Mar 24, 2027",10:30p,Milwaukee Bucks,MIL,,Los Angeles Clippers,LAC,,,,,,,Intuit Dome,,2027,march,2027-03-24,False
+"Thu, Mar 25, 2027",7:00p,Los Angeles Lakers,LAL,,Cleveland Cavaliers,CLE,,,,,,,Rocket Arena,,2027,march,2027-03-25,False
+"Thu, Mar 25, 2027",7:00p,Houston Rockets,HOU,,Detroit Pistons,DET,,,,,,,Little Caesars Arena,,2027,march,2027-03-25,False
+"Thu, Mar 25, 2027",7:00p,San Antonio Spurs,SAS,,Indiana Pacers,IND,,,,,,,Gainbridge Fieldhouse,,2027,march,2027-03-25,False
+"Thu, Mar 25, 2027",7:30p,Denver Nuggets,DEN,,Brooklyn Nets,BRK,,,,,,,Barclays Center,,2027,march,2027-03-25,False
+"Thu, Mar 25, 2027",7:30p,Utah Jazz,UTA,,Miami Heat,MIA,,,,,,,Kaseya Center,,2027,march,2027-03-25,False
+"Thu, Mar 25, 2027",8:00p,Chicago Bulls,CHI,,Memphis Grizzlies,MEM,,,,,,,FedExForum,,2027,march,2027-03-25,False
+"Thu, Mar 25, 2027",10:00p,Toronto Raptors,TOR,,Golden State Warriors,GSW,,,,,,,Chase Center,,2027,march,2027-03-25,False
+"Fri, Mar 26, 2027",7:00p,New York Knicks,NYK,,Charlotte Hornets,CHO,,,,,,,Spectrum Center,,2027,march,2027-03-26,False
+"Fri, Mar 26, 2027",8:00p,New Orleans Pelicans,NOP,,Dallas Mavericks,DAL,,,,,,,American Airlines Center,,2027,march,2027-03-26,False
+"Fri, Mar 26, 2027",8:00p,Orlando Magic,ORL,,Minnesota Timberwolves,MIN,,,,,,,Target Center,,2027,march,2027-03-26,False
+"Fri, Mar 26, 2027",8:00p,Los Angeles Clippers,LAC,,Oklahoma City Thunder,OKC,,,,,,,Paycom Center,,2027,march,2027-03-26,False
+"Fri, Mar 26, 2027",10:00p,Milwaukee Bucks,MIL,,Phoenix Suns,PHO,,,,,,,Mortgage Matchup Center,,2027,march,2027-03-26,False
+"Fri, Mar 26, 2027",10:00p,Philadelphia 76ers,PHI,,Portland Trail Blazers,POR,,,,,,,Moda Center,,2027,march,2027-03-26,False
+"Sat, Mar 27, 2027",3:00p,San Antonio Spurs,SAS,,Detroit Pistons,DET,,,,,,,Little Caesars Arena,,2027,march,2027-03-27,False
+"Sat, Mar 27, 2027",7:00p,Utah Jazz,UTA,,Atlanta Hawks,ATL,,,,,,,State Farm Arena,,2027,march,2027-03-27,False
+"Sat, Mar 27, 2027",7:00p,Golden State Warriors,GSW,,Washington Wizards,WAS,,,,,,,Capital One Arena,,2027,march,2027-03-27,False
+"Sat, Mar 27, 2027",8:00p,Los Angeles Clippers,LAC,,Chicago Bulls,CHI,,,,,,,United Center,,2027,march,2027-03-27,False
+"Sat, Mar 27, 2027",8:00p,Boston Celtics,BOS,,Miami Heat,MIA,,,,,,,Kaseya Center,,2027,march,2027-03-27,False
+"Sat, Mar 27, 2027",10:00p,Milwaukee Bucks,MIL,,Portland Trail Blazers,POR,,,,,,,Moda Center,,2027,march,2027-03-27,False
+"Sat, Mar 27, 2027",10:00p,Toronto Raptors,TOR,,Sacramento Kings,SAC,,,,,,,Golden 1 Center,,2027,march,2027-03-27,False
+"Sun, Mar 28, 2027",12:30p,New York Knicks,NYK,,Orlando Magic,ORL,,,,,,,Kia Center,,2027,march,2027-03-28,False
+"Sun, Mar 28, 2027",3:00p,Memphis Grizzlies,MEM,,Brooklyn Nets,BRK,,,,,,,Barclays Center,,2027,march,2027-03-28,False
+"Sun, Mar 28, 2027",3:00p,Los Angeles Lakers,LAL,,Houston Rockets,HOU,,,,,,,Toyota Center,,2027,march,2027-03-28,False
+"Sun, Mar 28, 2027",6:00p,Utah Jazz,UTA,,Charlotte Hornets,CHO,,,,,,,Spectrum Center,,2027,march,2027-03-28,False
+"Sun, Mar 28, 2027",6:00p,Dallas Mavericks,DAL,,Washington Wizards,WAS,,,,,,,Capital One Arena,,2027,march,2027-03-28,False
+"Sun, Mar 28, 2027",7:00p,Boston Celtics,BOS,,New Orleans Pelicans,NOP,,,,,,,Smoothie King Center,,2027,march,2027-03-28,False
+"Sun, Mar 28, 2027",7:30p,Oklahoma City Thunder,OKC,,Minnesota Timberwolves,MIN,,,,,,,Target Center,,2027,march,2027-03-28,False
+"Sun, Mar 28, 2027",9:00p,Toronto Raptors,TOR,,Phoenix Suns,PHO,,,,,,,Mortgage Matchup Center,,2027,march,2027-03-28,False
+"Sun, Mar 28, 2027",10:00p,Philadelphia 76ers,PHI,,Denver Nuggets,DEN,,,,,,,Ball Arena,,2027,march,2027-03-28,False
+"Mon, Mar 29, 2027",7:00p,Minnesota Timberwolves,MIN,,Atlanta Hawks,ATL,,,,,,,State Farm Arena,,2027,march,2027-03-29,False
+"Mon, Mar 29, 2027",7:00p,Miami Heat,MIA,,Cleveland Cavaliers,CLE,,,,,,,Rocket Arena,,2027,march,2027-03-29,False
+"Mon, Mar 29, 2027",7:00p,Los Angeles Clippers,LAC,,Detroit Pistons,DET,,,,,,,Little Caesars Arena,,2027,march,2027-03-29,False
+"Mon, Mar 29, 2027",7:30p,Golden State Warriors,GSW,,Brooklyn Nets,BRK,,,,,,,Barclays Center,,2027,march,2027-03-29,False
+"Mon, Mar 29, 2027",8:00p,Indiana Pacers,IND,,Chicago Bulls,CHI,,,,,,,United Center,,2027,march,2027-03-29,False
+"Mon, Mar 29, 2027",8:00p,Dallas Mavericks,DAL,,Milwaukee Bucks,MIL,,,,,,,Fiserv Forum,,2027,march,2027-03-29,False
+"Mon, Mar 29, 2027",9:30p,Phoenix Suns,PHO,,San Antonio Spurs,SAS,,,,,,,Frost Bank Center,,2027,march,2027-03-29,False
+"Mon, Mar 29, 2027",10:00p,Denver Nuggets,DEN,,Sacramento Kings,SAC,,,,,,,Golden 1 Center,,2027,march,2027-03-29,False
+"Tue, Mar 30, 2027",7:00p,Miami Heat,MIA,,Charlotte Hornets,CHO,,,,,,,Spectrum Center,,2027,march,2027-03-30,False
+"Tue, Mar 30, 2027",8:00p,Boston Celtics,BOS,,Indiana Pacers,IND,,,,,,,Gainbridge Fieldhouse,,2027,march,2027-03-30,False
+"Tue, Mar 30, 2027",8:00p,Los Angeles Lakers,LAL,,Memphis Grizzlies,MEM,,,,,,,FedExForum,,2027,march,2027-03-30,False
+"Tue, Mar 30, 2027",8:00p,New York Knicks,NYK,,Orlando Magic,ORL,,,,,,,Kia Center,,2027,march,2027-03-30,False
+"Tue, Mar 30, 2027",9:00p,Oklahoma City Thunder,OKC,,Utah Jazz,UTA,,,,,,,Delta Center,,2027,march,2027-03-30,False
+"Tue, Mar 30, 2027",11:00p,Houston Rockets,HOU,,Portland Trail Blazers,POR,,,,,,,Moda Center,,2027,march,2027-03-30,False
+"Wed, Mar 31, 2027",7:00p,Los Angeles Clippers,LAC,,Atlanta Hawks,ATL,,,,,,,State Farm Arena,,2027,march,2027-03-31,False
+"Wed, Mar 31, 2027",7:00p,Toronto Raptors,TOR,,Detroit Pistons,DET,,,,,,,Little Caesars Arena,,2027,march,2027-03-31,False
+"Wed, Mar 31, 2027",7:00p,Golden State Warriors,GSW,,Philadelphia 76ers,PHI,,,,,,,Xfinity Mobile Arena,,2027,march,2027-03-31,False
+"Wed, Mar 31, 2027",7:00p,Chicago Bulls,CHI,,Washington Wizards,WAS,,,,,,,Capital One Arena,,2027,march,2027-03-31,False
+"Wed, Mar 31, 2027",7:30p,Cleveland Cavaliers,CLE,,Brooklyn Nets,BRK,,,,,,,Barclays Center,,2027,march,2027-03-31,False
+"Wed, Mar 31, 2027",8:00p,New Orleans Pelicans,NOP,,Milwaukee Bucks,MIL,,,,,,,Fiserv Forum,,2027,march,2027-03-31,False
+"Wed, Mar 31, 2027",8:00p,Sacramento Kings,SAC,,Minnesota Timberwolves,MIN,,,,,,,Target Center,,2027,march,2027-03-31,False
+"Wed, Mar 31, 2027",8:00p,Phoenix Suns,PHO,,San Antonio Spurs,SAS,,,,,,,Frost Bank Center,,2027,march,2027-03-31,False
+"Wed, Mar 31, 2027",9:30p,Denver Nuggets,DEN,,Dallas Mavericks,DAL,,,,,,,American Airlines Center,,2027,march,2027-03-31,False
+"Wed, Mar 31, 2027",10:00p,Houston Rockets,HOU,,Portland Trail Blazers,POR,,,,,,,Moda Center,,2027,march,2027-03-31,False
+"Thu, Apr 1, 2027",7:00p,Orlando Magic,ORL,,Indiana Pacers,IND,,,,,,,Gainbridge Fieldhouse,,2027,april,2027-04-01,False
+"Thu, Apr 1, 2027",7:00p,Boston Celtics,BOS,,Cleveland Cavaliers,CLE,,,,,,,Rocket Arena,,2027,april,2027-04-01,False
+"Thu, Apr 1, 2027",7:30p,Charlotte Hornets,CHO,,New York Knicks,NYK,,,,,,,Madison Square Garden (IV),,2027,april,2027-04-01,False
+"Thu, Apr 1, 2027",9:30p,Los Angeles Lakers,LAL,,Oklahoma City Thunder,OKC,,,,,,,Paycom Center,,2027,april,2027-04-01,False
+"Fri, Apr 2, 2027",7:00p,Philadelphia 76ers,PHI,,Washington Wizards,WAS,,,,,,,Capital One Arena,,2027,april,2027-04-02,False
+"Fri, Apr 2, 2027",7:30p,Miami Heat,MIA,,Boston Celtics,BOS,,,,,,,TD Garden,,2027,april,2027-04-02,False
+"Fri, Apr 2, 2027",7:30p,New York Knicks,NYK,,Brooklyn Nets,BRK,,,,,,,Barclays Center,,2027,april,2027-04-02,False
+"Fri, Apr 2, 2027",7:30p,Golden State Warriors,GSW,,Minnesota Timberwolves,MIN,,,,,,,Target Center,,2027,april,2027-04-02,False
+"Fri, Apr 2, 2027",8:00p,Detroit Pistons,DET,,Chicago Bulls,CHI,,,,,,,United Center,,2027,april,2027-04-02,False
+"Fri, Apr 2, 2027",8:00p,Sacramento Kings,SAC,,Dallas Mavericks,DAL,,,,,,,American Airlines Center,,2027,april,2027-04-02,False
+"Fri, Apr 2, 2027",8:00p,Charlotte Hornets,CHO,,Milwaukee Bucks,MIL,,,,,,,Fiserv Forum,,2027,april,2027-04-02,False
+"Fri, Apr 2, 2027",8:30p,Atlanta Hawks,ATL,,Toronto Raptors,TOR,,,,,,,Scotiabank Arena,,2027,april,2027-04-02,False
+"Fri, Apr 2, 2027",8:30p,Memphis Grizzlies,MEM,,Houston Rockets,HOU,,,,,,,Toyota Center,,2027,april,2027-04-02,False
+"Fri, Apr 2, 2027",10:00p,Denver Nuggets,DEN,,Phoenix Suns,PHO,,,,,,,Mortgage Matchup Center,,2027,april,2027-04-02,False
+"Fri, Apr 2, 2027",10:00p,Utah Jazz,UTA,,Portland Trail Blazers,POR,,,,,,,Moda Center,,2027,april,2027-04-02,False
+"Fri, Apr 2, 2027",10:30p,San Antonio Spurs,SAS,,Los Angeles Clippers,LAC,,,,,,,Intuit Dome,,2027,april,2027-04-02,False
+"Sat, Apr 3, 2027",5:00p,New Orleans Pelicans,NOP,,Oklahoma City Thunder,OKC,,,,,,,Paycom Center,,2027,april,2027-04-03,False
+"Sat, Apr 3, 2027",7:00p,Washington Wizards,WAS,,Orlando Magic,ORL,,,,,,,Kia Center,,2027,april,2027-04-03,False
+"Sun, Apr 4, 2027",1:00p,Atlanta Hawks,ATL,,Philadelphia 76ers,PHI,,,,,,,Xfinity Mobile Arena,,2027,april,2027-04-04,False
+"Sun, Apr 4, 2027",2:00p,Brooklyn Nets,BRK,,Milwaukee Bucks,MIL,,,,,,,Fiserv Forum,,2027,april,2027-04-04,False
+"Sun, Apr 4, 2027",3:00p,Charlotte Hornets,CHO,,Cleveland Cavaliers,CLE,,,,,,,Rocket Arena,,2027,april,2027-04-04,False
+"Sun, Apr 4, 2027",3:00p,Minnesota Timberwolves,MIN,,Dallas Mavericks,DAL,,,,,,,American Airlines Center,,2027,april,2027-04-04,False
+"Sun, Apr 4, 2027",3:00p,Miami Heat,MIA,,Detroit Pistons,DET,,,,,,,Little Caesars Arena,,2027,april,2027-04-04,False
+"Sun, Apr 4, 2027",3:30p,Indiana Pacers,IND,,Toronto Raptors,TOR,,,,,,,Scotiabank Arena,,2027,april,2027-04-04,False
+"Sun, Apr 4, 2027",4:00p,Chicago Bulls,CHI,,Houston Rockets,HOU,,,,,,,Toyota Center,,2027,april,2027-04-04,False
+"Sun, Apr 4, 2027",4:30p,Phoenix Suns,PHO,,Los Angeles Clippers,LAC,,,,,,,Intuit Dome,,2027,april,2027-04-04,False
+"Sun, Apr 4, 2027",5:00p,Memphis Grizzlies,MEM,,Denver Nuggets,DEN,,,,,,,Ball Arena,,2027,april,2027-04-04,False
+"Sun, Apr 4, 2027",5:00p,Portland Trail Blazers,POR,,Utah Jazz,UTA,,,,,,,Delta Center,,2027,april,2027-04-04,False
+"Sun, Apr 4, 2027",6:00p,Golden State Warriors,GSW,,Sacramento Kings,SAC,,,,,,,Golden 1 Center,,2027,april,2027-04-04,False
+"Sun, Apr 4, 2027",7:30p,Boston Celtics,BOS,,New York Knicks,NYK,,,,,,,Madison Square Garden (IV),,2027,april,2027-04-04,False
+"Sun, Apr 4, 2027",10:00p,San Antonio Spurs,SAS,,Los Angeles Lakers,LAL,,,,,,,Crypto.com Arena,,2027,april,2027-04-04,False
+"Mon, Apr 5, 2027",7:00p,Brooklyn Nets,BRK,,Cleveland Cavaliers,CLE,,,,,,,Rocket Arena,,2027,april,2027-04-05,False
+"Mon, Apr 5, 2027",7:00p,Miami Heat,MIA,,Orlando Magic,ORL,,,,,,,Kia Center,,2027,april,2027-04-05,False
+"Mon, Apr 5, 2027",8:00p,Washington Wizards,WAS,,New Orleans Pelicans,NOP,,,,,,,Smoothie King Center,,2027,april,2027-04-05,False
+"Tue, Apr 6, 2027",7:00p,Indiana Pacers,IND,,Charlotte Hornets,CHO,,,,,,,Spectrum Center,,2027,april,2027-04-06,False
+"Tue, Apr 6, 2027",7:30p,Philadelphia 76ers,PHI,,Toronto Raptors,TOR,,,,,,,Scotiabank Arena,,2027,april,2027-04-06,False
+"Tue, Apr 6, 2027",8:00p,New York Knicks,NYK,,Atlanta Hawks,ATL,,,,,,,State Farm Arena,,2027,april,2027-04-06,False
+"Tue, Apr 6, 2027",8:00p,Sacramento Kings,SAC,,San Antonio Spurs,SAS,,,,,,,Frost Bank Center,,2027,april,2027-04-06,False
+"Tue, Apr 6, 2027",8:00p,Chicago Bulls,CHI,,Milwaukee Bucks,MIL,,,,,,,Fiserv Forum,,2027,april,2027-04-06,False
+"Tue, Apr 6, 2027",8:00p,Detroit Pistons,DET,,Memphis Grizzlies,MEM,,,,,,,FedExForum,,2027,april,2027-04-06,False
+"Tue, Apr 6, 2027",9:00p,Oklahoma City Thunder,OKC,,Utah Jazz,UTA,,,,,,,Delta Center,,2027,april,2027-04-06,False
+"Tue, Apr 6, 2027",9:00p,New Orleans Pelicans,NOP,,Denver Nuggets,DEN,,,,,,,Ball Arena,,2027,april,2027-04-06,False
+"Tue, Apr 6, 2027",10:00p,Dallas Mavericks,DAL,,Los Angeles Lakers,LAL,,,,,,,Crypto.com Arena,,2027,april,2027-04-06,False
+"Tue, Apr 6, 2027",10:30p,Minnesota Timberwolves,MIN,,Los Angeles Clippers,LAC,,,,,,,Intuit Dome,,2027,april,2027-04-06,False
+"Tue, Apr 6, 2027",11:00p,Phoenix Suns,PHO,,Golden State Warriors,GSW,,,,,,,Chase Center,,2027,april,2027-04-06,False
+"Wed, Apr 7, 2027",7:00p,Indiana Pacers,IND,,Detroit Pistons,DET,,,,,,,Little Caesars Arena,,2027,april,2027-04-07,False
+"Wed, Apr 7, 2027",7:00p,Boston Celtics,BOS,,Orlando Magic,ORL,,,,,,,Kia Center,,2027,april,2027-04-07,False
+"Wed, Apr 7, 2027",7:30p,Cleveland Cavaliers,CLE,,San Antonio Spurs,SAS,,,,,,,Frost Bank Center,,2027,april,2027-04-07,False
+"Wed, Apr 7, 2027",7:30p,Brooklyn Nets,BRK,,Toronto Raptors,TOR,,,,,,,Scotiabank Arena,,2027,april,2027-04-07,False
+"Wed, Apr 7, 2027",8:00p,Charlotte Hornets,CHO,,Chicago Bulls,CHI,,,,,,,United Center,,2027,april,2027-04-07,False
+"Wed, Apr 7, 2027",8:00p,Washington Wizards,WAS,,Memphis Grizzlies,MEM,,,,,,,FedExForum,,2027,april,2027-04-07,False
+"Wed, Apr 7, 2027",8:30p,Sacramento Kings,SAC,,Houston Rockets,HOU,,,,,,,Toyota Center,,2027,april,2027-04-07,False
+"Wed, Apr 7, 2027",10:00p,Minnesota Timberwolves,MIN,,Los Angeles Lakers,LAL,,,,,,,Crypto.com Arena,,2027,april,2027-04-07,False
+"Wed, Apr 7, 2027",10:00p,Dallas Mavericks,DAL,,Portland Trail Blazers,POR,,,,,,,Moda Center,,2027,april,2027-04-07,False
+"Thu, Apr 8, 2027",7:00p,Philadelphia 76ers,PHI,,Miami Heat,MIA,,,,,,,Kaseya Center,,2027,april,2027-04-08,False
+"Thu, Apr 8, 2027",8:00p,New York Knicks,NYK,,Milwaukee Bucks,MIL,,,,,,,Fiserv Forum,,2027,april,2027-04-08,False
+"Thu, Apr 8, 2027",9:00p,New Orleans Pelicans,NOP,,Utah Jazz,UTA,,,,,,,Delta Center,,2027,april,2027-04-08,False
+"Thu, Apr 8, 2027",9:00p,Los Angeles Clippers,LAC,,Denver Nuggets,DEN,,,,,,,Ball Arena,,2027,april,2027-04-08,False
+"Thu, Apr 8, 2027",9:30p,Golden State Warriors,GSW,,Oklahoma City Thunder,OKC,,,,,,,Paycom Center,,2027,april,2027-04-08,False
+"Fri, Apr 9, 2027",7:00p,Boston Celtics,BOS,,Atlanta Hawks,ATL,,,,,,,State Farm Arena,,2027,april,2027-04-09,False
+"Fri, Apr 9, 2027",7:00p,Brooklyn Nets,BRK,,Charlotte Hornets,CHO,,,,,,,Spectrum Center,,2027,april,2027-04-09,False
+"Fri, Apr 9, 2027",7:00p,Cleveland Cavaliers,CLE,,Indiana Pacers,IND,,,,,,,Gainbridge Fieldhouse,,2027,april,2027-04-09,False
+"Fri, Apr 9, 2027",7:00p,Detroit Pistons,DET,,New York Knicks,NYK,,,,,,,Madison Square Garden (IV),,2027,april,2027-04-09,False
+"Fri, Apr 9, 2027",7:00p,Toronto Raptors,TOR,,Orlando Magic,ORL,,,,,,,Kia Center,,2027,april,2027-04-09,False
+"Fri, Apr 9, 2027",8:00p,Milwaukee Bucks,MIL,,Chicago Bulls,CHI,,,,,,,United Center,,2027,april,2027-04-09,False
+"Fri, Apr 9, 2027",8:00p,Washington Wizards,WAS,,Miami Heat,MIA,,,,,,,Kaseya Center,,2027,april,2027-04-09,False
+"Fri, Apr 9, 2027",8:00p,Golden State Warriors,GSW,,Oklahoma City Thunder,OKC,,,,,,,Paycom Center,,2027,april,2027-04-09,False
+"Fri, Apr 9, 2027",8:30p,Portland Trail Blazers,POR,,Houston Rockets,HOU,,,,,,,Toyota Center,,2027,april,2027-04-09,False
+"Fri, Apr 9, 2027",9:30p,Los Angeles Clippers,LAC,,Utah Jazz,UTA,,,,,,,Delta Center,,2027,april,2027-04-09,False
+"Fri, Apr 9, 2027",9:30p,Denver Nuggets,DEN,,San Antonio Spurs,SAS,,,,,,,Frost Bank Center,,2027,april,2027-04-09,False
+"Fri, Apr 9, 2027",10:00p,Minnesota Timberwolves,MIN,,Los Angeles Lakers,LAL,,,,,,,Crypto.com Arena,,2027,april,2027-04-09,False
+"Fri, Apr 9, 2027",10:00p,Memphis Grizzlies,MEM,,Phoenix Suns,PHO,,,,,,,Mortgage Matchup Center,,2027,april,2027-04-09,False
+"Fri, Apr 9, 2027",10:00p,Dallas Mavericks,DAL,,Sacramento Kings,SAC,,,,,,,Golden 1 Center,,2027,april,2027-04-09,False
+"Sun, Apr 11, 2027",6:00p,Detroit Pistons,DET,,Washington Wizards,WAS,,,,,,,Capital One Arena,,2027,april,2027-04-11,False
+"Sun, Apr 11, 2027",6:00p,Charlotte Hornets,CHO,,Philadelphia 76ers,PHI,,,,,,,Xfinity Mobile Arena,,2027,april,2027-04-11,False
+"Sun, Apr 11, 2027",6:00p,Indiana Pacers,IND,,New York Knicks,NYK,,,,,,,Madison Square Garden (IV),,2027,april,2027-04-11,False
+"Sun, Apr 11, 2027",6:00p,Chicago Bulls,CHI,,New Orleans Pelicans,NOP,,,,,,,Smoothie King Center,,2027,april,2027-04-11,False
+"Sun, Apr 11, 2027",6:00p,Orlando Magic,ORL,,Miami Heat,MIA,,,,,,,Kaseya Center,,2027,april,2027-04-11,False
+"Sun, Apr 11, 2027",6:00p,Atlanta Hawks,ATL,,Cleveland Cavaliers,CLE,,,,,,,Rocket Arena,,2027,april,2027-04-11,False
+"Sun, Apr 11, 2027",6:00p,Toronto Raptors,TOR,,Brooklyn Nets,BRK,,,,,,,Barclays Center,,2027,april,2027-04-11,False
+"Sun, Apr 11, 2027",6:00p,Milwaukee Bucks,MIL,,Boston Celtics,BOS,,,,,,,TD Garden,,2027,april,2027-04-11,False
+"Sun, Apr 11, 2027",8:30p,Utah Jazz,UTA,,Golden State Warriors,GSW,,,,,,,Chase Center,,2027,april,2027-04-11,False
+"Sun, Apr 11, 2027",8:30p,Sacramento Kings,SAC,,Los Angeles Clippers,LAC,,,,,,,Intuit Dome,,2027,april,2027-04-11,False
+"Sun, Apr 11, 2027",8:30p,Phoenix Suns,PHO,,Los Angeles Lakers,LAL,,,,,,,Crypto.com Arena,,2027,april,2027-04-11,False
+"Sun, Apr 11, 2027",8:30p,Oklahoma City Thunder,OKC,,Denver Nuggets,DEN,,,,,,,Ball Arena,,2027,april,2027-04-11,False
+"Sun, Apr 11, 2027",8:30p,Houston Rockets,HOU,,Minnesota Timberwolves,MIN,,,,,,,Target Center,,2027,april,2027-04-11,False
+"Sun, Apr 11, 2027",8:30p,Memphis Grizzlies,MEM,,Dallas Mavericks,DAL,,,,,,,American Airlines Center,,2027,april,2027-04-11,False
+"Sun, Apr 11, 2027",8:30p,Portland Trail Blazers,POR,,San Antonio Spurs,SAS,,,,,,,Frost Bank Center,,2027,april,2027-04-11,False
