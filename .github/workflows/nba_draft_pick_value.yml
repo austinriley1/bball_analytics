@@ -30,7 +30,7 @@ jobs:
           DNT_API_KEY: ${{ secrets.DNT_API_KEY }} 
           SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }} 
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }} 
-        run: python NBA_draft_pick_value_model_sim.py
+        run: python NBA_draft_pick_value_model/NBA_draft_pick_value_model_sim.py
         shell: bash
 
       # - name: Commit changes in data folder
