@@ -39,10 +39,10 @@ def clean_name(s):
     s = SUFFIX_RE.sub('', s.strip())
     return s.strip()
 #LOAD TEAM DIM
-team_dim = pd.read_csv('team_dim.csv')
+team_dim = pd.read_csv('NBA_draft_pick_value_model/team_dim.csv')
 
 #LOAD ADVANCED STATS TO GET PLAYER EXP
-advanced_historical_df = pd.read_csv('NBA_advanced_stats_2000-2026.csv')
+advanced_historical_df = pd.read_csv('NBA_draft_pick_value_model/NBA_advanced_stats_2000-2026.csv')
 player_exp = advanced_historical_df.groupby('name_display').agg(first_season=('season','min')).reset_index()
 player_exp['exp'] = 2027 - player_exp['first_season']
 player_exp['name_display'] = player_exp['name_display'].apply(clean_name).str.lower().str.replace(".", "", regex=False)
@@ -67,7 +67,7 @@ epm = epm[['season', 'team_alias', 'player_name', 'oepm', 'depm', 'epm']]
 epm['player_name'] = epm['player_name'].apply(clean_name).str.lower().str.replace(".", "", regex=False)
 epm[epm['player_name'].str.contains('green')]
 #CONCAT HISTORICAL EPM WITH CURRENT
-epm_historical = pd.read_csv('player_season_epm_2010-26')
+epm_historical = pd.read_csv('NBA_draft_pick_value_model/player_season_epm_2010-26')
 epm_historical = epm_historical[['season', 'team_alias', 'player_name', 'off', 'def', 'tot']]
 epm_historical = epm_historical.rename(columns={'off':'oepm','def':'depm','tot':'epm'})
 epm = pd.concat([epm,epm_historical[epm_historical['season'].astype(int) >= 2024]],ignore_index=True)
@@ -445,7 +445,7 @@ roster_mpg.loc[roster_mpg['player'] == 'ronald holland','player'] = 'ron holland
 roster_mpg
 
 roster_mpg['player'] = roster_mpg['player'].apply(clean_name)
-player_totals = pd.read_csv('NBA_player_totals_2000-2026.csv')
+player_totals = pd.read_csv('NBA_draft_pick_value_model/NBA_player_totals_2000-2026.csv')
 player_totals['name_display'] = (
     player_totals['name_display'].apply(clean_name).str.lower().str.replace('.', '', regex=False)
 )
@@ -855,9 +855,9 @@ teams_done_w_season['sim_no'] = np.nan
 teams_done_w_season = teams_done_w_season[['team_abbr','sim_no','w','l']]
 teams_done_w_season = teams_done_w_season.rename(columns={'w':'wins','l':'losses'})
 current_records
-draft_pick_value = pd.read_csv('draft_pick_no_value.csv')
-team_rating_data_new = pd.read_csv('NBA_team_rating_data_2000-2026.csv')
-nba_drafts = pd.read_csv('NBA_draft_classes_2016-2026.csv')
+draft_pick_value = pd.read_csv('NBA_draft_pick_value_model/draft_pick_no_value.csv')
+team_rating_data_new = pd.read_csv('NBA_draft_pick_value_model/NBA_team_rating_data_2000-2026.csv')
+nba_drafts = pd.read_csv('NBA_draft_pick_value_model/NBA_draft_classes_2016-2026.csv')
 nba_drafts = nba_drafts[nba_drafts['draft_year'] >= 2025]
 nba_draft_history = nba_drafts[['team_id','pick_overall','draft_year']].drop_duplicates()
 nba_draft_history.loc[nba_draft_history['team_id'] == 'BRK', 'team_id'] = 'BKN'
@@ -866,7 +866,7 @@ nba_draft_history.loc[nba_draft_history['team_id'] == 'PHO', 'team_id'] = 'PHX'
 first_pick_26 = nba_draft_history[(nba_draft_history['draft_year'] == 2026) & (nba_draft_history['pick_overall'] == 1)]['team_id']
 top_five_25_26 = pd.merge(nba_draft_history[(nba_draft_history['draft_year'] == 2026) & (nba_draft_history['pick_overall'] <= 5)],nba_draft_history[(nba_draft_history['draft_year'] == 2025) & (nba_draft_history['pick_overall'] <= 5)], how='inner',on='team_id')['team_id']
 draft_pick_value
-lottery_balls = pd.read_csv('NBA Draft Lottery Pick Value - New Lottery Balls.csv')
+lottery_balls = pd.read_csv('NBA_draft_pick_value_model/NBA Draft Lottery Pick Value - New Lottery Balls.csv')
 lottery_balls.head()
 # ============================================================
 # SEASON SIMULATION
@@ -1131,7 +1131,7 @@ mean_simmed_record = most_common_pick_value.groupby(['team_abbr','season','round
 # mean_simmed_record['league_rk'] = mean_simmed_record.groupby('season')['w/l'].rank(ascending=False, method="first")
 # mean_simmed_record['league_draft_rk'] = mean_simmed_record.groupby('season')['w/l'].rank(ascending=True, method="first")
 mean_simmed_record
-team_draft_picks = pd.read_csv('NBA Draft Lottery Pick Value - NBA_team_draft_picks.csv')
+team_draft_picks = pd.read_csv('NBA_draft_pick_value_model/NBA Draft Lottery Pick Value - NBA_team_draft_picks.csv')
 owned_draft_pick_value = pd.merge(team_draft_picks,mean_simmed_record,how='left',right_on=['team_abbr','season','round'],left_on=['originating_team','year','round'])
 owned_draft_pick_value.loc[(owned_draft_pick_value['year'] >= 2030) & (owned_draft_pick_value['round'] == 1),'weighted_value'] = 3.382987
 owned_draft_pick_value.loc[(owned_draft_pick_value['year'] >= 2030) & (owned_draft_pick_value['round'] == 2),'weighted_value'] = 3.108334
