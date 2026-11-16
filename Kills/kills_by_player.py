@@ -26,8 +26,8 @@ from supabase import create_client, Client
 # Load environment variables from .env file
 load_dotenv()
 
-df = pd.read_parquet('/Users/austinriley/bball_analytics/2026-27_NBA_regular_season_pbp.parquet')
-box_score_full_df = pd.read_parquet('/Users/austinriley/bball_analytics/NBA_player_box_scores_2026-27.parquet')
+df = pd.read_parquet('2026-27_NBA_regular_season_pbp.parquet')
+box_score_full_df = pd.read_parquet('NBA_player_box_scores_2026-27.parquet')
 
 box_score_full_df['Name'] = box_score_full_df['firstName'] + ' ' + box_score_full_df['familyName']
 playernames = box_score_full_df['Name'].drop_duplicates()
