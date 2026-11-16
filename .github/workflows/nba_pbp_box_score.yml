@@ -1,4 +1,4 @@
-name: Simulate NBA Draft Pick Value
+name: Call NBA API for pbp and box scores
 
 on:
   workflow_dispatch:
