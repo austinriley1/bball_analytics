@@ -13,7 +13,7 @@ from requests import Response
 from bs4 import BeautifulSoup
 import joblib
 import requests
-from datetime import date
+from datetime import date, datetime
 clf = joblib.load("NBA_draft_pick_value_model/win_pred_model.joblib")
 import os
 from dotenv import load_dotenv
@@ -1130,7 +1130,9 @@ most_common_pick_value['weighted_value'] = most_common_pick_value['value'] * mos
 mean_simmed_record = most_common_pick_value.groupby(['team_abbr','season','round']).agg({'weighted_value':'sum'}).reset_index()
 # mean_simmed_record['league_rk'] = mean_simmed_record.groupby('season')['w/l'].rank(ascending=False, method="first")
 # mean_simmed_record['league_draft_rk'] = mean_simmed_record.groupby('season')['w/l'].rank(ascending=True, method="first")
-mean_simmed_record
+
+today = datetime.today().strftime('%Y-%m-%d')
+
 team_draft_picks = pd.read_csv('NBA_draft_pick_value_model/NBA Draft Lottery Pick Value - NBA_team_draft_picks.csv')
 owned_draft_pick_value = pd.merge(team_draft_picks,mean_simmed_record,how='left',right_on=['team_abbr','season','round'],left_on=['originating_team','year','round'])
 owned_draft_pick_value.loc[(owned_draft_pick_value['year'] >= 2030) & (owned_draft_pick_value['round'] == 1),'weighted_value'] = 3.382987
@@ -1145,8 +1147,9 @@ owned_draft_pick_value.rename(columns={'weighted_value':'value'},inplace=True)
 owned_draft_pick_value['value'] = owned_draft_pick_value['value'].round(2)
 owned_draft_pick_value['% of league value'] = (owned_draft_pick_value['value'] * 1.000 / owned_draft_pick_value['value'].sum()) * 100
 owned_draft_pick_value = owned_draft_pick_value.rename(columns={'originating_team':'originating team','rights_holder':'rights holder'})
-owned_draft_pick_value.to_csv('NBA_modeled_draft_pick_value.csv')
-owned_draft_pick_value
+owned_draft_pick_value['date'] = today
+owned_draft_pick_value.to_csv(f'daily_log/NBA_modeled_draft_pick_value_{today}.csv')
+
 # LOAD DATA TO SUPABASE
 
 url: str = os.environ.get("SUPABASE_URL")
