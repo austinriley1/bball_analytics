@@ -13,7 +13,7 @@ from requests import Response
 from bs4 import BeautifulSoup
 import joblib
 import requests
-from datetime import date
+from datetime import date, datetime
 clf = joblib.load("NBA_draft_pick_value_model/win_pred_model.joblib")
 import os
 from dotenv import load_dotenv
