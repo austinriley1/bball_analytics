@@ -3,3 +3,4 @@ python-dotenv
 supabase
 requests
 curl_cffi
+isodate
