@@ -1158,7 +1158,7 @@ key: str = os.environ.get("SUPABASE_KEY")
 # Initialize the client
 supabase: Client = create_client(url, key)
 
-records = owned_draft_pick_value.to_dict(orient="records")
+records = owned_draft_pick_value.loc[:, owned_draft_pick_value.columns != 'date'].to_dict(orient="records")
 
 # Bulk load to Supabase
 response = (
