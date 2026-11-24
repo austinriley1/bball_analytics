@@ -1148,7 +1148,7 @@ owned_draft_pick_value['value'] = owned_draft_pick_value['value'].round(2)
 owned_draft_pick_value['% of league value'] = (owned_draft_pick_value['value'] * 1.000 / owned_draft_pick_value['value'].sum()) * 100
 owned_draft_pick_value = owned_draft_pick_value.rename(columns={'originating_team':'originating team','rights_holder':'rights holder'})
 owned_draft_pick_value['date'] = today
-owned_draft_pick_value.to_csv(f'daily_log/NBA_modeled_draft_pick_value_{today}.csv')
+owned_draft_pick_value.to_csv(f'NBA_draft_pick_value_model/daily_log/NBA_modeled_draft_pick_value_{today}.csv')
 
 # LOAD DATA TO SUPABASE
 
